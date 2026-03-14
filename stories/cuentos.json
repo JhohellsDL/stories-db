@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "El conejo y la luna",
+    "categoria": "Aventura",
+    "contenido": "Había una vez un pequeño conejo que soñaba con tocar la luna. Cada noche se sentaba en una colina y miraba hacia el cielo estrellado. Una noche mágica, la luna bajó hasta él y compartieron historias de aventuras...",
+    "imagen": "https://images.unsplash.com/photo-1585399543038-1c32f6c2a2fa",
+    "fechaCreacion": "2026-03-01"
+  },
+  {
+    "id": 2,
+    "titulo": "La princesa perdida",
+    "categoria": "Fantasía",
+    "contenido": "En un reino lejano, una princesa fue encantada y olvidó su identidad. Viajó por bosques encantados en busca de respuestas, encontrando amigos mágicos en el camino que la ayudarían a recuperar su memoria...",
+    "imagen": "https://images.unsplash.com/photo-1507842072343-583f20270319",
+    "fechaCreacion": "2026-03-05"
+  },
+  {
+    "id": 3,
+    "titulo": "El viaje del corazón",
+    "categoria": "Drama",
+    "contenido": "Un joven viaja a través de sus emociones, aprendiendo que cada sentimiento, incluso los dolorosos, tienen un propósito. A través de su viaje descubre la importancia del amor, la perdón y la aceptación...",
+    "imagen": "https://images.unsplash.com/photo-1507842072343-583f20270319",
+    "fechaCreacion": "2026-03-10"
+  }
+]
