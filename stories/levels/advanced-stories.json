@@ -1,0 +1,66 @@
+{
+    "version_db": 1,
+    "stories": [
+        {
+            "id": "story_001",
+            "title": "El Laberinto de las Sombras",
+            "category": "Aventura",
+            "description": "En el corazón de la ciudad existe un laberinto antiguo donde las sombras parecen tener voluntad propia.",
+            "image_path": "images/story_03_001.jpg",
+            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_001.jpg",
+            "reading_time": "10 min",
+            "content": "En el corazón de la ciudad, escondido entre edificios antiguos y calles estrechas, existe un lugar del que casi nadie habla: el Laberinto de las Sombras.\n\nA simple vista parece un jardín abandonado rodeado de muros de piedra oscura. Pero quienes han intentado atravesarlo saben que no es un laberinto común.\n\nLas paredes son demasiado altas para ver el cielo con claridad, y los pasillos parecen cambiar de dirección cuando uno deja de mirarlos.\n\nAdrián había escuchado historias sobre ese lugar desde pequeño. Decían que el laberinto no solo confundía a quienes entraban, sino que también revelaba aquello que cada persona llevaba escondido en su interior.\n\nUna tarde gris de otoño, decidió comprobar si las historias eran reales.\n\nAl cruzar la entrada, el ruido de la ciudad desapareció de inmediato. No había autos, ni voces, ni viento. Solo silencio.\n\nLas sombras proyectadas por los muros se extendían por el suelo como si fueran caminos propios. Algunas parecían moverse lentamente, como si respiraran.\n\nAdrián avanzó con cautela. Cada giro del pasillo lo llevaba a otro corredor idéntico al anterior. Sin embargo, tenía la extraña sensación de que el laberinto lo estaba observando.\n\nEntonces ocurrió algo imposible.\n\nUna de las sombras del suelo se separó de la pared y se deslizó frente a él, como si quisiera mostrarle el camino.\n\nAdrián comprendió en ese instante que el laberinto no estaba hecho solo de piedra.\n\nTambién estaba hecho de secretos.",
+            "questions": [
+                {
+                    "id": "p1",
+                    "question": "¿Dónde se encontraba el Laberinto de las Sombras?",
+                    "options": [
+                        "En un bosque lejano",
+                        "En el centro de la ciudad",
+                        "En una montaña abandonada",
+                        "Debajo de una biblioteca"
+                    ],
+                    "correct_answer": 1,
+                    "points": 10
+                },
+                {
+                    "id": "p2",
+                    "question": "¿Qué ocurrió cuando Adrián cruzó la entrada del laberinto?",
+                    "options": [
+                        "El ruido de la ciudad desapareció",
+                        "Las paredes comenzaron a moverse",
+                        "El cielo se oscureció completamente",
+                        "Aparecieron otras personas"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p3",
+                    "question": "¿Qué tenía de extraño el comportamiento de las sombras?",
+                    "options": [
+                        "Eran más oscuras que la noche",
+                        "Se movían como si estuvieran vivas",
+                        "Desaparecían al tocarlas",
+                        "Brillaban en la oscuridad"
+                    ],
+                    "correct_answer": 1,
+                    "points": 10
+                },
+                {
+                    "id": "p4",
+                    "question": "¿Qué comprendió Adrián al final de la historia?",
+                    "options": [
+                        "Que el laberinto estaba vacío",
+                        "Que las sombras eran peligrosas",
+                        "Que el laberinto estaba hecho también de secretos",
+                        "Que debía abandonar el lugar inmediatamente"
+                    ],
+                    "correct_answer": 2,
+                    "points": 10
+                }
+            ],
+            "total_points": 40
+        }
+    ]
+}

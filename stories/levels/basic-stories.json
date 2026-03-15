@@ -1,0 +1,66 @@
+{
+    "version_db": 1,
+    "stories": [
+        {
+            "id": "cuento_001",
+            "title": "El Último Guardián del Bosque",
+            "category": "Aventura",
+            "description": "Mateo descubre que los árboles de su ciudad están desapareciendo misteriosamente, y solo él puede descubrir la verdad.",
+            "image_path": "images/story_01_001.jpg",
+            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.jpg",
+            "reading_time": "8 min",
+            "content": "El día que Mateo cumplió doce años, el árbol más viejo del parque desapareció.\n\nNo fue talado. No fue arrancado. Simplemente, una mañana estaba ahí, y al mediodía no quedaba ni la sombra. Solo un círculo de tierra oscura donde antes vivían las raíces.\n\nSu abuela decía que los árboles viejos guardaban memorias. Que si uno ponía la oreja contra la corteza en silencio, podía escuchar voces del pasado.\n\nMateo nunca le creyó. Hasta esa tarde.\n\nCuando se acercó al círculo vacío, escuchó algo. Un zumbido bajo, casi imperceptible, que venía de la tierra. Se arrodilló y puso la palma sobre el suelo.\n\nFue como tocar un cable de alta tensión.\n\nImágenes, sonidos, nombres. El árbol no había desaparecido. Lo habían movido. Y alguien en su ciudad sabía exactamente a dónde.",
+            "questions": [
+                {
+                    "id": "p1",
+                    "question": "¿Qué edad cumplió Mateo el día que comenzó la historia?",
+                    "options": [
+                        "Once años",
+                        "Doce años",
+                        "Trece años",
+                        "Catorce años"
+                    ],
+                    "correct_answer": 1,
+                    "points": 10
+                },
+                {
+                    "id": "p2",
+                    "question": "¿Qué le decía la abuela de Mateo sobre los árboles viejos?",
+                    "options": [
+                        "Que eran peligrosos",
+                        "Que daban mala suerte",
+                        "Que guardaban memorias",
+                        "Que hablaban por las noches"
+                    ],
+                    "correct_answer": 2,
+                    "points": 10
+                },
+                {
+                    "id": "p3",
+                    "question": "¿Qué descubrió Mateo al tocar el suelo donde estaba el árbol?",
+                    "options": [
+                        "Que el árbol fue talado",
+                        "Que el árbol fue quemado",
+                        "Que el árbol fue robado y alguien sabía dónde estaba",
+                        "Que el árbol se hundió bajo tierra"
+                    ],
+                    "correct_answer": 2,
+                    "points": 10
+                },
+                {
+                    "id": "p4",
+                    "question": "¿Cómo describió Mateo la sensación de tocar el suelo?",
+                    "options": [
+                        "Como tocar hielo",
+                        "Como tocar un cable de alta tensión",
+                        "Como sumergir la mano en agua fría",
+                        "Como nada especial"
+                    ],
+                    "correct_answer": 1,
+                    "points": 10
+                }
+            ],
+            "total_points": 40
+        }
+    ]
+}

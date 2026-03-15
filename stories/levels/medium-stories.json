@@ -1,0 +1,66 @@
+{
+    "version_db": 1,
+    "stories": [
+        {
+            "id": "story_001",
+            "title": "La Biblioteca de las Puertas Secretas",
+            "category": "Fantasía",
+            "description": "Clara encuentra una biblioteca donde cada libro es una puerta hacia otro mundo.",
+            "image_path": "images/story_02_001.jpg",
+            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_001.jpg",
+            "reading_time": "7 min",
+            "content": "Clara siempre pensó que las bibliotecas eran lugares silenciosos. Hasta que encontró la puerta detrás del estante de enciclopedias.\n\nEl libro que tomó esa tarde estaba tibio, como si alguien lo hubiera dejado al sol.\n\nCuando lo abrió, no vio páginas.\n\nVio un camino.\n\nUn bosque dorado se extendía al otro lado del papel.\n\nY una voz susurró: \"Bienvenida, viajera\".",
+            "questions": [
+                {
+                    "id": "p1",
+                    "question": "¿Qué descubrió Clara al abrir el libro?",
+                    "options": [
+                        "Un camino",
+                        "Un bosque",
+                        "Un río",
+                        "Un castillo"
+                    ],
+                    "correct_answer": 1,
+                    "points": 10
+                },
+                {
+                    "id": "p2",
+                    "question": "¿Qué le dijo la voz al abrir el libro?",
+                    "options": [
+                        "Bienvenida, viajera",
+                        "Bienvenida, viajero",
+                        "Bienvenida, viajante",
+                        "Bienvenida, viajero"
+                    ],
+                    "correct_answer": 2,
+                    "points": 10
+                },
+                {
+                    "id": "p3",
+                    "question": "¿Qué hizo Clara al entrar al bosque?",
+                    "options": [
+                        "Camina hacia el centro del bosque",
+                        "Se esconde detrás de un árbol",
+                        "Se queda quieto y observa",
+                        "Se marcha rápidamente"
+                    ],
+                    "correct_answer": 2,
+                    "points": 10
+                },
+                {
+                    "id": "p4",
+                    "question": "¿Qué hizo Clara al salir del bosque?",
+                    "options": [
+                        "Regresa a la biblioteca",
+                        "Se queda en el bosque",
+                        "Se marcha rápidamente",
+                        "Se queda quieto y observa"
+                    ],
+                    "correct_answer": 1,
+                    "points": 10
+                }
+            ],
+            "total_points": 40
+        }
+    ]
+}
