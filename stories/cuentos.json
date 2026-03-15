@@ -1,26 +1,60 @@
-[
-  {
-    "id": 1,
-    "titulo": "El conejo y la luna",
-    "categoria": "Aventura",
-    "contenido": "Había una vez un pequeño conejo que soñaba con tocar la luna. Cada noche se sentaba en una colina y miraba hacia el cielo estrellado. Una noche mágica, la luna bajó hasta él y compartieron historias de aventuras...",
-    "imagen": "https://images.unsplash.com/photo-1585399543038-1c32f6c2a2fa",
-    "fechaCreacion": "2026-03-01"
-  },
-  {
-    "id": 2,
-    "titulo": "La princesa perdida",
-    "categoria": "Fantasía",
-    "contenido": "En un reino lejano, una princesa fue encantada y olvidó su identidad. Viajó por bosques encantados en busca de respuestas, encontrando amigos mágicos en el camino que la ayudarían a recuperar su memoria...",
-    "imagen": "https://images.unsplash.com/photo-1507842072343-583f20270319",
-    "fechaCreacion": "2026-03-05"
-  },
-  {
-    "id": 3,
-    "titulo": "El viaje del corazón",
-    "categoria": "Drama",
-    "contenido": "Un joven viaja a través de sus emociones, aprendiendo que cada sentimiento, incluso los dolorosos, tienen un propósito. A través de su viaje descubre la importancia del amor, la perdón y la aceptación...",
-    "imagen": "https://images.unsplash.com/photo-1507842072343-583f20270319",
-    "fechaCreacion": "2026-03-10"
-  }
-]
+{
+  "version": 1,
+  "cuentos": [
+    {
+      "id": "cuento_001",
+      "titulo": "El Último Guardián del Bosque",
+      "categoria": "Aventura",
+      "descripcion": "Mateo descubre que los árboles de su ciudad están desapareciendo misteriosamente, y solo él puede descubrir la verdad.",
+      "imagen": "",
+      "tiempo_lectura": "8 min",
+      "contenido": "El día que Mateo cumplió doce años, el árbol más viejo del parque desapareció.\n\nNo fue talado. No fue arrancado. Simplemente, una mañana estaba ahí, y al mediodía no quedaba ni la sombra. Solo un círculo de tierra oscura donde antes vivían las raíces.\n\nSu abuela decía que los árboles viejos guardaban memorias. Que si uno ponía la oreja contra la corteza en silencio, podía escuchar voces del pasado.\n\nMateo nunca le creyó. Hasta esa tarde.\n\nCuando se acercó al círculo vacío, escuchó algo. Un zumbido bajo, casi imperceptible, que venía de la tierra. Se arrodilló y puso la palma sobre el suelo.\n\nFue como tocar un cable de alta tensión.\n\nImágenes, sonidos, nombres. El árbol no había desaparecido. Lo habían movido. Y alguien en su ciudad sabía exactamente a dónde.",
+      "preguntas": [
+        {
+          "id": "p1",
+          "pregunta": "¿Qué edad cumplió Mateo el día que comenzó la historia?",
+          "opciones": ["Once años", "Doce años", "Trece años", "Catorce años"],
+          "respuesta_correcta": 1,
+          "puntos": 10
+        },
+        {
+          "id": "p2",
+          "pregunta": "¿Qué le decía la abuela de Mateo sobre los árboles viejos?",
+          "opciones": [
+            "Que eran peligrosos",
+            "Que daban mala suerte",
+            "Que guardaban memorias",
+            "Que hablaban por las noches"
+          ],
+          "respuesta_correcta": 2,
+          "puntos": 10
+        },
+        {
+          "id": "p3",
+          "pregunta": "¿Qué descubrió Mateo al tocar el suelo donde estaba el árbol?",
+          "opciones": [
+            "Que el árbol fue talado",
+            "Que el árbol fue quemado",
+            "Que el árbol fue robado y alguien sabía dónde estaba",
+            "Que el árbol se hundió bajo tierra"
+          ],
+          "respuesta_correcta": 2,
+          "puntos": 10
+        },
+        {
+          "id": "p4",
+          "pregunta": "¿Cómo describió Mateo la sensación de tocar el suelo?",
+          "opciones": [
+            "Como tocar hielo",
+            "Como tocar un cable de alta tensión",
+            "Como sumergir la mano en agua fría",
+            "Como nada especial"
+          ],
+          "respuesta_correcta": 1,
+          "puntos": 10
+        }
+      ],
+      "puntos_totales": 40
+    }
+  ]
+}
