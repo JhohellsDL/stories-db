@@ -1,26 +1,26 @@
 {
-  "version_db": 1,
-  "levels": {
-    "level_1": {
+  "version_db": 2,
+  "levels": [
+    {
       "label": "Básico",
       "emoji": "🌱",
       "description": "Cuentos cortos y vocabulario sencillo",
       "path": "stories/levels/basic-stories.json",
       "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/basic-stories.json"
     },
-    "level_2": {
+    {
       "label": "Medio",
       "emoji": "🔥",
       "description": "Narrativas más elaboradas",
       "path": "stories/levels/medium-stories.json",
       "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/medium-stories.json"
     },
-    "level_3": {
+    {
       "label": "Avanzado",
       "emoji": "⚡",
       "description": "Textos complejos y vocabulario rico",
       "path": "stories/levels/advanced-stories.json",
       "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/advanced-stories.json"
     }
-  }
+  ]
 }

@@ -1,8 +1,81 @@
 {
-    "version_db": 1,
+    "version_db": 2,
     "stories": [
         {
             "id": "story_001",
+            "title": "La memoria de las estrellas",
+            "category": "CIENCIA FICCIÓN",
+            "description": "Un joven técnico explora una estación espacial y comienza a cuestionar la naturaleza de sus propios recuerdos.",
+            "image_path": "images/story_03_009.jpg",
+            "image_url": "",
+            "reading_time": "4 min",
+            "content": "La estación orbital Kepler-9 giraba en silencio alrededor de un planeta azul oscuro, como si custodiara un secreto demasiado pesado para caer.\n\nIzan revisaba por tercera vez el panel de memorias. Las luces verdes parpadeaban con una regularidad casi hipnótica, pero una de ellas, la número siete, emitía un pulso irregular.\n\n—Otra vez tú —murmuró.\n\nNo era la primera vez que ese módulo fallaba. Sin embargo, cada vez que lo hacía, Izan tenía la extraña sensación de recordar algo que nunca había vivido.\n\nUn destello: una playa de arena negra, el sonido de olas rompiendo, una voz llamándolo por su nombre.\n\nParpadeó.\n\n—No es real —se dijo.\n\nLa comandante Lira apareció detrás de él sin hacer ruido.\n\n—¿Problemas otra vez?\n\nIzan dudó antes de responder.\n\n—El módulo siete sigue enviando señales inconsistentes.\n\nLira cruzó los brazos.\n\n—Desactívalo.\n\nLa orden fue clara, pero algo en la voz de Lira tenía un matiz extraño, como si ocultara una historia más larga.\n\n—¿Está seguro de que no deberíamos analizarlo primero?\n\nLira lo observó con detenimiento.\n\n—No todo necesita ser entendido para funcionar —respondió.\n\nEsa frase quedó suspendida en el aire, pesada como una órbita.\n\nHoras después, Izan regresó al panel. La estación estaba en ciclo nocturno y el resto de la tripulación dormía. Solo se escuchaba el leve zumbido de los sistemas vitales.\n\nEl módulo siete seguía activo.\n\nEn lugar de apagarlo, Izan conectó su interfaz neuronal.\n\nEl mundo desapareció.\n\nDe pronto, estaba de pie en la playa.\n\nLa arena negra crujía bajo sus pies. El cielo era rojo, como si el atardecer nunca terminara. Y la voz, esa voz…\n\n—Izan.\n\nSe giró.\n\nUna mujer lo observaba a pocos metros. Tenía los ojos claros y una expresión que mezclaba tristeza y esperanza.\n\n—Sabía que volverías —dijo.\n\n—¿Quién eres?\n\nElla sonrió con melancolía.\n\n—Eso depende de cuánto recuerdes.\n\nEl entorno tembló levemente.\n\n—Esto no es real —insistió Izan.\n\n—¿Y qué es lo real? —preguntó ella—. ¿Los pasillos metálicos de la estación? ¿Las órdenes que nunca cuestionas?\n\nIzan sintió un nudo en el pecho.\n\n—Eres un eco —dijo finalmente—. Un error del sistema.\n\nElla negó con la cabeza.\n\n—Soy un recuerdo que decidieron borrar.\n\nEl mar rugió con más fuerza.\n\n—¿Quiénes?\n\n—Ellos —respondió, señalando hacia el cielo.\n\nEl cielo rojo se fragmentó como un vidrio.\n\nIzan se desconectó abruptamente.\n\nDe vuelta en la estación, su respiración era agitada.\n\n—¿Qué hiciste?\n\nLira estaba frente a él.\n\n—Te dije que lo desactivaras.\n\nIzan la miró, confundido.\n\n—¿Quién es ella?\n\nLira guardó silencio durante unos segundos.\n\n—No deberías haber visto eso.\n\n—Entonces es real.\n\n—Fue real —corrigió Lira—. Antes de la reconfiguración.\n\nLa palabra quedó flotando, como una pieza fuera de lugar.\n\n—¿Reconfiguración?\n\nLira suspiró.\n\n—Hace dos años, la estación sufrió una falla crítica. Perdimos a parte de la tripulación… y algo más.\n\nIzan sintió que el suelo desaparecía bajo sus pies.\n\n—¿Y yo?\n\nLira no respondió de inmediato.\n\n—Tú también cambiaste.\n\nEl silencio se volvió insoportable.\n\n—¿Borraron mis recuerdos?\n\n—Los ajustamos —dijo Lira—. Era necesario para que pudieras seguir funcionando.\n\nIzan miró el módulo siete.\n\n—Pero algo quedó.\n\n—Siempre queda algo —admitió Lira.\n\nIzan recordó la playa, la voz, la mirada.\n\n—¿Quién era ella para mí?\n\nLira dudó.\n\n—Alguien importante.\n\nEsa respuesta, incompleta, pesó más que cualquier verdad.\n\nIzan extendió la mano hacia el panel.\n\n—Puedo recuperarlo.\n\n—O puedes perderte en ello —respondió Lira.\n\nAmbos sabían que no había una opción segura.\n\nEl módulo siete parpadeó de nuevo.\n\nComo un corazón que se niega a dejar de latir.\n\nIzan cerró los ojos.\n\nY por un instante, no supo si el recuerdo era suyo… o si él mismo era solo una reconstrucción imperfecta de alguien que ya no existía.",
+            "questions": [
+                {
+                    "id": "p1",
+                    "question": "¿Qué se puede inferir sobre la verdadera naturaleza del módulo siete?",
+                    "options": [
+                        "Contiene recuerdos suprimidos de la tripulación",
+                        "Es un sistema de navegación defectuoso",
+                        "Controla la gravedad de la estación",
+                        "Es un generador de energía secundaria"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p2",
+                    "question": "¿Qué sugiere la respuesta ambigua de Lira sobre la mujer en la playa?",
+                    "options": [
+                        "Que era emocionalmente importante para Izan",
+                        "Que era una enemiga de la estación",
+                        "Que era un programa de entrenamiento",
+                        "Que era una desconocida sin relevancia"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p3",
+                    "question": "¿Cuál es el tema central del cuento?",
+                    "options": [
+                        "La identidad y la memoria como construcciones frágiles",
+                        "La exploración espacial como aventura peligrosa",
+                        "El funcionamiento técnico de estaciones orbitales",
+                        "La obediencia a la autoridad en entornos militares"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p4",
+                    "question": "En la frase \"como un corazón que se niega a dejar de latir\", ¿qué recurso literario se utiliza?",
+                    "options": [
+                        "Símil",
+                        "Hipérbole",
+                        "Ironía",
+                        "Anáfora"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p5",
+                    "question": "¿Por qué el final del cuento puede considerarse ambiguo?",
+                    "options": [
+                        "Porque no se confirma si Izan recuperará sus recuerdos o perderá su identidad",
+                        "Porque no se sabe si la estación explotará",
+                        "Porque no se revela el nombre del planeta",
+                        "Porque no se explica el origen del módulo"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                }
+            ],
+            "total_points": 50
+        },
+        {
+            "id": "story_002",
             "title": "El Laberinto de las Sombras",
             "category": "Aventura",
             "description": "En el corazón de la ciudad existe un laberinto antiguo donde las sombras parecen tener voluntad propia.",

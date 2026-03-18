@@ -1,8 +1,81 @@
 {
-    "version_db": 1,
+    "version_db": 2,
     "stories": [
         {
             "id": "story_001",
+            "title": "El reloj de la torre antigua",
+            "category": "MISTERIO",
+            "description": "Un adolescente curioso investiga un extraño sonido que proviene de una torre olvidada en su pueblo.",
+            "image_path": "images/story_02_008.jpg",
+            "image_url": "",
+            "reading_time": "3 min",
+            "content": "Tomás tenía quince años y una curiosidad que a veces le causaba problemas. Vivía en un pueblo pequeño donde casi nunca pasaba nada interesante. Sin embargo, había un lugar que siempre le había llamado la atención: una torre antigua de piedra gris, ubicada detrás de la plaza central.\n\nLa torre tenía un gran reloj que llevaba años detenido. Nadie sabía exactamente cuándo dejó de funcionar. Algunos decían que desde hacía más de veinte años. Otros, como la señora Marta, aseguraban que el reloj se había detenido justo a las seis y diez por alguna razón misteriosa.\n\nUna tarde de sábado, mientras Tomás caminaba con su amiga Clara, escuchó un sonido metálico proveniente de la torre. Era un \"tic... tac... tic... tac\" muy suave, pero constante.\n\n—¿Escuchaste eso? —preguntó Tomás.\n\nClara frunció el ceño y negó con la cabeza.\n\nTomás sintió un escalofrío. No era posible que el reloj funcionara de nuevo. Decidió acercarse más.\n\nAl día siguiente, regresó solo con una linterna, una libreta y un lápiz. La puerta de la torre estaba entreabierta, lo cual le pareció extraño. Empujó con cuidado y entró.\n\nDentro, el aire era frío y olía a polvo. Subió por una escalera en espiral que parecía interminable. A medida que avanzaba, el sonido del reloj se hacía más claro.\n\nCuando llegó arriba, vio algo inesperado. Un hombre mayor, con chaqueta marrón y gorra, estaba manipulando el mecanismo del reloj.\n\n—¿Quién eres? —preguntó Tomás, sorprendido.\n\nEl hombre lo miró con calma.\n\n—Me llamo Ernesto. Este reloj fue construido por mi abuelo.\n\nTomás observó las piezas metálicas y los engranajes que giraban lentamente.\n\n—Pero todos dicen que no funciona desde hace años.\n\nErnesto sonrió.\n\n—Eso creen. En realidad, yo vengo cada semana a darle cuerda. No dejo que se detenga del todo.\n\nTomás no entendía.\n\n—¿Por qué no lo arreglas completamente?\n\nEl hombre suspiró y miró el reloj.\n\n—Porque si vuelve a funcionar como antes, perderá su historia. Este sonido débil recuerda que aún sigue vivo.\n\nTomás guardó silencio. Nunca había pensado en algo así.\n\nDe pronto, un fuerte ruido sacudió la torre. Uno de los engranajes se soltó y cayó al suelo.\n\n—¡Cuidado! —gritó Ernesto.\n\nTomás retrocedió rápidamente. El reloj dejó de sonar.\n\nAmbos se miraron en silencio. El momento era tenso.\n\nErnesto tomó el engranaje y lo colocó de nuevo con manos firmes.\n\n—A veces, las cosas viejas necesitan ayuda —dijo.\n\nDespués de unos segundos, el \"tic... tac\" volvió, aún más suave que antes.\n\nTomás sonrió, aliviado.\n\nEsa tarde, bajó de la torre con una nueva idea en mente. No todo lo antiguo debía ser reemplazado. Algunas cosas valían la pena ser cuidadas, incluso si ya no eran perfectas.",
+            "questions": [
+                {
+                    "id": "p1",
+                    "question": "¿Qué escuchó Tomás por primera vez cerca de la torre?",
+                    "options": [
+                        "Un sonido de \"tic tac\" suave",
+                        "Un golpe fuerte",
+                        "Una voz llamándolo",
+                        "Un sonido de viento fuerte"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p2",
+                    "question": "¿Por qué Ernesto no arregla completamente el reloj?",
+                    "options": [
+                        "Porque quiere conservar su historia",
+                        "Porque no sabe cómo arreglarlo",
+                        "Porque no tiene herramientas",
+                        "Porque no le importa el reloj"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p3",
+                    "question": "¿Qué se puede inferir sobre Ernesto?",
+                    "options": [
+                        "Siente un vínculo emocional con el reloj",
+                        "Quiere vender el reloj",
+                        "Tiene miedo de la torre",
+                        "No le gusta el pueblo"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p4",
+                    "question": "¿Qué significa la palabra 'manipulando' en el contexto del cuento?",
+                    "options": [
+                        "Ajustando o moviendo con las manos",
+                        "Rompiendo sin cuidado",
+                        "Mirando sin tocar",
+                        "Escondiendo algo"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p5",
+                    "question": "¿Qué aprendizaje obtiene Tomás al final de la historia?",
+                    "options": [
+                        "Que algunas cosas antiguas deben cuidarse aunque no sean perfectas",
+                        "Que los relojes viejos son peligrosos",
+                        "Que no debe entrar a lugares cerrados",
+                        "Que es mejor evitar a los desconocidos"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                }
+            ],
+            "total_points": 50
+        },
+        {
+            "id": "story_002",
             "title": "La Biblioteca de las Puertas Secretas",
             "category": "Fantasía",
             "description": "Clara encuentra una biblioteca donde cada libro es una puerta hacia otro mundo.",

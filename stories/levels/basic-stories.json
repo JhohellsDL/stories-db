@@ -1,8 +1,81 @@
 {
-    "version_db": 1,
+    "version_db": 2,
     "stories": [
         {
-            "id": "cuento_001",
+            "id": "story_001",
+            "title": "Luna y la colina roja",
+            "category": "AVENTURA",
+            "description": "Una niña curiosa decide explorar un lugar cercano y descubre algo inesperado en el camino.",
+            "image_path": "images/story_01_007.jpg",
+            "image_url": "",
+            "reading_time": "2 min",
+            "content": "Luna era una niña de doce años que vivía en una casa azul al borde de un pequeño pueblo. Cada tarde miraba una colina roja que estaba a lo lejos.\n\nUn día, decidió subirla. Preparó una mochila verde con una botella de agua, dos panes y una linterna pequeña. Salió a las cuatro de la tarde, cuando el sol aún brillaba.\n\nEl camino era de tierra y tenía muchas piedras. Luna caminó despacio y contó diez árboles grandes en el camino. También vio un pájaro amarillo que cantaba fuerte.\n\nDespués de una hora, llegó a la mitad de la colina. Estaba cansada, pero decidió seguir. Pensó en lo feliz que sería al ver todo desde arriba.\n\nCuando llegó a la cima, el cielo estaba naranja. Luna vio su pueblo, su casa azul y un río brillante. Sonrió y se sentó en una roca.\n\nDe pronto, escuchó un sonido suave detrás de unas plantas. Se acercó con cuidado y encontró una caja de madera. Era pequeña y tenía una tapa suelta.\n\nLuna abrió la caja. Dentro había una brújula vieja y un papel doblado. El papel tenía un dibujo simple de la colina y una X en la cima.\n\nLuna entendió que alguien más había estado allí antes. Guardó la brújula en su mochila y dejó el papel en la caja.\n\nEl sol empezó a bajar y el cielo se volvió oscuro. Luna encendió su linterna y bajó con cuidado.\n\nLlegó a su casa a las siete de la noche. Estaba cansada, pero muy contenta. Esa noche, guardó la brújula en su mesa y pensó en su próxima aventura.",
+            "questions": [
+                {
+                    "id": "p1",
+                    "question": "¿Quién es el personaje principal del cuento?",
+                    "options": [
+                        "Luna",
+                        "Un pájaro",
+                        "El dueño de la caja",
+                        "La mamá de Luna"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p2",
+                    "question": "¿Qué llevó Luna en su mochila?",
+                    "options": [
+                        "Una botella de agua, dos panes y una linterna",
+                        "Solo comida",
+                        "Un mapa y ropa",
+                        "Juguetes y libros"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p3",
+                    "question": "¿Cuándo salió Luna hacia la colina?",
+                    "options": [
+                        "A las cuatro de la tarde",
+                        "Por la mañana temprano",
+                        "A medianoche",
+                        "Al mediodía"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p4",
+                    "question": "¿Dónde encontró Luna la caja de madera?",
+                    "options": [
+                        "En la cima de la colina",
+                        "En su casa",
+                        "En el río",
+                        "En el camino al inicio"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p5",
+                    "question": "¿Por qué Luna decidió subir la colina?",
+                    "options": [
+                        "Porque quería ver todo desde arriba",
+                        "Porque buscaba a un amigo",
+                        "Porque perdió su mochila",
+                        "Porque alguien se lo pidió"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                }
+            ],
+            "total_points": 50
+        },
+        {
+            "id": "story_002",
             "title": "El Último Guardián del Bosque",
             "category": "Aventura",
             "description": "Mateo descubre que los árboles de su ciudad están desapareciendo misteriosamente, y solo él puede descubrir la verdad.",
