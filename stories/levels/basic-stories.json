@@ -80,7 +80,7 @@
             "category": "Aventura",
             "description": "Mateo descubre que los árboles de su ciudad están desapareciendo misteriosamente, y solo él puede descubrir la verdad.",
             "image_path": "images/story_01_002.jpg",
-            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.jpg",
+            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.png",
             "reading_time": "8 min",
             "content": "El día que Mateo cumplió doce años, el árbol más viejo del parque desapareció.\n\nNo fue talado. No fue arrancado. Simplemente, una mañana estaba ahí, y al mediodía no quedaba ni la sombra. Solo un círculo de tierra oscura donde antes vivían las raíces.\n\nSu abuela decía que los árboles viejos guardaban memorias. Que si uno ponía la oreja contra la corteza en silencio, podía escuchar voces del pasado.\n\nMateo nunca le creyó. Hasta esa tarde.\n\nCuando se acercó al círculo vacío, escuchó algo. Un zumbido bajo, casi imperceptible, que venía de la tierra. Se arrodilló y puso la palma sobre el suelo.\n\nFue como tocar un cable de alta tensión.\n\nImágenes, sonidos, nombres. El árbol no había desaparecido. Lo habían movido. Y alguien en su ciudad sabía exactamente a dónde.",
             "questions": [
@@ -134,6 +134,84 @@
                 }
             ],
             "total_points": 40
+        },
+        {
+            "id": "story_003",
+            "title": "Riley y la aventura al dentista",
+            "category": "FAMILIA",
+            "description": "Una niña vive un día inesperado y descubre el valor del cuidado y el apoyo de su mamá.",
+            "image_path": "images/story_01_003.jpg",
+            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png",
+            "reading_time": "2 min",
+            "content": "Un día, Riley estaba viendo la televisión cuando apareció un comercial de unos súper dulces. Se le hizo agua la boca y corrió donde su mamá.\n\n—Mami, ¿me compras un chupetito? —le pidió con ojitos llenos de ilusión.\n\nSu mamá dudó un momento, pero al ver su carita, sonrió y aceptó.\n\nRiley estaba feliz, disfrutando su chupetito… hasta que, de pronto…\n\n—¡Cuaaas!\n\nLe dio una mordida fuerte y, sin querer, ¡se rompió un diente!\n\n—¡Mami, llévame al dentista! —dijo asustada, con los ojos llenos de lágrimas.\n\nSu mamá la abrazó de inmediato.\n\n—Tranquila, mi amor, yo estoy contigo. Vamos juntas —le dijo con voz suave.\n\nSalieron rápido, pero ese día había una huelga y no podían ir en carro. Tendrían que caminar.\n\n—Mami, llevemos un paraguas —dijo Riley.\n\nPero su mamá pensó que no sería necesario, y salieron sin él.\n\nMientras caminaban, el cielo se puso oscuro… y empezó a llover muy fuerte. En pocos minutos, estaban completamente mojadas.\n\nRiley miró a su mamá.\n\n—Te dije, mami…\n\nSu mamá la miró, sonrió con ternura y le dijo:\n\n—Sí, mi amor… pero ¿sabes qué? Aunque haya lluvia o problemas, siempre vamos a estar juntas.\n\nEntonces, para no sentirse tristes, comenzaron a saltar en los charcos, a chapotear y a reír. Lo que parecía un día difícil se convirtió en una pequeña aventura.\n\nAntes de llegar al dentista, tuvieron que comprar ropa seca para poder entrar.\n\nFinalmente, llegaron. El dentista revisó a Riley y le dijo con cariño:\n\n—Debes cuidar tus dientes y no comer tantos dulces, porque pueden hacerte daño.\n\nRiley miró a su mamá y asintió.\n\n—Sí, voy a cuidarlos.\n\nCuando salieron, la lluvia ya había pasado… y también la huelga. Todo estaba tranquilo otra vez.\n\nRiley tomó la mano de su mamá con fuerza.\n\n—Gracias por estar conmigo, mami.\n\nSu mamá la abrazó y le dijo:\n\n—Siempre voy a estar contigo, en los días bonitos y en los difíciles. Todo lo vamos a resolver juntas.\n\nY así, regresaron a casa, sanas y salvas, después de una aventura inesperada.\n\nDesde ese día, Riley aprendió que debe cuidar sus dientes, pero también algo aún más importante: que el amor de su mamá siempre la acompaña, incluso en los momentos difíciles, y que juntas pueden superar cualquier problema.",
+            "questions": [
+                {
+                    "id": "p1",
+                    "question": "¿Quién es la protagonista del cuento?",
+                    "options": [
+                        "Riley",
+                        "La mamá",
+                        "El dentista",
+                        "La vecina",
+                        "Ninguno de los anteriores"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p2",
+                    "question": "¿Qué le pasó a Riley al comer el chupetito?",
+                    "options": [
+                        "Se rompió un diente",
+                        "Se cayó al suelo",
+                        "Perdió su mochila",
+                        "Se ensució la ropa",
+                        "Ninguno de los anteriores"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p3",
+                    "question": "¿Cuándo empezó a llover?",
+                    "options": [
+                        "Mientras caminaban al dentista",
+                        "Cuando estaban en casa",
+                        "Después de salir del dentista",
+                        "En la noche",
+                        "Ninguno de los anteriores"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p4",
+                    "question": "¿Dónde tuvieron que comprar ropa seca?",
+                    "options": [
+                        "Antes de entrar al dentista",
+                        "En su casa",
+                        "En la escuela",
+                        "En el parque",
+                        "Ninguno de los anteriores"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                },
+                {
+                    "id": "p5",
+                    "question": "¿Por qué Riley fue al dentista?",
+                    "options": [
+                        "Porque se rompió un diente",
+                        "Porque quería un dulce",
+                        "Porque estaba aburrida",
+                        "Porque quería jugar",
+                        "Ninguno de los anteriores"
+                    ],
+                    "correct_answer": 0,
+                    "points": 10
+                }
+            ],
+            "total_points": 50
         }
     ]
 }
