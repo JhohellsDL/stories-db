@@ -87,9 +87,37 @@
           "correct_answer": 0,
           "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto especial le regaló el dentista a Riley al finalizar la consulta?",
+          "options": [
+            "Un cepillo de dientes nuevo",
+            "Una bolsa de caramelos masticables",
+            "Un espejo de aumento",
+            "Un libro de colorear"
+          ],
+          "correct_answer": 0,
+          "explanation": "El dentista le regaló un cepillo nuevo para motivarla a cuidar su salud bucal diariamente.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Por qué el consumo excesivo de azúcar puede dañar los dientes?",
+          "options": [
+            "Porque alimenta bacterias que producen ácidos y forman caries",
+            "Porque cambia el color de los huesos del cuerpo",
+            "Porque enfría de golpe la garganta",
+            "Porque debilita las uñas de las manos"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las bacterias bucales consumen los restos de azúcar y generan ácidos que desgastan el esmalte, formando caries.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_bio_002",
@@ -164,9 +192,37 @@
           "correct_answer": 0,
           "explanation": "Al ejercitarnos, los músculos consumen más oxígeno, por lo que el corazón bombea sangre más rápido para abastecerlos.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar de su cuerpo colocó Lucas los dedos para sentir su pulso?",
+          "options": [
+            "Sobre su muñeca izquierda",
+            "En la punta de la nariz",
+            "En el tobillo derecho",
+            "En el codo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Lucas colocó dos dedos en su muñeca izquierda para percibir las pulsaciones de sus arterias.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿A través de qué conductos viaja la sangre impulsada por el corazón por todo el organismo?",
+          "options": [
+            "Venas y arterias",
+            "Huesos y articulaciones",
+            "Tráquea y bronquios",
+            "Tendones y cartílagos"
+          ],
+          "correct_answer": 0,
+          "explanation": "El sistema circulatorio conduce la sangre a través de los vasos sanguíneos formados por arterias y venas.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_bio_003",
@@ -241,9 +297,37 @@
           "correct_answer": 0,
           "explanation": "El intestino delgado se encarga de absorber las vitaminas, minerales y nutrientes digeridos para nutrir el organismo.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Por qué conducto desciende el bocado de comida desde la boca hasta el estómago?",
+          "options": [
+            "Por el esófago",
+            "Por los pulmones",
+            "Por la médula espinal",
+            "Por la arteria carótida"
+          ],
+          "correct_answer": 0,
+          "explanation": "El esófago es el tubo muscular que transporta los alimentos masticados hacia el estómago.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué sucede en el intestino grueso con los restos que el cuerpo no absorbió?",
+          "options": [
+            "Se recupera agua y se compactan los desechos para ser expulsados",
+            "Se transforman en aire para respirar",
+            "Se disuelven en los músculos del brazo",
+            "Vuelven a subir a la boca"
+          ],
+          "correct_answer": 0,
+          "explanation": "El intestino grueso reabsorbe líquidos y prepara los residuos no digeridos para su eliminación del cuerpo.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_bio_004",
@@ -318,9 +402,37 @@
           "correct_answer": 0,
           "explanation": "Las moléculas de jabón disuelven la membrana grasa de los microbios y permiten que el agua corriente los desplace.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué fruta iba a comer Sofía antes de que su papá le pidiera lavarse las manos?",
+          "options": [
+            "Rodajas de sandía fresca",
+            "Un racimo de uvas verdes",
+            "Una ensalada de manzanas",
+            "Una naranja entera"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sofía se disponía a merendar rodajas de sandía luego de jugar en el jardín.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cuánto tiempo como mínimo se recomienda frotarse las manos con agua y jabón para una limpieza efectiva?",
+          "options": [
+            "Al menos 20 segundos",
+            "Solo 2 segundos rápidos",
+            "30 minutos continuos",
+            "1 segundo con agua fría"
+          ],
+          "correct_answer": 0,
+          "explanation": "Frotarse las manos durante al menos 20 segundos asegura que la espuma desintegre la suciedad y los microorganismos.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     }
   ]
 }

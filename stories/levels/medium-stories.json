@@ -77,9 +77,37 @@
           "correct_answer": 0,
           "explanation": "La escritura permitió conservar saberes científicos, historias y leyes sin depender únicamente de la memoria oral.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿De qué planta ribereña del río Nilo elaboraban las láminas para escribir en el antiguo Egipto?",
+          "options": [
+            "De la planta de papiro",
+            "De hojas de eucalipto",
+            "De corteza de pino",
+            "De pétalos de rosa"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los antiguos egipcios extraían tiras del tallo del papiro para crear soportes de escritura resistentes.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué célebre biblioteca del mundo antiguo reunió miles de rollos y documentos de diversas culturas?",
+          "options": [
+            "La Biblioteca de Alejandría",
+            "La Biblioteca del Congreso",
+            "La Biblioteca de Oxford",
+            "La Biblioteca de Babel"
+          ],
+          "correct_answer": 0,
+          "explanation": "La Biblioteca de Alejandría en Egipto fue el centro cultural más importante de la antigüedad para recopilar saberes universales.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_opt_001",
@@ -181,9 +209,23 @@
           "correct_answer": 0,
           "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un cono mayor de rayos luminosos, proyectando una silueta más grande en la pared.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama la región central de oscuridad total donde un cuerpo opaco bloquea por completo la fuente de luz?",
+          "options": [
+            "Umbra",
+            "Penumbra",
+            "Refracción",
+            "Foco difuso"
+          ],
+          "correct_answer": 0,
+          "explanation": "La umbra es la zona de sombra completa donde no penetra ningún rayo directo de la fuente luminosa.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     },
     {
       "id": "story_opt_003",
@@ -258,9 +300,37 @@
           "correct_answer": 0,
           "explanation": "En medios más densos como el agua o el vidrio, la luz viaja más despacio que en el aire o en el vacío.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Quién le explicó a Leo la causa científica detrás de la ilusión óptica del lápiz?",
+          "options": [
+            "La profesora Clara",
+            "Un mago del circo",
+            "Su compañero Tomás",
+            "El chofer del autobús"
+          ],
+          "correct_answer": 0,
+          "explanation": "La profesora Clara le explicó que el fenómeno correspondía a la refracción de la luz al cruzar medios distintos.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué instrumento óptico aprovecha la refracción de la luz a través de lentes curvas para mejorar la visión humana?",
+          "options": [
+            "Los anteojos y gafas graduadas",
+            "Los espejos planos de tocador",
+            "Las linternas de mano",
+            "Las pantallas de televisión"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las lentes refractan los rayos luminosos curvándolos para enfocar las imágenes nítidamente en la retina.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_ast_003",
@@ -335,9 +405,37 @@
           "correct_answer": 0,
           "explanation": "A medida que la Luna se desplaza alrededor de nuestro planeta, el ángulo entre el observador, la Luna y el Sol varía, revelando más o menos zona iluminada.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué objetos empleó el papá de Nico en el patio para ilustrar las fases lunares?",
+          "options": [
+            "Una pelota blanca de béisbol y una linterna",
+            "Un plato de sopa y un espejo",
+            "Dos velas encendidas",
+            "Un globo inflable de color rojo"
+          ],
+          "correct_answer": 0,
+          "explanation": "El papá de Nico usó una pelota de béisbol como la Luna y una linterna simulando la luz del Sol.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Aproximadamente cuánto tiempo le toma a la Luna completar una vuelta orbital alrededor de la Tierra?",
+          "options": [
+            "Aproximadamente 28 días (un mes lunar)",
+            "365 días continuos",
+            "12 horas",
+            "7 días exactos"
+          ],
+          "correct_answer": 0,
+          "explanation": "El periodo orbital lunar dura cerca de 27.3 a 29.5 días para completar todas sus fases.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_soc_002",
@@ -412,9 +510,37 @@
           "correct_answer": 0,
           "explanation": "Multiplicando los 5 cm del papel por los 10 metros correspondientes a cada centímetro obtenemos 50 metros reales.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué profesión retirada tenía el abuelo que enseñó a Mateo a utilizar escalas?",
+          "options": [
+            "Topógrafo retirado",
+            "Capitán de barco",
+            "Profesor de música",
+            "Pintor de cuadros"
+          ],
+          "correct_answer": 0,
+          "explanation": "El abuelo de Mateo era topógrafo y sabía medir y plasmar terrenos con precisión matemática.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué utilidad principal tiene la escala en la elaboración de mapas geográficos?",
+          "options": [
+            "Mantener proporciones reales reducidas para calcular distancias verdaderas en el terreno",
+            "Elegir el tipo de marco para colgar el mapa",
+            "Hacer que los dibujos se vean más brillantes",
+            "Cambiar el idioma de los países"
+          ],
+          "correct_answer": 0,
+          "explanation": "La escala establece la relación de proporción entre una distancia medida en el mapa y su distancia en el mundo real.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_phy_001",
@@ -489,9 +615,37 @@
           "correct_answer": 0,
           "explanation": "Al encajar los dientes, el giro de una rueda empuja a la otra en sentido contrario.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué elemento impulsaba el giro lento inicial de la rueda principal del reloj de la torre?",
+          "options": [
+            "Una pesa metálica suspendida",
+            "Un motor a gasolina",
+            "Una batería química",
+            "El calor del sol"
+          ],
+          "correct_answer": 0,
+          "explanation": "El reloj antiguo funcionaba con la energía potencial de una pesa que descendía lentamente.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué efecto se logra cuando una rueda dentada grande hace girar a otra más pequeña?",
+          "options": [
+            "La rueda pequeña gira a mayor velocidad de rotación",
+            "Ambas ruedas se detienen de inmediato",
+            "La rueda pequeña se calienta y se apaga",
+            "Se invierte la gravedad del mecanismo"
+          ],
+          "correct_answer": 0,
+          "explanation": "La diferencia de diámetros y número de dientes permite multiplicar la velocidad de giro en la rueda menor.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     }
   ]
 }

@@ -113,9 +113,23 @@
           "correct_answer": 0,
           "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un cono mayor de rayos luminosos, proyectando una silueta más grande en la pared.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama la región central de oscuridad total donde un cuerpo opaco bloquea por completo la fuente de luz?",
+          "options": [
+            "Umbra",
+            "Penumbra",
+            "Refracción",
+            "Foco difuso"
+          ],
+          "correct_answer": 0,
+          "explanation": "La umbra es la zona de sombra completa donde no penetra ningún rayo directo de la fuente luminosa.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     },
     {
       "id": "story_opt_002",
@@ -190,9 +204,37 @@
           "correct_answer": 0,
           "explanation": "La reflexión es el cambio de dirección que experimenta un rayo de luz al chocar con una superficie reflectante.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué rincón de su habitación quería iluminar Valeria al comienzo de la historia?",
+          "options": [
+            "La casita de muñecas en la esquina oscura",
+            "El fondo del armario de ropa",
+            "Debajo de su cama",
+            "El techo del pasillo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Valeria deseaba llevar la luz solar hacia la casita de juguetes que estaba en una esquina sin iluminación.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué ley óptica describe el comportamiento de la luz cuando rebota en un espejo plano?",
+          "options": [
+            "El ángulo de incidencia es igual al ángulo de reflexión",
+            "La luz siempre se vuelve de color azul",
+            "Los rayos se doblan en espiral",
+            "La velocidad de la luz se reduce a cero"
+          ],
+          "correct_answer": 0,
+          "explanation": "En la reflexión especular, el ángulo de entrada del haz luminoso coincide exactamente con el ángulo de rebote.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_opt_003",
@@ -267,9 +309,37 @@
           "correct_answer": 0,
           "explanation": "En medios más densos como el agua o el vidrio, la luz viaja más despacio que en el aire o en el vacío.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Quién le explicó a Leo la causa científica detrás de la ilusión óptica del lápiz?",
+          "options": [
+            "La profesora Clara",
+            "Un mago del circo",
+            "Su compañero Tomás",
+            "El chofer del autobús"
+          ],
+          "correct_answer": 0,
+          "explanation": "La profesora Clara le explicó que el fenómeno correspondía a la refracción de la luz al cruzar medios distintos.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué instrumento óptico aprovecha la refracción de la luz a través de lentes curvas para mejorar la visión humana?",
+          "options": [
+            "Los anteojos y gafas graduadas",
+            "Los espejos planos de tocador",
+            "Las linternas de mano",
+            "Las pantallas de televisión"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las lentes refractan los rayos luminosos curvándolos para enfocar las imágenes nítidamente en la retina.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_opt_004",
@@ -362,9 +432,23 @@
           "correct_answer": 0,
           "explanation": "Las gotas de agua refractan y reflejan la luz solar dispersándola en sus colores componentes en el cielo.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "reading_comprehension",
+          "question": "¿Qué célebre científico comprobó en 1666 que la luz blanca del Sol contiene todos los colores del arcoíris?",
+          "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nikola Tesla"
+          ],
+          "correct_answer": 0,
+          "explanation": "Isaac Newton demostró experimentalmente la naturaleza compuesta de la luz blanca utilizando prismas de vidrio.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     }
   ]
 }

@@ -77,9 +77,37 @@
           "correct_answer": 0,
           "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto especial le regaló el dentista a Riley al finalizar la consulta?",
+          "options": [
+            "Un cepillo de dientes nuevo",
+            "Una bolsa de caramelos masticables",
+            "Un espejo de aumento",
+            "Un libro de colorear"
+          ],
+          "correct_answer": 0,
+          "explanation": "El dentista le regaló un cepillo nuevo para motivarla a cuidar su salud bucal diariamente.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Por qué el consumo excesivo de azúcar puede dañar los dientes?",
+          "options": [
+            "Porque alimenta bacterias que producen ácidos y forman caries",
+            "Porque cambia el color de los huesos del cuerpo",
+            "Porque enfría de golpe la garganta",
+            "Porque debilita las uñas de las manos"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las bacterias bucales consumen los restos de azúcar y generan ácidos que desgastan el esmalte, formando caries.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_bio_002",
@@ -154,9 +182,37 @@
           "correct_answer": 0,
           "explanation": "Al ejercitarnos, los músculos consumen más oxígeno, por lo que el corazón bombea sangre más rápido para abastecerlos.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar de su cuerpo colocó Lucas los dedos para sentir su pulso?",
+          "options": [
+            "Sobre su muñeca izquierda",
+            "En la punta de la nariz",
+            "En el tobillo derecho",
+            "En el codo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Lucas colocó dos dedos en su muñeca izquierda para percibir las pulsaciones de sus arterias.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿A través de qué conductos viaja la sangre impulsada por el corazón por todo el organismo?",
+          "options": [
+            "Venas y arterias",
+            "Huesos y articulaciones",
+            "Tráquea y bronquios",
+            "Tendones y cartílagos"
+          ],
+          "correct_answer": 0,
+          "explanation": "El sistema circulatorio conduce la sangre a través de los vasos sanguíneos formados por arterias y venas.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_bio_003",
@@ -231,9 +287,37 @@
           "correct_answer": 0,
           "explanation": "El intestino delgado se encarga de absorber las vitaminas, minerales y nutrientes digeridos para nutrir el organismo.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Por qué conducto desciende el bocado de comida desde la boca hasta el estómago?",
+          "options": [
+            "Por el esófago",
+            "Por los pulmones",
+            "Por la médula espinal",
+            "Por la arteria carótida"
+          ],
+          "correct_answer": 0,
+          "explanation": "El esófago es el tubo muscular que transporta los alimentos masticados hacia el estómago.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué sucede en el intestino grueso con los restos que el cuerpo no absorbió?",
+          "options": [
+            "Se recupera agua y se compactan los desechos para ser expulsados",
+            "Se transforman en aire para respirar",
+            "Se disuelven en los músculos del brazo",
+            "Vuelven a subir a la boca"
+          ],
+          "correct_answer": 0,
+          "explanation": "El intestino grueso reabsorbe líquidos y prepara los residuos no digeridos para su eliminación del cuerpo.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_bio_004",
@@ -308,9 +392,37 @@
           "correct_answer": 0,
           "explanation": "Las moléculas de jabón disuelven la membrana grasa de los microbios y permiten que el agua corriente los desplace.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué fruta iba a comer Sofía antes de que su papá le pidiera lavarse las manos?",
+          "options": [
+            "Rodajas de sandía fresca",
+            "Un racimo de uvas verdes",
+            "Una ensalada de manzanas",
+            "Una naranja entera"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sofía se disponía a merendar rodajas de sandía luego de jugar en el jardín.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cuánto tiempo como mínimo se recomienda frotarse las manos con agua y jabón para una limpieza efectiva?",
+          "options": [
+            "Al menos 20 segundos",
+            "Solo 2 segundos rápidos",
+            "30 minutos continuos",
+            "1 segundo con agua fría"
+          ],
+          "correct_answer": 0,
+          "explanation": "Frotarse las manos durante al menos 20 segundos asegura que la espuma desintegre la suciedad y los microorganismos.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_env_001",
@@ -385,9 +497,37 @@
           "correct_answer": 0,
           "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué prometió hacer Mateo el siguiente fin de semana en el parque de su comunidad?",
+          "options": [
+            "Ayudar a plantar tres árboles jóvenes",
+            "Construir una casa de madera en la colina",
+            "Pintar los bancos del parque",
+            "Comprar una bicicleta nueva"
+          ],
+          "correct_answer": 0,
+          "explanation": "Mateo se comprometió a sembrar tres árboles jóvenes para renovar el área verde del parque.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué gas indispensable para la respiración de los seres vivos liberan los árboles durante la fotosíntesis?",
+          "options": [
+            "Oxígeno limpio",
+            "Gas metano",
+            "Helio",
+            "Vapor de mercurio"
+          ],
+          "correct_answer": 0,
+          "explanation": "Durante la fotosíntesis, los árboles absorben dióxido de carbono y expulsan oxígeno fresco a la atmósfera.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_env_002",
@@ -462,9 +602,37 @@
           "correct_answer": 0,
           "explanation": "La polinización es esencial para que las flores fertilicen y se transformen en frutos con semillas.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué forma geométrica tiene el baile con el que las abejas informan la ubicación de las flores?",
+          "options": [
+            "Forma del número ocho",
+            "Forma de cuadrado",
+            "Círculo simple",
+            "Triángulo invertido"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las abejas ejecutan una danza en forma de ocho que transmite dirección y distancia hacia el néctar.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué práctica humana ayuda a proteger las poblaciones de insectos polinizadores?",
+          "options": [
+            "Sembrar flores nativas variadas y evitar pesticidas químicos nocivos",
+            "Eliminar todas las plantas silvestres",
+            "Encender fogatas cerca de las flores",
+            "Cubrir los campos con plástico negro"
+          ],
+          "correct_answer": 0,
+          "explanation": "Cuidar la vegetación nativa y reducir agroquímicos asegura fuentes de néctar libres de veneno para las abejas.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_env_003",
@@ -539,9 +707,37 @@
           "correct_answer": 0,
           "explanation": "La evaporación ocurre cuando la energía solar transforma el agua superficial líquida en vapor de agua ascendente.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar se inició el viaje de la gota Plim?",
+          "options": [
+            "En la cumbre helada de un glaciar",
+            "En el fondo del mar profundo",
+            "En una piscina de hotel",
+            "En un pozo subterráneo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Plim se encontraba en estado sólido de hielo en lo alto de un glaciar montañoso.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cómo se denomina la etapa del ciclo hidrológico cuando el vapor en las nubes se enfría y cae a la tierra como lluvia?",
+          "options": [
+            "Precipitación",
+            "Combustión",
+            "Oxidación",
+            "Infiltración profunda"
+          ],
+          "correct_answer": 0,
+          "explanation": "La precipitación es la caída de agua en forma líquida (lluvia) o sólida (nieve/granizo) desde la atmósfera hacia la superficie.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_env_004",
@@ -616,9 +812,37 @@
           "correct_answer": 0,
           "explanation": "Los descomponedores degradan los restos orgánicos devolviendo minerales y nutrientes esenciales a la tierra fértil.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué fruto sembraron Leo y su abuela en macetas usando la tierra fértil de compost?",
+          "options": [
+            "Plantas de tomates",
+            "Árboles de manzanas",
+            "Pinos de navidad",
+            "Espinacas gigantes"
+          ],
+          "correct_answer": 0,
+          "explanation": "Utilizaron el abono natural obtenido para nutrir la siembra de tomates en macetas.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué propiedad define a un residuo orgánico como material 'biodegradable'?",
+          "options": [
+            "Que se descompone de forma natural por acción de seres vivos sin generar tóxicos",
+            "Que no se puede mojar con agua",
+            "Que permanece idéntico durante siglos en vertederos",
+            "Que está fabricado exclusivamente con metales pesados"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los materiales biodegradables se reintegran al ciclo biológico mediante la descomposición microbiana natural.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_hist_002",
@@ -693,9 +917,37 @@
           "correct_answer": 0,
           "explanation": "La rueda transformó el arrastre en rodadura, multiplicando la capacidad de transporte humano y comercial.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿A orillas de qué histórico río vivía Kael junto a su familia?",
+          "options": [
+            "Río Éufrates en Mesopotamia",
+            "Río Amazonas",
+            "Río Danubio",
+            "Río Misisipi"
+          ],
+          "correct_answer": 0,
+          "explanation": "Kael habitaba en la región de Mesopotamia junto al río Éufrates.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Para qué se utilizaban las primeras ruedas conocidas antes de ser empleadas en carretas de transporte?",
+          "options": [
+            "Para tornos de alfarería y modelado de vasijas de arcilla",
+            "Para ruedas de bicicleta",
+            "Para molinos de viento modernos",
+            "Para relojes de pared"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los primeros registros arqueológicos de la rueda corresponden al torno del alfarero para moldear cerámica.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_opt_002",
@@ -770,9 +1022,37 @@
           "correct_answer": 0,
           "explanation": "La reflexión es el cambio de dirección que experimenta un rayo de luz al chocar con una superficie reflectante.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué rincón de su habitación quería iluminar Valeria al comienzo de la historia?",
+          "options": [
+            "La casita de muñecas en la esquina oscura",
+            "El fondo del armario de ropa",
+            "Debajo de su cama",
+            "El techo del pasillo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Valeria deseaba llevar la luz solar hacia la casita de juguetes que estaba en una esquina sin iluminación.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué ley óptica describe el comportamiento de la luz cuando rebota en un espejo plano?",
+          "options": [
+            "El ángulo de incidencia es igual al ángulo de reflexión",
+            "La luz siempre se vuelve de color azul",
+            "Los rayos se doblan en espiral",
+            "La velocidad de la luz se reduce a cero"
+          ],
+          "correct_answer": 0,
+          "explanation": "En la reflexión especular, el ángulo de entrada del haz luminoso coincide exactamente con el ángulo de rebote.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_ast_002",
@@ -847,9 +1127,37 @@
           "correct_answer": 0,
           "explanation": "El movimiento de rotación expone alternadamente cada hemisferio a la radiación solar.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué elemento pegó Sara en la naranja para simular el lugar donde vivía Martín?",
+          "options": [
+            "Una pequeña calcomanía azul",
+            "Una moneda dorada",
+            "Un botón negro",
+            "Una tachuela plateada"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sara pegó una calcomanía azul en el costado de la naranja para seguir su posición con la luz.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cuánto tiempo le toma a la Tierra completar una vuelta de rotación sobre su propio eje?",
+          "options": [
+            "24 horas (un día terrestre)",
+            "365 días (un año)",
+            "12 horas justas",
+            "30 días (un mes)"
+          ],
+          "correct_answer": 0,
+          "explanation": "La rotación completa del planeta dura 24 horas, definiendo el ciclo de un día y una noche.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_soc_001",
@@ -924,9 +1232,37 @@
           "correct_answer": 0,
           "explanation": "La aguja magnética de la brújula se alinea con el campo magnético terrestre y apunta siempre al Norte.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Por qué punto cardinal vio Luna ocultarse el Sol al caer el atardecer?",
+          "options": [
+            "Por el Oeste",
+            "Por el Norte",
+            "Por el Sur",
+            "Por el Este"
+          ],
+          "correct_answer": 0,
+          "explanation": "El Sol siempre se oculta en el horizonte por el punto cardinal Oeste.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Por qué razón física la Tierra actúa como un gigantesco imán natural?",
+          "options": [
+            "Por los metales líquidos en movimiento dentro de su núcleo interno",
+            "Por el agua salada de los océanos",
+            "Por el calor de los volcanes de la superficie",
+            "Por la atracción gravitatoria de la Luna"
+          ],
+          "correct_answer": 0,
+          "explanation": "La rotación de minerales y hierro fundido en el núcleo terrestre genera el campo magnético del planeta.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_phy_002",
@@ -1001,9 +1337,37 @@
           "correct_answer": 0,
           "explanation": "A mayor longitud del brazo de palanca respecto al fulcro, mayor ventaja mecánica para elevar una carga.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué profesión tenía la tía Laura que ayudó a resolver el juego en el balancín?",
+          "options": [
+            "Ingeniera civil",
+            "Astrónoma",
+            "Veterinaria",
+            "Pintora artística"
+          ],
+          "correct_answer": 0,
+          "explanation": "La tía Laura era ingeniera civil y conocía la física detrás de las máquinas simples.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué célebre sabio griego expresó: 'Denme una palanca lo suficientemente larga y un punto de apoyo, y moveré el mundo'?",
+          "options": [
+            "Arquímedes",
+            "Sócrates",
+            "Pitágoras",
+            "Platón"
+          ],
+          "correct_answer": 0,
+          "explanation": "Arquímedes formuló los principios teóricos de la palanca y la ventaja mecánica en la antigua Grecia.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     }
   ]
 }

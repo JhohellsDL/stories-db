@@ -87,9 +87,37 @@
           "correct_answer": 0,
           "explanation": "El movimiento de rotación expone alternadamente cada hemisferio a la radiación solar.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué elemento pegó Sara en la naranja para simular el lugar donde vivía Martín?",
+          "options": [
+            "Una pequeña calcomanía azul",
+            "Una moneda dorada",
+            "Un botón negro",
+            "Una tachuela plateada"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sara pegó una calcomanía azul en el costado de la naranja para seguir su posición con la luz.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cuánto tiempo le toma a la Tierra completar una vuelta de rotación sobre su propio eje?",
+          "options": [
+            "24 horas (un día terrestre)",
+            "365 días (un año)",
+            "12 horas justas",
+            "30 días (un mes)"
+          ],
+          "correct_answer": 0,
+          "explanation": "La rotación completa del planeta dura 24 horas, definiendo el ciclo de un día y una noche.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_ast_003",
@@ -164,9 +192,37 @@
           "correct_answer": 0,
           "explanation": "A medida que la Luna se desplaza alrededor de nuestro planeta, el ángulo entre el observador, la Luna y el Sol varía, revelando más o menos zona iluminada.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué objetos empleó el papá de Nico en el patio para ilustrar las fases lunares?",
+          "options": [
+            "Una pelota blanca de béisbol y una linterna",
+            "Un plato de sopa y un espejo",
+            "Dos velas encendidas",
+            "Un globo inflable de color rojo"
+          ],
+          "correct_answer": 0,
+          "explanation": "El papá de Nico usó una pelota de béisbol como la Luna y una linterna simulando la luz del Sol.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Aproximadamente cuánto tiempo le toma a la Luna completar una vuelta orbital alrededor de la Tierra?",
+          "options": [
+            "Aproximadamente 28 días (un mes lunar)",
+            "365 días continuos",
+            "12 horas",
+            "7 días exactos"
+          ],
+          "correct_answer": 0,
+          "explanation": "El periodo orbital lunar dura cerca de 27.3 a 29.5 días para completar todas sus fases.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_ast_001",
@@ -241,9 +297,37 @@
           "correct_answer": 0,
           "explanation": "La atmósfera terrestre contiene gases y polvo en movimiento que distorsionan la luz estelar; en el espacio la luz llega pura.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Quién era la comandante que acompañaba y guiaba a Izan en la estación?",
+          "options": [
+            "La comandante Lira",
+            "La profesora Clara",
+            "La capitana Elena",
+            "La doctora Valeria"
+          ],
+          "correct_answer": 0,
+          "explanation": "La comandante Lira le explicaba a Izan las ventajas astronómicas del vacío espacial.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué fenómeno permite a una nave o estación mantenerse en órbita continua alrededor de un planeta?",
+          "options": [
+            "El balance entre la fuerza gravitatoria y la velocidad horizontal de desplazamiento",
+            "La propulsión de cohetes encendidos todo el tiempo",
+            "La atracción de la Luna tirando hacia arriba",
+            "Globos aerostáticos invisibles"
+          ],
+          "correct_answer": 0,
+          "explanation": "Estar en órbita significa caer constantemente hacia el planeta con una velocidad tangencial suficiente para no chocar nunca con su superficie.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     }
   ]
 }
