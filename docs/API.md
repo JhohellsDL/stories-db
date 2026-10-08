@@ -31,9 +31,9 @@ Contiene el catálogo completo de materias (`subjects`) y niveles de dificultad 
       "color_hex": "#10B981",
       "description": "El cuerpo humano, los seres vivos y los hábitos saludables",
       "images_url": [
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.png",
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.png",
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png"
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.jpg",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.jpg",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.jpg"
       ],
       "path": "stories/subjects/biology.json",
       "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/biology.json",
@@ -119,7 +119,7 @@ interface Story {
   };
   difficulty: "basic" | "intermediate" | "advanced";
   reading_time_min: number;        // Minutos estimados de lectura
-  cover_image_path: string;        // "images/story_01_003.png"
+  cover_image_path: string;        // "images/story_01_003.jpg"
   cover_image_url: string;         // URL directa en GitHub CDN
   key_learnings: string[];         // Lista de conceptos educativos aprendidos
   fun_facts: {                     // Datos curiosos para el niño

@@ -9,10 +9,10 @@
       "color_hex": "#10B981",
       "description": "El cuerpo humano, los seres vivos y los hábitos saludables",
       "images_url": [
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_01.png",
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_02.png",
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_03.png",
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_04.png"
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_01.jpg",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_02.jpg",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_03.jpg",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_04.jpg"
       ],
       "path": "stories/subjects/biology.json",
       "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/biology.json",
@@ -88,7 +88,7 @@
       "color_hex": "#F59E0B",
       "description": "Geografía, mapas, orientación espacial y comunidades",
       "images_url": [
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_01.png",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_01.jpg",
         "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_02.jpg",
         "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_03.jpg",
         "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_04.jpg"
@@ -105,7 +105,7 @@
       "description": "Mecanismos, máquinas simples, energía y avances tecnológicos",
       "images_url": [
         "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_01.jpg",
-        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_02.png",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_02.jpg",
         "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_03.jpg",
         "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_04.jpg"
       ],

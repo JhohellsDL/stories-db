@@ -437,8 +437,8 @@
       },
       "difficulty": "intermediate",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_phy_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_001.png",
+      "cover_image_path": "images/story_phy_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_001.jpg",
       "key_learnings": [
         "Un engranaje es una rueda dentada que transmite fuerza y movimiento a otra rueda.",
         "Cuando un engranaje gira en sentido horario, el engranaje con el que se conecta gira en sentido antihorario.",

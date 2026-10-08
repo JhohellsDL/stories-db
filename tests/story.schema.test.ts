@@ -74,8 +74,8 @@ describe('Educational StorySchema', () => {
     },
     difficulty: 'basic',
     reading_time_min: 3,
-    cover_image_path: 'images/story_01_003.png',
-    cover_image_url: 'https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png',
+    cover_image_path: 'images/story_01_003.jpg',
+    cover_image_url: 'https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.jpg',
     key_learnings: ['El esmalte protege al diente de bacterias'],
     fun_facts: [
       {

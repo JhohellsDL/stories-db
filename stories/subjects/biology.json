@@ -7,10 +7,10 @@
     "color_hex": "#10B981",
     "description": "El cuerpo humano, los seres vivos y los hábitos saludables",
     "images_url": [
-      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_01.png",
-      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_02.png",
-      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_03.png",
-      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_04.png"
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_01.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_02.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_03.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_04.jpg"
     ]
   },
   "stories": [
@@ -35,8 +35,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_bio_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_001.png",
+      "cover_image_path": "images/story_bio_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_001.jpg",
       "key_learnings": [
         "Los dientes tienen una capa protectora dura llamada esmalte que los alimentos muy duros o azucarados pueden dañar.",
         "Los dulces en exceso alimentan a bacterias que producen caries.",
@@ -112,8 +112,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_bio_002.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_002.png",
+      "cover_image_path": "images/story_bio_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_002.jpg",
       "key_learnings": [
         "El corazón es un músculo que bombea sangre a todo el cuerpo día y noche.",
         "La sangre lleva oxígeno y nutrientes a los músculos para que podamos movernos.",
@@ -189,8 +189,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_bio_003.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_003.png",
+      "cover_image_path": "images/story_bio_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_003.jpg",
       "key_learnings": [
         "La digestión comienza en la boca gracias a la masticación y la saliva.",
         "El estómago descompone los alimentos en trozos microscópicos mediante jugos gástricos.",
@@ -266,8 +266,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_bio_004.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_004.png",
+      "cover_image_path": "images/story_bio_004.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_004.jpg",
       "key_learnings": [
         "Existen microorganismos invisibles a simple vista llamados bacterias y virus que pueden transmitir enfermedades.",
         "El jabón descompone la capa grasa exterior de los virus y bacterias, haciéndolos resbalar con el agua.",
