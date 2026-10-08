@@ -87,9 +87,37 @@
           "correct_answer": 0,
           "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué prometió hacer Mateo el siguiente fin de semana en el parque de su comunidad?",
+          "options": [
+            "Ayudar a plantar tres árboles jóvenes",
+            "Construir una casa de madera en la colina",
+            "Pintar los bancos del parque",
+            "Comprar una bicicleta nueva"
+          ],
+          "correct_answer": 0,
+          "explanation": "Mateo se comprometió a sembrar tres árboles jóvenes para renovar el área verde del parque.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué gas indispensable para la respiración de los seres vivos liberan los árboles durante la fotosíntesis?",
+          "options": [
+            "Oxígeno limpio",
+            "Gas metano",
+            "Helio",
+            "Vapor de mercurio"
+          ],
+          "correct_answer": 0,
+          "explanation": "Durante la fotosíntesis, los árboles absorben dióxido de carbono y expulsan oxígeno fresco a la atmósfera.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_env_002",
@@ -164,9 +192,37 @@
           "correct_answer": 0,
           "explanation": "La polinización es esencial para que las flores fertilicen y se transformen en frutos con semillas.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué forma geométrica tiene el baile con el que las abejas informan la ubicación de las flores?",
+          "options": [
+            "Forma del número ocho",
+            "Forma de cuadrado",
+            "Círculo simple",
+            "Triángulo invertido"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las abejas ejecutan una danza en forma de ocho que transmite dirección y distancia hacia el néctar.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué práctica humana ayuda a proteger las poblaciones de insectos polinizadores?",
+          "options": [
+            "Sembrar flores nativas variadas y evitar pesticidas químicos nocivos",
+            "Eliminar todas las plantas silvestres",
+            "Encender fogatas cerca de las flores",
+            "Cubrir los campos con plástico negro"
+          ],
+          "correct_answer": 0,
+          "explanation": "Cuidar la vegetación nativa y reducir agroquímicos asegura fuentes de néctar libres de veneno para las abejas.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_env_003",
@@ -241,9 +297,37 @@
           "correct_answer": 0,
           "explanation": "La evaporación ocurre cuando la energía solar transforma el agua superficial líquida en vapor de agua ascendente.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar se inició el viaje de la gota Plim?",
+          "options": [
+            "En la cumbre helada de un glaciar",
+            "En el fondo del mar profundo",
+            "En una piscina de hotel",
+            "En un pozo subterráneo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Plim se encontraba en estado sólido de hielo en lo alto de un glaciar montañoso.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Cómo se denomina la etapa del ciclo hidrológico cuando el vapor en las nubes se enfría y cae a la tierra como lluvia?",
+          "options": [
+            "Precipitación",
+            "Combustión",
+            "Oxidación",
+            "Infiltración profunda"
+          ],
+          "correct_answer": 0,
+          "explanation": "La precipitación es la caída de agua en forma líquida (lluvia) o sólida (nieve/granizo) desde la atmósfera hacia la superficie.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_env_004",
@@ -318,9 +402,37 @@
           "correct_answer": 0,
           "explanation": "Los descomponedores degradan los restos orgánicos devolviendo minerales y nutrientes esenciales a la tierra fértil.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué fruto sembraron Leo y su abuela en macetas usando la tierra fértil de compost?",
+          "options": [
+            "Plantas de tomates",
+            "Árboles de manzanas",
+            "Pinos de navidad",
+            "Espinacas gigantes"
+          ],
+          "correct_answer": 0,
+          "explanation": "Utilizaron el abono natural obtenido para nutrir la siembra de tomates en macetas.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué propiedad define a un residuo orgánico como material 'biodegradable'?",
+          "options": [
+            "Que se descompone de forma natural por acción de seres vivos sin generar tóxicos",
+            "Que no se puede mojar con agua",
+            "Que permanece idéntico durante siglos en vertederos",
+            "Que está fabricado exclusivamente con metales pesados"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los materiales biodegradables se reintegran al ciclo biológico mediante la descomposición microbiana natural.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     }
   ]
 }

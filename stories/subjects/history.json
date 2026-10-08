@@ -87,9 +87,37 @@
           "correct_answer": 0,
           "explanation": "La rueda transformó el arrastre en rodadura, multiplicando la capacidad de transporte humano y comercial.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿A orillas de qué histórico río vivía Kael junto a su familia?",
+          "options": [
+            "Río Éufrates en Mesopotamia",
+            "Río Amazonas",
+            "Río Danubio",
+            "Río Misisipi"
+          ],
+          "correct_answer": 0,
+          "explanation": "Kael habitaba en la región de Mesopotamia junto al río Éufrates.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Para qué se utilizaban las primeras ruedas conocidas antes de ser empleadas en carretas de transporte?",
+          "options": [
+            "Para tornos de alfarería y modelado de vasijas de arcilla",
+            "Para ruedas de bicicleta",
+            "Para molinos de viento modernos",
+            "Para relojes de pared"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los primeros registros arqueológicos de la rueda corresponden al torno del alfarero para moldear cerámica.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_hist_001",
@@ -164,9 +192,37 @@
           "correct_answer": 0,
           "explanation": "La escritura permitió conservar saberes científicos, historias y leyes sin depender únicamente de la memoria oral.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿De qué planta ribereña del río Nilo elaboraban las láminas para escribir en el antiguo Egipto?",
+          "options": [
+            "De la planta de papiro",
+            "De hojas de eucalipto",
+            "De corteza de pino",
+            "De pétalos de rosa"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los antiguos egipcios extraían tiras del tallo del papiro para crear soportes de escritura resistentes.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué célebre biblioteca del mundo antiguo reunió miles de rollos y documentos de diversas culturas?",
+          "options": [
+            "La Biblioteca de Alejandría",
+            "La Biblioteca del Congreso",
+            "La Biblioteca de Oxford",
+            "La Biblioteca de Babel"
+          ],
+          "correct_answer": 0,
+          "explanation": "La Biblioteca de Alejandría en Egipto fue el centro cultural más importante de la antigüedad para recopilar saberes universales.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_hist_003",
@@ -259,9 +315,23 @@
           "correct_answer": 0,
           "explanation": "El arco reparte el peso lateralmente hacia los pilares, otorgando una resistencia estructural extraordinaria sin derrumbarse.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "reading_comprehension",
+          "question": "¿Qué instrumento utilizó Marco para verificar la inclinación y nivelación de la obra?",
+          "options": [
+            "Una regla de madera con nivel de agua de plomo",
+            "Un reloj digital",
+            "Una brújula marina",
+            "Una calculadora solar"
+          ],
+          "correct_answer": 0,
+          "explanation": "Marco utilizó una regla con nivel hidráulico de plomo para asegurar la pendiente precisa del canal.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     }
   ]
 }

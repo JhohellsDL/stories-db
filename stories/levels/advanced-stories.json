@@ -95,9 +95,23 @@
           "correct_answer": 0,
           "explanation": "El arco reparte el peso lateralmente hacia los pilares, otorgando una resistencia estructural extraordinaria sin derrumbarse.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "reading_comprehension",
+          "question": "¿Qué instrumento utilizó Marco para verificar la inclinación y nivelación de la obra?",
+          "options": [
+            "Una regla de madera con nivel de agua de plomo",
+            "Un reloj digital",
+            "Una brújula marina",
+            "Una calculadora solar"
+          ],
+          "correct_answer": 0,
+          "explanation": "Marco utilizó una regla con nivel hidráulico de plomo para asegurar la pendiente precisa del canal.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     },
     {
       "id": "story_opt_004",
@@ -190,9 +204,23 @@
           "correct_answer": 0,
           "explanation": "Las gotas de agua refractan y reflejan la luz solar dispersándola en sus colores componentes en el cielo.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "reading_comprehension",
+          "question": "¿Qué célebre científico comprobó en 1666 que la luz blanca del Sol contiene todos los colores del arcoíris?",
+          "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nikola Tesla"
+          ],
+          "correct_answer": 0,
+          "explanation": "Isaac Newton demostró experimentalmente la naturaleza compuesta de la luz blanca utilizando prismas de vidrio.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     },
     {
       "id": "story_ast_001",
@@ -267,9 +295,37 @@
           "correct_answer": 0,
           "explanation": "La atmósfera terrestre contiene gases y polvo en movimiento que distorsionan la luz estelar; en el espacio la luz llega pura.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Quién era la comandante que acompañaba y guiaba a Izan en la estación?",
+          "options": [
+            "La comandante Lira",
+            "La profesora Clara",
+            "La capitana Elena",
+            "La doctora Valeria"
+          ],
+          "correct_answer": 0,
+          "explanation": "La comandante Lira le explicaba a Izan las ventajas astronómicas del vacío espacial.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué fenómeno permite a una nave o estación mantenerse en órbita continua alrededor de un planeta?",
+          "options": [
+            "El balance entre la fuerza gravitatoria y la velocidad horizontal de desplazamiento",
+            "La propulsión de cohetes encendidos todo el tiempo",
+            "La atracción de la Luna tirando hacia arriba",
+            "Globos aerostáticos invisibles"
+          ],
+          "correct_answer": 0,
+          "explanation": "Estar en órbita significa caer constantemente hacia el planeta con una velocidad tangencial suficiente para no chocar nunca con su superficie.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_soc_003",
@@ -362,9 +418,23 @@
           "correct_answer": 0,
           "explanation": "La intersección de latitud y longitud establece la posición geográfica precisa en el sistema de coordenadas.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "reading_comprehension",
+          "question": "¿Qué meridiano se toma como referencia cero (0°) mundial para medir la longitud hacia el Este u Oeste?",
+          "options": [
+            "El meridiano de Greenwich",
+            "La línea del Ecuador",
+            "El Círculo Antártico",
+            "El Trópico de Capricornio"
+          ],
+          "correct_answer": 0,
+          "explanation": "El meridiano de Greenwich en Inglaterra es el meridiano cero que divide las longitudes este y oeste.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     },
     {
       "id": "story_phy_003",
@@ -457,9 +527,23 @@
           "correct_answer": 0,
           "explanation": "El interruptor corta o restablece la continuidad física del circuito según se accione.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto metálico cotidiano utilizó Camila para fabricar su interruptor casero?",
+          "options": [
+            "Un clip sujetapapeles metálico",
+            "Una cuchara de plástico",
+            "Un trozo de hilo de algodón",
+            "Una moneda de cartón"
+          ],
+          "correct_answer": 0,
+          "explanation": "Camila utilizó un clip metálico como puente conductor móvil sobre una tachuela.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     }
   ]
 }

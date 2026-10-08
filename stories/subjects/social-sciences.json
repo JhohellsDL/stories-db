@@ -87,9 +87,37 @@
           "correct_answer": 0,
           "explanation": "La aguja magnética de la brújula se alinea con el campo magnético terrestre y apunta siempre al Norte.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Por qué punto cardinal vio Luna ocultarse el Sol al caer el atardecer?",
+          "options": [
+            "Por el Oeste",
+            "Por el Norte",
+            "Por el Sur",
+            "Por el Este"
+          ],
+          "correct_answer": 0,
+          "explanation": "El Sol siempre se oculta en el horizonte por el punto cardinal Oeste.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Por qué razón física la Tierra actúa como un gigantesco imán natural?",
+          "options": [
+            "Por los metales líquidos en movimiento dentro de su núcleo interno",
+            "Por el agua salada de los océanos",
+            "Por el calor de los volcanes de la superficie",
+            "Por la atracción gravitatoria de la Luna"
+          ],
+          "correct_answer": 0,
+          "explanation": "La rotación de minerales y hierro fundido en el núcleo terrestre genera el campo magnético del planeta.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_soc_002",
@@ -164,9 +192,37 @@
           "correct_answer": 0,
           "explanation": "Multiplicando los 5 cm del papel por los 10 metros correspondientes a cada centímetro obtenemos 50 metros reales.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "reading_comprehension",
+          "question": "¿Qué profesión retirada tenía el abuelo que enseñó a Mateo a utilizar escalas?",
+          "options": [
+            "Topógrafo retirado",
+            "Capitán de barco",
+            "Profesor de música",
+            "Pintor de cuadros"
+          ],
+          "correct_answer": 0,
+          "explanation": "El abuelo de Mateo era topógrafo y sabía medir y plasmar terrenos con precisión matemática.",
+          "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "educational_concept",
+          "question": "¿Qué utilidad principal tiene la escala en la elaboración de mapas geográficos?",
+          "options": [
+            "Mantener proporciones reales reducidas para calcular distancias verdaderas en el terreno",
+            "Elegir el tipo de marco para colgar el mapa",
+            "Hacer que los dibujos se vean más brillantes",
+            "Cambiar el idioma de los países"
+          ],
+          "correct_answer": 0,
+          "explanation": "La escala establece la relación de proporción entre una distancia medida en el mapa y su distancia en el mundo real.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 40
     },
     {
       "id": "story_soc_003",
@@ -259,9 +315,23 @@
           "correct_answer": 0,
           "explanation": "La intersección de latitud y longitud establece la posición geográfica precisa en el sistema de coordenadas.",
           "points": 10
+        },
+        {
+          "id": "q4",
+          "type": "reading_comprehension",
+          "question": "¿Qué meridiano se toma como referencia cero (0°) mundial para medir la longitud hacia el Este u Oeste?",
+          "options": [
+            "El meridiano de Greenwich",
+            "La línea del Ecuador",
+            "El Círculo Antártico",
+            "El Trópico de Capricornio"
+          ],
+          "correct_answer": 0,
+          "explanation": "El meridiano de Greenwich en Inglaterra es el meridiano cero que divide las longitudes este y oeste.",
+          "points": 10
         }
       ],
-      "total_points": 30
+      "total_points": 40
     }
   ]
 }
