@@ -12,7 +12,7 @@
       "id": "story_opt_001",
       "slug": "el-laberinto-de-las-sombras-y-la-luz",
       "title": "El Laberinto de las Sombras y el Secreto de la Luz",
-      "summary": "Adrián explora un misterioso laberinto de piedra y descubre cómo la luz viaja en línea recta y genera sombras según el ángulo de incidencia.",
+      "summary": "Adrián explora un misterioso laberinto de piedra al atardecer y descubre experimentalmente cómo la propagación rectilínea de la luz determina el tamaño, la nitidez y la formación de sombras y penumbras.",
       "subject": {
         "id": "physics-optics",
         "name": "Física Óptica y Luz",
@@ -28,31 +28,44 @@
         "max": 14
       },
       "difficulty": "advanced",
-      "reading_time_min": 4,
-      "cover_image_path": "images/story_03_002.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_002.jpg",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_opt_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_001.jpg",
       "key_learnings": [
-        "La luz viaja siempre en línea recta mientras se propaga por un medio homogéneo.",
-        "Una sombra se produce cuando un cuerpo opaco bloquea el paso de los rayos de luz.",
-        "A menor ángulo de la fuente luminosa con respecto al suelo, más larga y alargada será la sombra proyectada."
+        "La luz viaja en línea recta en medios homogéneos (propagación rectilínea).",
+        "Una sombra se forma cuando un cuerpo opaco intercepta el haz luminoso.",
+        "El tamaño de la sombra proyectada depende de las distancias relativas entre la fuente luminosa, el objeto y la pantalla o pared.",
+        "Cuando la fuente de luz no es un punto diminuto sino extensa, se distinguen dos zonas: la umbra (oscuridad total) y la penumbra (borde difuso)."
       ],
       "fun_facts": [
         {
           "emoji": "☀️",
-          "fact": "Al mediodía, cuando el Sol está en su punto más alto (cenit), tu sombra es la más corta del día porque la luz incide casi verticalmente."
+          "fact": "Al mediodía solar, cuando el astro alcanza su punto más alto (cenit), tu sombra es la más corta del día porque los rayos caen casi verticales."
+        },
+        {
+          "emoji": "🌘",
+          "fact": "Los eclipses solares y lunares son gigantescas sombras espaciales gobernadas por la misma geometría óptica que proyectas con una linterna en tu habitación."
         }
       ],
       "glossary": [
         {
           "term": "Cuerpo opaco",
-          "definition": "Cualquier objeto que no permite que la luz lo atraviese (como una roca o una pared de piedra)."
+          "definition": "Material o cuerpo que absorbe o refleja la luz incidente sin permitir que pase a través de él."
         },
         {
           "term": "Ángulo de incidencia",
-          "definition": "La inclinación con la que los rayos de luz chocan contra una superficie o cuerpo."
+          "definition": "Ángulo formado por la dirección de los rayos de luz respecto a la perpendicular de la superficie sobre la que impactan."
+        },
+        {
+          "term": "Umbra",
+          "definition": "Región central de oscuridad completa donde la fuente luminosa queda totalmente bloqueada por el cuerpo opaco."
+        },
+        {
+          "term": "Penumbra",
+          "definition": "Zona periférica parcialmente iluminada donde solo una fracción de los rayos de luz es bloqueada."
         }
       ],
-      "content": "En el corazón de la ciudad existía un antiguo laberinto de altos muros de piedra conocido como el Laberinto de las Sombras. Adrián, fascinado por la física óptica, decidió entrar al atardecer llevando consigo una linterna de enfoque directo.\n\nAl cruzar los pasillos, notó que las sombras de los muros cambiaban de longitud con cada paso. Cuando el sol bajaba hacia el horizonte, las sombras de las piedras se estiraban como gigantes por el suelo.\n\nAdrián encendió su linterna y apuntó contra una estatua central: observó cómo la luz viajaba en perfecta línea recta. Al colocar su mano frente al haz de luz, la sombra en la pared imitó exactamente el contorno de sus dedos. Si acercaba la mano a la linterna, la sombra crecía; si la alejaba hacia la pared, la sombra se volvía nítida y pequeña.\n\nComprendió que las sombras no son misterios oscuros, sino la prueba visible de que la luz viaja en líneas rectas perfectas que ningún objeto opaco puede doblar.",
+      "content": "En el corazón de la ciudad antigua reposaba el Laberinto de las Sombras, una compleja red de altos muros de granito construida hace siglos. Adrián, curioso por comprobar las leyes de la óptica que leía en sus libros, decidió internarse en sus pasadizos justo al caer la tarde, llevando consigo una linterna de enfoque regulable y un cuaderno de notas.\n\nConforme el Sol descendía hacia el horizonte, los muros proyectaban siluetas inmensas y alargadas sobre el suelo de piedra. Adrián midió con pasos la sombra de una columna: a menor altura del Sol respecto al suelo, el ángulo rasante estiraba las siluetas como si fueran gigantes.\n\nAl llegar a la plaza central, el crepúsculo dejó el laberinto en penumbra. Adrián encendió su linterna y apuntó contra una estatua tallada en piedra caliza. En el aire suspendido flotaban diminutas motas de polvo que revelaron con nitidez el haz luminoso: un cono perfecto de líneas rectas imperturbables.\n\nColocó su mano frente al foco. Al aproximar los dedos a la lente de la linterna, la silueta en el muro creció de forma desproporcionada, cubriendo casi toda la pared; al retirarla hacia el muro, la silueta se encogió hasta coincidir con el tamaño real de su mano. Al ajustar el cabezal de la linterna para ensanchar la bombilla, observó otro fenómeno fascinante: el centro de la silueta era negro absoluto (la umbra), pero los bordes mostraban un contorno difuso y grisáceo (la penumbra).\n\nAdrián anotó su conclusión: las sombras no eran caprichos de la oscuridad, sino la huella geométrica que deja cualquier objeto opaco cuando interrumpe el viaje recto e imparable de la luz.",
       "questions": [
         {
           "id": "q1",
@@ -65,7 +78,7 @@
             "Una vela de cera"
           ],
           "correct_answer": 0,
-          "explanation": "Adrián llevó una linterna para proyectar haces de luz controlados en los muros de piedra.",
+          "explanation": "Adrián llevó una linterna de enfoque regulable para proyectar haces de luz controlados en los muros de piedra.",
           "points": 10
         },
         {
@@ -81,9 +94,23 @@
           "correct_answer": 0,
           "explanation": "Al atardecer, el sol está bajo en el horizonte, lo que proyecta rayos inclinados que alargan la sombra detrás de los objetos opacos.",
           "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Qué sucede con el tamaño de la sombra proyectada en la pared cuando Adrián acerca su mano hacia la linterna?",
+          "options": [
+            "La sombra aumenta de tamaño en la pared",
+            "La sombra disminuye de tamaño en la pared",
+            "La sombra desaparece de inmediato",
+            "La sombra cambia de color a rojo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un ángulo mayor del cono de rayos luminosos, proyectando una silueta mucho más grande sobre la pantalla o pared de fondo.",
+          "points": 10
         }
       ],
-      "total_points": 20
+      "total_points": 30
     }
   ]
 }
