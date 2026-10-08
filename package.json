@@ -1,0 +1,35 @@
+{
+  "name": "stories-db",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Database de cuentos en JSON para aplicaciones",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "validate": "node --no-warnings --experimental-strip-types scripts/validate.ts",
+    "build": "node --no-warnings --experimental-strip-types scripts/build.ts",
+    "typecheck": "tsc --noEmit",
+    "test:unit": "node --no-warnings --experimental-strip-types --test tests/**/*.test.ts",
+    "test": "npm run typecheck && npm run test:unit && npm run validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhohellsDL/stories-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhohellsDL/stories-db/issues"
+  },
+  "homepage": "https://github.com/JhohellsDL/stories-db#readme",
+  "dependencies": {
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  }
+}
