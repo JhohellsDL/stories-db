@@ -38,6 +38,8 @@ for (const file of subjectFiles) {
     name: parsed.subject.name,
     emoji: parsed.subject.emoji,
     color_hex: parsed.subject.color_hex,
+    description: parsed.subject.description,
+    images_url: parsed.subject.images_url,
     path: relPath,
     url: rawUrl,
     story_count: parsed.stories.length,

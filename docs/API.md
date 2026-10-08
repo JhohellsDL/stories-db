@@ -29,9 +29,15 @@ Contiene el catálogo completo de materias (`subjects`) y niveles de dificultad 
       "name": "Biología y Salud",
       "emoji": "🧬",
       "color_hex": "#10B981",
+      "description": "El cuerpo humano, los seres vivos y los hábitos saludables",
+      "images_url": [
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.png",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.png",
+        "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png"
+      ],
       "path": "stories/subjects/biology.json",
       "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/biology.json",
-      "story_count": 1
+      "story_count": 4
     },
     {
       "id": "environment",

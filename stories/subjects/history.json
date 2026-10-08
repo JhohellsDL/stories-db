@@ -5,9 +5,92 @@
     "name": "Historia y Civilizaciones",
     "emoji": "🏛️",
     "color_hex": "#8B5CF6",
-    "description": "Civilizaciones antiguas, grandes inventos, personajes y memoria cultural"
+    "description": "Civilizaciones antiguas, grandes inventos, personajes y memoria cultural",
+    "images_url": [
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/history_01.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/history_02.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/history_03.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/history_04.jpg"
+    ]
   },
   "stories": [
+    {
+      "id": "story_hist_002",
+      "slug": "kael-y-el-secreto-de-la-rueda",
+      "title": "Kael y el Secreto de la Rueda",
+      "summary": "En la antigua Mesopotamia, un niño ayuda a su padre a transportar vasijas de trigo sobre troncos cilíndricos, descubriendo la invención más importante del transporte.",
+      "subject": {
+        "id": "history",
+        "name": "Historia y Civilizaciones",
+        "emoji": "🏛️",
+        "color_hex": "#8B5CF6"
+      },
+      "topic": {
+        "id": "early-inventions-wheel",
+        "name": "Primeros Inventos de la Humanidad"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_hist_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_002.jpg",
+      "key_learnings": [
+        "Antes de inventar la rueda, los seres humanos arrastraban cargas pesadas con gran esfuerzo.",
+        "Los primeros rodillos de troncos inspiraron la creación de ruedas sólidas de madera.",
+        "La rueda facilitó la agricultura, el comercio y el nacimiento de las primeras ciudades."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🪵",
+          "fact": "Las primeras ruedas conocidas no se usaron para carretas, ¡sino para girar y moldear vasijas de barro en los talleres de alfarería!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Mesopotamia",
+          "definition": "Antigua región situada entre los ríos Tigris y Éufrates, cuna de algunas de las primeras civilizaciones."
+        },
+        {
+          "term": "Eje",
+          "definition": "Barra central que une dos ruedas y les permite girar juntas para mover un vehículo."
+        }
+      ],
+      "content": "Kael vivía junto al gran río Éufrates hace miles de años. Su familia cosechaba sacos de trigo y arcilla húmeda. Para llevar la carga al mercado del pueblo, arrastraban pesadas tablas sobre la arena.\n\n—Papá, mis brazos no pueden más —dijo Kael sentándose en una piedra a recuperar el aliento.\n\nEn ese momento, un tronco redondo cayó rodando con suavidad colina abajo, avanzando rápidamente sin esfuerzo. Kael abrió los ojos asombrado:\n\n—¡Mira, papá! El tronco no se frena con la arena, ¡gira sobre sí mismo!\n\nJuntos cortaron rodajas anchas de troncos de madera maciza, les abrieron un agujero en el centro y las unieron con una barra pulida. Cuando colocaron los sacos sobre la plataforma con ruedas, Kael pudo empujarla con un solo brazo.\n\nTodo el poblado celebró la idea. Habían inventado la carreta, y el mundo entero comenzó a moverse mucho más rápido.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto inspiró a Kael para facilitar el transporte de la carga?",
+          "options": [
+            "Un tronco redondo que rodaba por la colina",
+            "Una roca gigante cuadrada",
+            "Un bote de remos",
+            "Una soga de cáñamo"
+          ],
+          "correct_answer": 0,
+          "explanation": "El movimiento suave del tronco cilíndrico demostró que los objetos redondos reducen la fricción.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál fue el principal beneficio de la invención de la rueda para la humanidad?",
+          "options": [
+            "Permitió mover grandes pesos con mucho menor esfuerzo",
+            "Ayudó a que lloviera más seguido",
+            "Servía para enfriar los alimentos",
+            "Hizo que los ríos tuvieran más peces"
+          ],
+          "correct_answer": 0,
+          "explanation": "La rueda transformó el arrastre en rodadura, multiplicando la capacidad de transporte humano y comercial.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
     {
       "id": "story_hist_001",
       "slug": "la-biblioteca-de-las-puertas-secretas",
@@ -29,8 +112,8 @@
       },
       "difficulty": "intermediate",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_02_002.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_002.jpg",
+      "cover_image_path": "images/story_hist_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_001.jpg",
       "key_learnings": [
         "La invención de la escritura marcó el inicio de la historia registrada de la humanidad.",
         "Las antiguas bibliotecas (como la de Alejandría) reunían rollos de papiro y pergamino de distintas culturas.",
@@ -84,6 +167,101 @@
         }
       ],
       "total_points": 20
+    },
+    {
+      "id": "story_hist_003",
+      "slug": "el-acueducto-de-julia-y-el-agua-que-flotaba",
+      "title": "El Acueducto de Julia y el Agua que Flotaba",
+      "summary": "En la antigua Roma, Julia aprende de su tío ingeniero cómo los arcos de piedra y la gravedad permitían llevar agua potable a miles de personas a kilómetros de distancia.",
+      "subject": {
+        "id": "history",
+        "name": "Historia y Civilizaciones",
+        "emoji": "🏛️",
+        "color_hex": "#8B5CF6"
+      },
+      "topic": {
+        "id": "roman-engineering-aqueducts",
+        "name": "Ingeniería y Ciudades del Imperio Romano"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_hist_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_003.jpg",
+      "key_learnings": [
+        "Los ingenieros romanos construyeron acueductos para transportar agua fresca desde manantiales montañosos hasta el centro urbano.",
+        "Los acueductos funcionaban exclusivamente mediante la fuerza de gravedad gracias a una inclinación suave y constante del canal.",
+        "El arco de medio punto distribuía el enorme peso de la piedra permitiendo levantar puentes altos y resistentes."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏛️",
+          "fact": "Algunos acueductos romanos construidos hace más de dos mil años, como el de Segovia en España, todavía se mantienen en pie sin usar una sola gota de cemento entre sus bloques de granito."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Acueducto",
+          "definition": "Canal artificial elevado o subterráneo diseñado para transportar agua desde una fuente natural lejana hasta una ciudad."
+        },
+        {
+          "term": "Arco de medio punto",
+          "definition": "Estructura semicircular de piedra que reparte el peso superior hacia los pilares laterales, impidiendo el colapso del puente."
+        },
+        {
+          "term": "Pendiente",
+          "definition": "Inclinación de un terreno o canal que permite que los líquidos fluyan por gravedad."
+        }
+      ],
+      "content": "Julia subió con su tío Marco, arquitecto de la legión, a una colina que dominaba el valle de Segovia. Frente a ellos se alzaba una muralla de arcos dobles de granito que parecía tocar las nubes.\n\n—Tío, ¿por qué molestarse en construir puentes tan altos en vez de dejar que el río corra por el suelo? —preguntó Julia mientras tocaba los sillares tallados.\n\nMarco sacó una regla de madera con un nivel de agua de plomo:\n\n—El agua de los ríos cercanos al valle está estancada y puede transmitir enfermedades, Julia. El agua buena brota pura en los manantiales de las montañas, a quince kilómetros de aquí. Para traerla sin motores ni bombas eléctricas, que no existen, necesitamos que baje por gravedad.\n\n—¿Pero cómo cruza este barranco profundo sin caerse? —indagó Julia mirando al fondo del precipicio.\n\n—Por estos arcos —dijo Marco trazando un círculo con la mano—. La piedra clave central en la cima de cada arco empuja a las demás hacia abajo y hacia los lados, sosteniendo toneladas de peso. El canal superior tiene una pendiente perfecta de apenas tres centímetros por cada cien metros. El agua nunca se estanca y nunca se desborda.\n\nJulia vio llegar el chorro cristalino a las fuentes públicas de la ciudad. Comprendió que la grandeza de una civilización no se medía por sus guerras, sino por su capacidad de construir obras que protegieran la vida y la salud de sus ciudadanos.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿De dónde provenía el agua que transportaba el acueducto romano?",
+          "options": [
+            "De manantiales puros en las montañas lejanas",
+            "Del mar Mediterráneo",
+            "De charcos de lluvia del valle",
+            "De pozos subterráneos dentro de la ciudad"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los romanos captaban agua de manantiales montañosos limpios para evitar enfermedades.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué fuerza física permitía que el agua fluyera por los canales del acueducto?",
+          "options": [
+            "La fuerza de gravedad aprovechada mediante una suave pendiente continua",
+            "Motores a vapor instalados en los arcos",
+            "Bombas eléctricas de gran potencia",
+            "La presión del viento soplando por los túneles"
+          ],
+          "correct_answer": 0,
+          "explanation": "El diseño de los acueductos dependía de una leve inclinación calculada que hacía circular el agua por gravedad sin mecanismos activos.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Cuál es la ventaja arquitectónica del arco de medio punto en los acueductos?",
+          "options": [
+            "Distribuye el peso hacia los pilares laterales, soportando grandes cargas",
+            "Hace que el agua cambie de sabor a dulce",
+            "Impide que los pájaros aniden en la piedra",
+            "Permite calentar el canal durante el invierno"
+          ],
+          "correct_answer": 0,
+          "explanation": "El arco reparte el peso lateralmente hacia los pilares, otorgando una resistencia estructural extraordinaria sin derrumbarse.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
     }
   ]
 }

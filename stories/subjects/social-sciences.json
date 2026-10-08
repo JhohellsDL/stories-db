@@ -5,7 +5,13 @@
     "name": "Ciencias Sociales y Geografía",
     "emoji": "🧭",
     "color_hex": "#F59E0B",
-    "description": "Geografía, mapas, orientación espacial y comunidades"
+    "description": "Geografía, mapas, orientación espacial y comunidades",
+    "images_url": [
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_01.png",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_02.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_03.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_04.jpg"
+    ]
   },
   "stories": [
     {
@@ -25,12 +31,12 @@
       },
       "age_range": {
         "min": 7,
-        "max": 10
+        "max": 9
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_01_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.png",
+      "cover_image_path": "images/story_soc_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_001.png",
       "key_learnings": [
         "La brújula tiene una aguja imantada que siempre apunta hacia el Norte magnético de la Tierra.",
         "Los cuatro puntos cardinales principales son Norte, Sur, Este y Oeste.",
@@ -84,6 +90,178 @@
         }
       ],
       "total_points": 20
+    },
+    {
+      "id": "story_soc_002",
+      "slug": "el-mapa-secreto-de-mateo-y-las-escalas",
+      "title": "El Mapa Secreto de Mateo y las Escalas",
+      "summary": "Mateo aprende a dibujar un mapa a escala de su vecindario, descubriendo cómo los cartógrafos reducen distancias enormes en pequeñas hojas de papel.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "cartography-scale-symbols",
+        "name": "Cartografía y Lectura de Mapas"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 10
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_soc_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_002.jpg",
+      "key_learnings": [
+        "Un mapa es una representación gráfica plana y reducida de una porción de la superficie terrestre vista desde arriba.",
+        "La escala cartográfica indica cuántas veces se redujo la realidad para caber en el papel.",
+        "La leyenda del mapa explica el significado de los símbolos, colores y líneas utilizados."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🗺️",
+          "fact": "Es matemáticamente imposible proyectar la superficie redonda de la Tierra en un papel completamente plano sin distorsionar el tamaño de los continentes o las formas."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Escala gráfica",
+          "definition": "Línea graduada en un mapa que muestra la relación entre una medida en el dibujo y la distancia real en el terreno."
+        },
+        {
+          "term": "Leyenda",
+          "definition": "Cuadro explicativo en un mapa donde se aclaran los símbolos, colores y convenciones gráficas."
+        }
+      ],
+      "content": "Mateo quería organizar una búsqueda del tesoro para el cumpleaños de su prima. Dibujó su casa y el parque en una hoja, pero al intentar medir el camino, el parque le quedó del tamaño de una moneda y su casa ocupaba casi toda la hoja.\n\nSu abuelo, topógrafo retirado, sacó una cinta métrica y una regla de madera:\n\n—Para que un mapa funcione de verdad, Mateo, necesitas usar una escala matemática. No puedes inventar los tamaños.\n\n—¿Cómo metemos doscientos metros de parque en una hoja de cuaderno? —preguntó Mateo con curiosidad.\n\n—Con una regla de proporción: diremos que cada centímetro que dibujes en el papel representará diez metros reales de terreno. Así, un parque de cien metros medirá exactamente diez centímetros en tu mapa.\n\nMateo midió con pasos, usó su regla y añadió una leyenda en la esquina: una cruz azul para la fuente de agua, un triángulo verde para los pinos viejos y una estrella dorada para el tesoro escondido. Cuando sus amigos siguieron el plano, encontraron la caja sorpresa a la primera sin perderse jamás.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué función cumplió la leyenda en la esquina del mapa de Mateo?",
+          "options": [
+            "Explicar qué significaban los símbolos y colores utilizados",
+            "Servir como adorno para colorear",
+            "Anotar el precio de la hoja de papel",
+            "Escribir una poesía"
+          ],
+          "correct_answer": 0,
+          "explanation": "La leyenda es el diccionario del mapa que descifra cada símbolo gráfico.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "Si en un mapa la escala indica que 1 centímetro equivale a 10 metros reales, ¿cuántos metros representan 5 centímetros medidos con la regla?",
+          "options": [
+            "50 metros",
+            "15 metros",
+            "5 metros",
+            "500 metros"
+          ],
+          "correct_answer": 0,
+          "explanation": "Multiplicando los 5 cm del papel por los 10 metros correspondientes a cada centímetro obtenemos 50 metros reales.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_soc_003",
+      "slug": "elena-y-las-lineas-invisibles-del-planeta",
+      "title": "Elena y las Líneas Invisibles del Planeta",
+      "summary": "Elena viaja en barco con su madre capitana y aprende cómo los paralelos, meridianos y las coordenadas GPS permiten ubicar cualquier punto exacto en medio del océano.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "geographic-coordinates-globe",
+        "name": "Coordenadas Geográficas: Latitud y Longitud"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_soc_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_003.jpg",
+      "key_learnings": [
+        "La Tierra está dividida por una cuadrícula imaginaria de paralelos (latitud) y meridianos (longitud).",
+        "La línea del Ecuador es el paralelo cero que separa el hemisferio Norte del hemisferio Sur.",
+        "El meridiano de Greenwich es la referencia cero para medir hacia el Este y el Oeste y organizar los husos horarios del mundo."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🛰️",
+          "fact": "El sistema GPS de los teléfonos inteligentes se conecta al menos con 4 satélites en el espacio simultáneamente para calcular tus coordenadas exactas en metros."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Latitud",
+          "definition": "Distancia angular medida en grados desde cualquier punto de la Tierra hasta la línea del Ecuador (Norte o Sur)."
+        },
+        {
+          "term": "Longitud",
+          "definition": "Distancia angular en grados medida desde cualquier punto de la Tierra respecto al meridiano de Greenwich (Este u Oeste)."
+        },
+        {
+          "term": "Ecuador",
+          "definition": "El paralelo principal que divide al planeta en dos partes iguales: hemisferio Norte y hemisferio Sur."
+        }
+      ],
+      "content": "Elena estaba en el puente de mando de un barco oceanográfico en medio del océano Pacífico. Miraba por la ventana panorámica: a su alrededor solo había agua azul infinita, sin islas, sin montañas ni postes de guía.\n\n—Mamá, ¿cómo sabemos exactamente dónde estamos sin estrellarnos ni dar vueltas en círculos? —preguntó Elena a la capitana.\n\nSu madre encendió la pantalla de navegación:\n\n—El planeta entero está cubierto por una malla de líneas invisibles trazadas por la ciencia geográfica. Imagina una red de pesca gigante que envuelve al globo terráqueo.\n\nSeñaló dos números en la pantalla satelital:\n\n—Estas son nuestras coordenadas geográficas: 12 grados de Latitud Sur y 77 grados de Longitud Oeste. La latitud nos dice qué tan cerca o lejos estamos del Ecuador, la cintura del planeta. La longitud nos dice qué tan al este o al oeste nos encontramos del meridiano de Greenwich, en Inglaterra.\n\n—¡Es como jugar a la batalla naval! —exclamó Elena emocionada—. Donde se cruzan esas dos líneas de números hay un solo punto irrepetible en todo el planeta.\n\n—Exactamente —dijo la capitana—. Gracias a esta cuadrícula, cualquier barco, avión o ambulancia puede ser rescatado en segundos en cualquier rincón del mundo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar se encontraba Elena cuando le preguntó a su madre cómo se orientaban?",
+          "options": [
+            "En el puente de mando de un barco en medio del océano",
+            "En la estación de tren de la ciudad",
+            "En la cabina de un avión comercial",
+            "En una tienda de campana en el bosque"
+          ],
+          "correct_answer": 0,
+          "explanation": "Elena navegaba en altamar a bordo de un buque oceanográfico.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué línea imaginaria divide a la Tierra en el hemisferio Norte y el hemisferio Sur?",
+          "options": [
+            "La línea del Ecuador",
+            "El meridiano de Greenwich",
+            "El Trópico de Cáncer",
+            "El Círculo Polar Ártico"
+          ],
+          "correct_answer": 0,
+          "explanation": "El Ecuador es el paralelo 0° que corta horizontalmente la Tierra en los hemisferios Norte y Sur.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Para qué sirve el cruce exacto de una línea de latitud con una de longitud?",
+          "options": [
+            "Para determinar unas coordenadas únicas y localizar cualquier punto en el planeta",
+            "Para medir la profundidad del fondo del mar",
+            "Para predecir el color de los peces",
+            "Para saber cuánta gasolina le queda al motor"
+          ],
+          "correct_answer": 0,
+          "explanation": "La intersección de latitud y longitud establece la posición geográfica precisa en el sistema de coordenadas.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
     }
   ]
 }

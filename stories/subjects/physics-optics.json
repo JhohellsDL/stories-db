@@ -5,7 +5,12 @@
     "name": "Física Óptica y Luz",
     "emoji": "💡",
     "color_hex": "#EC4899",
-    "description": "Propagación de la luz, sombras, reflexión, refracción y percepción visual"
+    "description": "Propagación de la luz, sombras, reflexión, refracción y percepción visual",
+    "images_url": [
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/physics_01.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/physics_02.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/physics_03.jpg"
+    ]
   },
   "stories": [
     {
@@ -24,10 +29,10 @@
         "name": "Propagación de la Luz y Geometría de las Sombras"
       },
       "age_range": {
-        "min": 10,
-        "max": 14
+        "min": 9,
+        "max": 12
       },
-      "difficulty": "advanced",
+      "difficulty": "intermediate",
       "reading_time_min": 5,
       "cover_image_path": "images/story_opt_001.jpg",
       "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_001.jpg",
@@ -72,7 +77,7 @@
           "type": "reading_comprehension",
           "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
           "options": [
-            "Una linterna de enfoque directo",
+            "Una linterna de enfoque regulable",
             "Un espejo mágico",
             "Una cámara de fotos",
             "Una vela de cera"
@@ -106,7 +111,256 @@
             "La sombra cambia de color a rojo"
           ],
           "correct_answer": 0,
-          "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un ángulo mayor del cono de rayos luminosos, proyectando una silueta mucho más grande sobre la pantalla o pared de fondo.",
+          "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un cono mayor de rayos luminosos, proyectando una silueta más grande en la pared.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
+    },
+    {
+      "id": "story_opt_002",
+      "slug": "el-espejo-rebotador-de-valeria",
+      "title": "Valeria y el Rayo Rebotador",
+      "summary": "Una niña utiliza pequeños espejos de mano para guiar un destello de luz solar hasta un rincón oscuro de su habitación, aprendiendo la ley de la reflexión de forma intuitiva.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "reflection-mirrors",
+        "name": "La Reflexión de la Luz y los Espejos"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_opt_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_002.jpg",
+      "key_learnings": [
+        "La reflexión ocurre cuando un rayo de luz choca contra una superficie lisa y pulida y rebota en otra dirección.",
+        "El ángulo con el que la luz golpea el espejo es idéntico al ángulo con el que sale rebotada.",
+        "Los espejos planos forman imágenes del mismo tamaño pero invertidas lateralmente (la derecha parece la izquierda)."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🪞",
+          "fact": "La palabra 'AMBULANCIA' está escrita al revés en la parte delantera de los vehículos médicos para que los conductores la lean correctamente al mirarla por el espejo retrovisor."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Reflexión",
+          "definition": "El rebote de la luz al chocar contra una superficie pulida que no la deja pasar."
+        },
+        {
+          "term": "Superficie pulida",
+          "definition": "Una superficie tan lisa y uniforme que refleja la luz sin dispersarla en todas direcciones."
+        }
+      ],
+      "content": "Valeria quería iluminar la casita de muñecas que había quedado en la esquina más oscura de su cuarto. La ventana estaba lejos y el rayo del sol de la mañana solo caía sobre el escritorio.\n\n—Tengo una idea —dijo Valeria tomando el espejo de mano de su mamá.\n\nSe paró junto a la mesa e interceptó el haz brillante de sol. De inmediato, un disco de luz saltó del espejo hacia el techo. Valeria inclinó su mano hacia abajo: el disco se deslizó por la pared. Lo inclinó un poco más hacia la derecha y... ¡bingo! El rayo rebotó directo dentro de la sala de su casita de juguetes.\n\nSu hermano Tomás se asomó intrigado:\n\n—¿Cómo hiciste esa curva con la luz si la luz solo va en línea recta?\n\n—No dio una curva, ¡rebotó como una pelota de tenis! —le explicó Valeria risueña—. Si la pelota pega de costado contra la pared, sale disparada hacia el otro lado con la misma inclinación. El espejo hace exactamente lo mismo con los rayos del sol.\n\nTomás trajo otro espejito y ambos hicieron un circuito: del sol al primer espejo, del primero al segundo, y del segundo iluminaron una planta que nunca recibía sol.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto utilizó Valeria para llevar la luz del sol hasta el rincón oscuro?",
+          "options": [
+            "Un espejo de mano",
+            "Un pedazo de cartón",
+            "Una lupa de aumento",
+            "Una bufanda de lana"
+          ],
+          "correct_answer": 0,
+          "explanation": "Valeria usó un espejo de mano para hacer rebotar la luz del sol en la dirección deseada.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama el fenómeno por el cual la luz rebota al chocar contra una superficie pulida?",
+          "options": [
+            "Reflexión",
+            "Combustión",
+            "Erosión",
+            "Evaporación"
+          ],
+          "correct_answer": 0,
+          "explanation": "La reflexión es el cambio de dirección que experimenta un rayo de luz al chocar con una superficie reflectante.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_opt_003",
+      "slug": "el-lapiz-roto-en-el-vaso",
+      "title": "Leo y el Truco del Lápiz Roto",
+      "summary": "Durante un experimento escolar con agua, aceite y un vaso de cristal, Leo descubre la refracción y comprende por qué la velocidad de la luz cambia según el medio por el que viaja.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "refraction-lenses",
+        "name": "La Refracción y la Velocidad de la Luz"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_opt_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_003.jpg",
+      "key_learnings": [
+        "La refracción es el cambio de dirección y velocidad que sufre la luz al pasar de un medio a otro (por ejemplo, del aire al agua).",
+        "La luz viaja más rápido en el aire que en el agua o el vidrio debido a la densidad de cada material.",
+        "Las lentes de las gafas y los microscopios funcionan aprovechando la curvatura de la luz por refracción."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏊",
+          "fact": "Cuando miras tus pies dentro de una piscina, parecen estar mucho más cerca de la superficie de lo que realmente están debido a la refracción del agua."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Refracción",
+          "definition": "El desvío que experimentan los rayos de luz cuando cruzan la frontera entre dos materiales transparentes distintos."
+        },
+        {
+          "term": "Medio transparente",
+          "definition": "Cualquier sustancia o material que deja pasar la luz a través de él de forma clara (como el aire, el agua pura o el vidrio)."
+        }
+      ],
+      "content": "Leo sumergió un lápiz amarillo nuevo en un vaso de vidrio lleno hasta la mitad con agua fresca. Al mirarlo de frente, pegó un brinco de sorpresa:\n\n—¡Profe Clara, el lápiz se partió en dos!\n\nLa profesora se acercó con una sonrisa y le pidió que sacara el lápiz del agua. El lápiz salió intacto, perfectamente recto y sin ningún rasguño.\n\n—¿Es magia de ilusionista? —preguntó Leo volviéndolo a meter con cautela.\n\n—No es magia, es refracción —respondió la profesora Clara—. La luz viaja muy velozmente por el aire, pero cuando entra en el agua, que es más densa y pesada, la luz se frena un poquito. Al cambiar de velocidad en diagonal, los rayos de luz se doblan, como las ruedas de un carrito cuando una de ellas entra al barro antes que la otra.\n\nLeo movió la cabeza hacia arriba y hacia los lados. Notó que la parte del lápiz sumergida no solo parecía cortada hacia un lado, sino ligeramente más gruesa.\n\n—Así que mis ojos ven el lápiz donde la luz desviada le dice a mi cerebro que está, no donde realmente se encuentra —razonó Leo asombrado.\n\n—Exacto —concluyó la maestra—. Y gracias a esa misma desviación calculada, los anteojos corrigen la vista de millones de personas en el mundo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué parecía que el lápiz estaba roto cuando estaba dentro del vaso?",
+          "options": [
+            "Porque los rayos de luz se desviaron al pasar del agua al aire",
+            "Porque el agua disolvió la madera del lápiz",
+            "Porque el vaso de vidrio estaba agrietado",
+            "Porque la tinta del lápiz reaccionó con el agua"
+          ],
+          "correct_answer": 0,
+          "explanation": "La refracción desvía los rayos de luz que salen del agua hacia nuestros ojos, creando la ilusión óptica de que el objeto está quebrado.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué ocurre con la velocidad de la luz cuando pasa del aire al agua?",
+          "options": [
+            "Disminuye su velocidad porque el agua es más densa que el aire",
+            "Aumenta su velocidad al doble",
+            "La luz se detiene por completo y se apaga",
+            "Se transforma de inmediato en sonido"
+          ],
+          "correct_answer": 0,
+          "explanation": "En medios más densos como el agua o el vidrio, la luz viaja más despacio que en el aire o en el vacío.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_opt_004",
+      "slug": "el-secreto-del-arcoiris-y-el-prisma",
+      "title": "Sofía y la Máquina de Colores Ocultos",
+      "summary": "Con un prisma triangular de cristal, Sofía recrea el célebre experimento de Isaac Newton y descubre que la luz blanca del sol contiene todos los colores del arcoíris.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "dispersion-colors",
+        "name": "Dispersión de la Luz y el Espectro Visible"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_opt_004.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_004.jpg",
+      "key_learnings": [
+        "La luz blanca no es un color único, sino una combinación de todas las longitudes de onda del espectro visible.",
+        "La dispersión luminosa separa la luz blanca en sus colores componentes al refractar cada color con un ángulo ligeramente distinto.",
+        "Las gotas de lluvia actúan como diminutos prismas naturales en el cielo, originando los arcoíris tras una tormenta."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌈",
+          "fact": "En realidad, todos los arcoíris son círculos completos en el cielo, pero desde la tierra solo vemos un semicírculo porque el horizonte nos tapa la otra mitad."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Dispersión cromática",
+          "definition": "Separación de un haz de luz blanca en los colores que lo componen al atravesar un medio refringente como un prisma o una gota."
+        },
+        {
+          "term": "Espectro visible",
+          "definition": "La gama de colores que los ojos humanos son capaces de percibir: rojo, naranja, amarillo, verde, cian, azul y violeta."
+        },
+        {
+          "term": "Prisma óptico",
+          "definition": "Bloque geométrico de vidrio o plástico transparente con caras pulidas no paralelas que desvía y separa la luz."
+        }
+      ],
+      "content": "Sofía cerró las persianas de su habitación dejando solo una pequeña rendija por la que se colaba un haz delgado de luz solar directa. Sobre su escritorio colocó una pirámide alargada de cristal: un prisma óptico que le había regalado su tía astrofísica.\n\nColocó una cartulina blanca frente al prisma y giró la pieza de vidrio lentamente. Al interceptar el rayo blanco, ocurrió algo maravilloso: la cartulina no mostró un punto blanco, sino una brillante cinta desplegada de siete colores en degradado perfecto: rojo, naranja, amarillo, verde, azul, añil y violeta.\n\n—El rojo apenas se desvió, pero el violeta se inclinó muchísimo más —anotó Sofía en su libreta de campo mientras medía las bandas de color.\n\nSu tía entró al cuarto y contempló la franja luminosa proyectada:\n\n—¿Sabes qué descubrió Isaac Newton en 1666 con este mismo montaje? Que el prisma no le añade pintura mágica a la luz. Esos colores siempre estuvieron dentro del haz blanco del Sol, viajando juntos como un coro de voces afinadas.\n\n—Y al entrar al vidrio, como cada color viaja a una frecuencia distinta, se doblan en ángulos diferentes —añadió Sofía recordando sus lecturas de clase.\n\n—Exacto —asintió su tía—. Y cuando llueve y sale el Sol al mismo tiempo, millones de gotas de agua flotando en el aire hacen exactamente el mismo trabajo que tu prisma, regalándonos el arcoíris en el cielo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto utilizó Sofía para descomponer la luz blanca del sol en colores?",
+          "options": [
+            "Un prisma triangular de cristal",
+            "Un espejo plano común",
+            "Un filtro de tela roja",
+            "Una lámina de metal pulido"
+          ],
+          "correct_answer": 0,
+          "explanation": "El prisma óptico de cristal separa los distintos colores de la luz blanca mediante dispersión cromática.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué demuestra que la luz blanca se separe en colores al pasar por un prisma?",
+          "options": [
+            "Que la luz blanca es la mezcla de todos los colores del espectro visible",
+            "Que el vidrio tiñe la luz con tintas invisibles",
+            "Que la luz pierde toda su energía en el cristal",
+            "Que los colores solo existen dentro del vidrio"
+          ],
+          "correct_answer": 0,
+          "explanation": "La luz blanca está formada por la superposición de todas las longitudes de onda del espectro de colores visible.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Qué elemento de la naturaleza actúa como pequeños prismas para formar los arcoíris en el cielo?",
+          "options": [
+            "Las gotas suspendidas de lluvia",
+            "Las hojas secas de los árboles",
+            "Los granos de arena del viento",
+            "El humo de las fogatas"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las gotas de agua refractan y reflejan la luz solar dispersándola en sus colores componentes en el cielo.",
           "points": 10
         }
       ],

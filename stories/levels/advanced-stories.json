@@ -5,10 +5,105 @@
   "emoji": "⚡",
   "stories": [
     {
-      "id": "story_opt_001",
-      "slug": "el-laberinto-de-las-sombras-y-la-luz",
-      "title": "El Laberinto de las Sombras y el Secreto de la Luz",
-      "summary": "Adrián explora un misterioso laberinto de piedra al atardecer y descubre experimentalmente cómo la propagación rectilínea de la luz determina el tamaño, la nitidez y la formación de sombras y penumbras.",
+      "id": "story_hist_003",
+      "slug": "el-acueducto-de-julia-y-el-agua-que-flotaba",
+      "title": "El Acueducto de Julia y el Agua que Flotaba",
+      "summary": "En la antigua Roma, Julia aprende de su tío ingeniero cómo los arcos de piedra y la gravedad permitían llevar agua potable a miles de personas a kilómetros de distancia.",
+      "subject": {
+        "id": "history",
+        "name": "Historia y Civilizaciones",
+        "emoji": "🏛️",
+        "color_hex": "#8B5CF6"
+      },
+      "topic": {
+        "id": "roman-engineering-aqueducts",
+        "name": "Ingeniería y Ciudades del Imperio Romano"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_hist_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_003.jpg",
+      "key_learnings": [
+        "Los ingenieros romanos construyeron acueductos para transportar agua fresca desde manantiales montañosos hasta el centro urbano.",
+        "Los acueductos funcionaban exclusivamente mediante la fuerza de gravedad gracias a una inclinación suave y constante del canal.",
+        "El arco de medio punto distribuía el enorme peso de la piedra permitiendo levantar puentes altos y resistentes."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏛️",
+          "fact": "Algunos acueductos romanos construidos hace más de dos mil años, como el de Segovia en España, todavía se mantienen en pie sin usar una sola gota de cemento entre sus bloques de granito."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Acueducto",
+          "definition": "Canal artificial elevado o subterráneo diseñado para transportar agua desde una fuente natural lejana hasta una ciudad."
+        },
+        {
+          "term": "Arco de medio punto",
+          "definition": "Estructura semicircular de piedra que reparte el peso superior hacia los pilares laterales, impidiendo el colapso del puente."
+        },
+        {
+          "term": "Pendiente",
+          "definition": "Inclinación de un terreno o canal que permite que los líquidos fluyan por gravedad."
+        }
+      ],
+      "content": "Julia subió con su tío Marco, arquitecto de la legión, a una colina que dominaba el valle de Segovia. Frente a ellos se alzaba una muralla de arcos dobles de granito que parecía tocar las nubes.\n\n—Tío, ¿por qué molestarse en construir puentes tan altos en vez de dejar que el río corra por el suelo? —preguntó Julia mientras tocaba los sillares tallados.\n\nMarco sacó una regla de madera con un nivel de agua de plomo:\n\n—El agua de los ríos cercanos al valle está estancada y puede transmitir enfermedades, Julia. El agua buena brota pura en los manantiales de las montañas, a quince kilómetros de aquí. Para traerla sin motores ni bombas eléctricas, que no existen, necesitamos que baje por gravedad.\n\n—¿Pero cómo cruza este barranco profundo sin caerse? —indagó Julia mirando al fondo del precipicio.\n\n—Por estos arcos —dijo Marco trazando un círculo con la mano—. La piedra clave central en la cima de cada arco empuja a las demás hacia abajo y hacia los lados, sosteniendo toneladas de peso. El canal superior tiene una pendiente perfecta de apenas tres centímetros por cada cien metros. El agua nunca se estanca y nunca se desborda.\n\nJulia vio llegar el chorro cristalino a las fuentes públicas de la ciudad. Comprendió que la grandeza de una civilización no se medía por sus guerras, sino por su capacidad de construir obras que protegieran la vida y la salud de sus ciudadanos.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿De dónde provenía el agua que transportaba el acueducto romano?",
+          "options": [
+            "De manantiales puros en las montañas lejanas",
+            "Del mar Mediterráneo",
+            "De charcos de lluvia del valle",
+            "De pozos subterráneos dentro de la ciudad"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los romanos captaban agua de manantiales montañosos limpios para evitar enfermedades.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué fuerza física permitía que el agua fluyera por los canales del acueducto?",
+          "options": [
+            "La fuerza de gravedad aprovechada mediante una suave pendiente continua",
+            "Motores a vapor instalados en los arcos",
+            "Bombas eléctricas de gran potencia",
+            "La presión del viento soplando por los túneles"
+          ],
+          "correct_answer": 0,
+          "explanation": "El diseño de los acueductos dependía de una leve inclinación calculada que hacía circular el agua por gravedad sin mecanismos activos.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Cuál es la ventaja arquitectónica del arco de medio punto en los acueductos?",
+          "options": [
+            "Distribuye el peso hacia los pilares laterales, soportando grandes cargas",
+            "Hace que el agua cambie de sabor a dulce",
+            "Impide que los pájaros aniden en la piedra",
+            "Permite calentar el canal durante el invierno"
+          ],
+          "correct_answer": 0,
+          "explanation": "El arco reparte el peso lateralmente hacia los pilares, otorgando una resistencia estructural extraordinaria sin derrumbarse.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
+    },
+    {
+      "id": "story_opt_004",
+      "slug": "el-secreto-del-arcoiris-y-el-prisma",
+      "title": "Sofía y la Máquina de Colores Ocultos",
+      "summary": "Con un prisma triangular de cristal, Sofía recrea el célebre experimento de Isaac Newton y descubre que la luz blanca del sol contiene todos los colores del arcoíris.",
       "subject": {
         "id": "physics-optics",
         "name": "Física Óptica y Luz",
@@ -16,93 +111,84 @@
         "color_hex": "#EC4899"
       },
       "topic": {
-        "id": "light-and-shadows",
-        "name": "Propagación de la Luz y Geometría de las Sombras"
+        "id": "dispersion-colors",
+        "name": "Dispersión de la Luz y el Espectro Visible"
       },
       "age_range": {
         "min": 10,
-        "max": 14
+        "max": 12
       },
       "difficulty": "advanced",
       "reading_time_min": 5,
-      "cover_image_path": "images/story_opt_001.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_001.jpg",
+      "cover_image_path": "images/story_opt_004.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_004.jpg",
       "key_learnings": [
-        "La luz viaja en línea recta en medios homogéneos (propagación rectilínea).",
-        "Una sombra se forma cuando un cuerpo opaco intercepta el haz luminoso.",
-        "El tamaño de la sombra proyectada depende de las distancias relativas entre la fuente luminosa, el objeto y la pantalla o pared.",
-        "Cuando la fuente de luz no es un punto diminuto sino extensa, se distinguen dos zonas: la umbra (oscuridad total) y la penumbra (borde difuso)."
+        "La luz blanca no es un color único, sino una combinación de todas las longitudes de onda del espectro visible.",
+        "La dispersión luminosa separa la luz blanca en sus colores componentes al refractar cada color con un ángulo ligeramente distinto.",
+        "Las gotas de lluvia actúan como diminutos prismas naturales en el cielo, originando los arcoíris tras una tormenta."
       ],
       "fun_facts": [
         {
-          "emoji": "☀️",
-          "fact": "Al mediodía solar, cuando el astro alcanza su punto más alto (cenit), tu sombra es la más corta del día porque los rayos caen casi verticales."
-        },
-        {
-          "emoji": "🌘",
-          "fact": "Los eclipses solares y lunares son gigantescas sombras espaciales gobernadas por la misma geometría óptica que proyectas con una linterna en tu habitación."
+          "emoji": "🌈",
+          "fact": "En realidad, todos los arcoíris son círculos completos en el cielo, pero desde la tierra solo vemos un semicírculo porque el horizonte nos tapa la otra mitad."
         }
       ],
       "glossary": [
         {
-          "term": "Cuerpo opaco",
-          "definition": "Material o cuerpo que absorbe o refleja la luz incidente sin permitir que pase a través de él."
+          "term": "Dispersión cromática",
+          "definition": "Separación de un haz de luz blanca en los colores que lo componen al atravesar un medio refringente como un prisma o una gota."
         },
         {
-          "term": "Ángulo de incidencia",
-          "definition": "Ángulo formado por la dirección de los rayos de luz respecto a la perpendicular de la superficie sobre la que impactan."
+          "term": "Espectro visible",
+          "definition": "La gama de colores que los ojos humanos son capaces de percibir: rojo, naranja, amarillo, verde, cian, azul y violeta."
         },
         {
-          "term": "Umbra",
-          "definition": "Región central de oscuridad completa donde la fuente luminosa queda totalmente bloqueada por el cuerpo opaco."
-        },
-        {
-          "term": "Penumbra",
-          "definition": "Zona periférica parcialmente iluminada donde solo una fracción de los rayos de luz es bloqueada."
+          "term": "Prisma óptico",
+          "definition": "Bloque geométrico de vidrio o plástico transparente con caras pulidas no paralelas que desvía y separa la luz."
         }
       ],
-      "content": "En el corazón de la ciudad antigua reposaba el Laberinto de las Sombras, una compleja red de altos muros de granito construida hace siglos. Adrián, curioso por comprobar las leyes de la óptica que leía en sus libros, decidió internarse en sus pasadizos justo al caer la tarde, llevando consigo una linterna de enfoque regulable y un cuaderno de notas.\n\nConforme el Sol descendía hacia el horizonte, los muros proyectaban siluetas inmensas y alargadas sobre el suelo de piedra. Adrián midió con pasos la sombra de una columna: a menor altura del Sol respecto al suelo, el ángulo rasante estiraba las siluetas como si fueran gigantes.\n\nAl llegar a la plaza central, el crepúsculo dejó el laberinto en penumbra. Adrián encendió su linterna y apuntó contra una estatua tallada en piedra caliza. En el aire suspendido flotaban diminutas motas de polvo que revelaron con nitidez el haz luminoso: un cono perfecto de líneas rectas imperturbables.\n\nColocó su mano frente al foco. Al aproximar los dedos a la lente de la linterna, la silueta en el muro creció de forma desproporcionada, cubriendo casi toda la pared; al retirarla hacia el muro, la silueta se encogió hasta coincidir con el tamaño real de su mano. Al ajustar el cabezal de la linterna para ensanchar la bombilla, observó otro fenómeno fascinante: el centro de la silueta era negro absoluto (la umbra), pero los bordes mostraban un contorno difuso y grisáceo (la penumbra).\n\nAdrián anotó su conclusión: las sombras no eran caprichos de la oscuridad, sino la huella geométrica que deja cualquier objeto opaco cuando interrumpe el viaje recto e imparable de la luz.",
+      "content": "Sofía cerró las persianas de su habitación dejando solo una pequeña rendija por la que se colaba un haz delgado de luz solar directa. Sobre su escritorio colocó una pirámide alargada de cristal: un prisma óptico que le había regalado su tía astrofísica.\n\nColocó una cartulina blanca frente al prisma y giró la pieza de vidrio lentamente. Al interceptar el rayo blanco, ocurrió algo maravilloso: la cartulina no mostró un punto blanco, sino una brillante cinta desplegada de siete colores en degradado perfecto: rojo, naranja, amarillo, verde, azul, añil y violeta.\n\n—El rojo apenas se desvió, pero el violeta se inclinó muchísimo más —anotó Sofía en su libreta de campo mientras medía las bandas de color.\n\nSu tía entró al cuarto y contempló la franja luminosa proyectada:\n\n—¿Sabes qué descubrió Isaac Newton en 1666 con este mismo montaje? Que el prisma no le añade pintura mágica a la luz. Esos colores siempre estuvieron dentro del haz blanco del Sol, viajando juntos como un coro de voces afinadas.\n\n—Y al entrar al vidrio, como cada color viaja a una frecuencia distinta, se doblan en ángulos diferentes —añadió Sofía recordando sus lecturas de clase.\n\n—Exacto —asintió su tía—. Y cuando llueve y sale el Sol al mismo tiempo, millones de gotas de agua flotando en el aire hacen exactamente el mismo trabajo que tu prisma, regalándonos el arcoíris en el cielo.",
       "questions": [
         {
           "id": "q1",
           "type": "reading_comprehension",
-          "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
+          "question": "¿Qué objeto utilizó Sofía para descomponer la luz blanca del sol en colores?",
           "options": [
-            "Una linterna de enfoque directo",
-            "Un espejo mágico",
-            "Una cámara de fotos",
-            "Una vela de cera"
+            "Un prisma triangular de cristal",
+            "Un espejo plano común",
+            "Un filtro de tela roja",
+            "Una lámina de metal pulido"
           ],
           "correct_answer": 0,
-          "explanation": "Adrián llevó una linterna de enfoque regulable para proyectar haces de luz controlados en los muros de piedra.",
+          "explanation": "El prisma óptico de cristal separa los distintos colores de la luz blanca mediante dispersión cromática.",
           "points": 10
         },
         {
           "id": "q2",
           "type": "educational_concept",
-          "question": "¿Por qué las sombras son mucho más largas al atardecer que al mediodía?",
+          "question": "¿Qué demuestra que la luz blanca se separe en colores al pasar por un prisma?",
           "options": [
-            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo",
-            "Porque la luz viaja más despacio en la tarde",
-            "Porque el aire se enfría",
-            "Porque los objetos crecen de tamaño"
+            "Que la luz blanca es la mezcla de todos los colores del espectro visible",
+            "Que el vidrio tiñe la luz con tintas invisibles",
+            "Que la luz pierde toda su energía en el cristal",
+            "Que los colores solo existen dentro del vidrio"
           ],
           "correct_answer": 0,
-          "explanation": "Al atardecer, el sol está bajo en el horizonte, lo que proyecta rayos inclinados que alargan la sombra detrás de los objetos opacos.",
+          "explanation": "La luz blanca está formada por la superposición de todas las longitudes de onda del espectro de colores visible.",
           "points": 10
         },
         {
           "id": "q3",
           "type": "educational_concept",
-          "question": "¿Qué sucede con el tamaño de la sombra proyectada en la pared cuando Adrián acerca su mano hacia la linterna?",
+          "question": "¿Qué elemento de la naturaleza actúa como pequeños prismas para formar los arcoíris en el cielo?",
           "options": [
-            "La sombra aumenta de tamaño en la pared",
-            "La sombra disminuye de tamaño en la pared",
-            "La sombra desaparece de inmediato",
-            "La sombra cambia de color a rojo"
+            "Las gotas suspendidas de lluvia",
+            "Las hojas secas de los árboles",
+            "Los granos de arena del viento",
+            "El humo de las fogatas"
           ],
           "correct_answer": 0,
-          "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un ángulo mayor del cono de rayos luminosos, proyectando una silueta mucho más grande sobre la pantalla o pared de fondo.",
+          "explanation": "Las gotas de agua refractan y reflejan la luz solar dispersándola en sus colores componentes en el cielo.",
           "points": 10
         }
       ],
@@ -125,12 +211,12 @@
       },
       "age_range": {
         "min": 10,
-        "max": 14
+        "max": 12
       },
       "difficulty": "advanced",
       "reading_time_min": 5,
-      "cover_image_path": "images/story_03_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_001.png",
+      "cover_image_path": "images/story_ast_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_001.png",
       "key_learnings": [
         "Una estación orbital se mantiene alrededor de un planeta gracias al equilibrio entre la gravedad y su velocidad de traslación (órbita).",
         "En el espacio, los telescopios y estaciones pueden observar las estrellas sin la distorsión de la atmósfera terrestre.",
@@ -184,6 +270,196 @@
         }
       ],
       "total_points": 20
+    },
+    {
+      "id": "story_soc_003",
+      "slug": "elena-y-las-lineas-invisibles-del-planeta",
+      "title": "Elena y las Líneas Invisibles del Planeta",
+      "summary": "Elena viaja en barco con su madre capitana y aprende cómo los paralelos, meridianos y las coordenadas GPS permiten ubicar cualquier punto exacto en medio del océano.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "geographic-coordinates-globe",
+        "name": "Coordenadas Geográficas: Latitud y Longitud"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_soc_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_003.jpg",
+      "key_learnings": [
+        "La Tierra está dividida por una cuadrícula imaginaria de paralelos (latitud) y meridianos (longitud).",
+        "La línea del Ecuador es el paralelo cero que separa el hemisferio Norte del hemisferio Sur.",
+        "El meridiano de Greenwich es la referencia cero para medir hacia el Este y el Oeste y organizar los husos horarios del mundo."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🛰️",
+          "fact": "El sistema GPS de los teléfonos inteligentes se conecta al menos con 4 satélites en el espacio simultáneamente para calcular tus coordenadas exactas en metros."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Latitud",
+          "definition": "Distancia angular medida en grados desde cualquier punto de la Tierra hasta la línea del Ecuador (Norte o Sur)."
+        },
+        {
+          "term": "Longitud",
+          "definition": "Distancia angular en grados medida desde cualquier punto de la Tierra respecto al meridiano de Greenwich (Este u Oeste)."
+        },
+        {
+          "term": "Ecuador",
+          "definition": "El paralelo principal que divide al planeta en dos partes iguales: hemisferio Norte y hemisferio Sur."
+        }
+      ],
+      "content": "Elena estaba en el puente de mando de un barco oceanográfico en medio del océano Pacífico. Miraba por la ventana panorámica: a su alrededor solo había agua azul infinita, sin islas, sin montañas ni postes de guía.\n\n—Mamá, ¿cómo sabemos exactamente dónde estamos sin estrellarnos ni dar vueltas en círculos? —preguntó Elena a la capitana.\n\nSu madre encendió la pantalla de navegación:\n\n—El planeta entero está cubierto por una malla de líneas invisibles trazadas por la ciencia geográfica. Imagina una red de pesca gigante que envuelve al globo terráqueo.\n\nSeñaló dos números en la pantalla satelital:\n\n—Estas son nuestras coordenadas geográficas: 12 grados de Latitud Sur y 77 grados de Longitud Oeste. La latitud nos dice qué tan cerca o lejos estamos del Ecuador, la cintura del planeta. La longitud nos dice qué tan al este o al oeste nos encontramos del meridiano de Greenwich, en Inglaterra.\n\n—¡Es como jugar a la batalla naval! —exclamó Elena emocionada—. Donde se cruzan esas dos líneas de números hay un solo punto irrepetible en todo el planeta.\n\n—Exactamente —dijo la capitana—. Gracias a esta cuadrícula, cualquier barco, avión o ambulancia puede ser rescatado en segundos en cualquier rincón del mundo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar se encontraba Elena cuando le preguntó a su madre cómo se orientaban?",
+          "options": [
+            "En el puente de mando de un barco en medio del océano",
+            "En la estación de tren de la ciudad",
+            "En la cabina de un avión comercial",
+            "En una tienda de campana en el bosque"
+          ],
+          "correct_answer": 0,
+          "explanation": "Elena navegaba en altamar a bordo de un buque oceanográfico.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué línea imaginaria divide a la Tierra en el hemisferio Norte y el hemisferio Sur?",
+          "options": [
+            "La línea del Ecuador",
+            "El meridiano de Greenwich",
+            "El Trópico de Cáncer",
+            "El Círculo Polar Ártico"
+          ],
+          "correct_answer": 0,
+          "explanation": "El Ecuador es el paralelo 0° que corta horizontalmente la Tierra en los hemisferios Norte y Sur.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Para qué sirve el cruce exacto de una línea de latitud con una de longitud?",
+          "options": [
+            "Para determinar unas coordenadas únicas y localizar cualquier punto en el planeta",
+            "Para medir la profundidad del fondo del mar",
+            "Para predecir el color de los peces",
+            "Para saber cuánta gasolina le queda al motor"
+          ],
+          "correct_answer": 0,
+          "explanation": "La intersección de latitud y longitud establece la posición geográfica precisa en el sistema de coordenadas.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
+    },
+    {
+      "id": "story_phy_003",
+      "slug": "camila-y-la-chispa-del-circuito-cerrado",
+      "title": "Camila y la Chispa del Circuito Cerrado",
+      "summary": "Con una pila, cables de cobre y una bombilla pequeña, Camila descubre cómo viajan los electrones por un circuito eléctrico cerrado y cómo funcionan los interruptores.",
+      "subject": {
+        "id": "technology-physics",
+        "name": "Física y Tecnología",
+        "emoji": "⚙️",
+        "color_hex": "#6366F1"
+      },
+      "topic": {
+        "id": "electricity-circuits",
+        "name": "Electricidad y Circuitos Eléctricos"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_phy_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_003.jpg",
+      "key_learnings": [
+        "La corriente eléctrica es el flujo ordenado de partículas diminutas cargadas llamadas electrones.",
+        "Para que la electricidad fluya e ilumine una bombilla, el circuito debe formar un camino continuo e ininterrumpido (circuito cerrado).",
+        "Un interruptor actúa como un puente levadizo que abre o cierra el paso de los electrones según se desee."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "⚡",
+          "fact": "La señal eléctrica a lo largo de un cable de cobre viaja a una velocidad cercana a la de la luz: ¡unos 300.000 kilómetros por segundo!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Circuito cerrado",
+          "definition": "Camino completo y continuo formado por materiales conductores que permite la circulación constante de la corriente eléctrica."
+        },
+        {
+          "term": "Conductor",
+          "definition": "Material que permite el paso fácil de la electricidad a través de él (como el cobre, el aluminio o el agua con sal)."
+        },
+        {
+          "term": "Interruptor",
+          "definition": "Mecanismo diseñado para abrir o cerrar intencionalmente el paso de la corriente en un circuito."
+        }
+      ],
+      "content": "Camila intentaba construir un faro en miniatura para su proyecto de ciencias, pero la pequeña bombilla LED sobre la torre de cartón no encendía. Tenía una pila de 9 voltios y dos cables de cobre con fundas plásticas rojas y negras.\n\n—Tengo la batería llena y el foco es nuevo, ¿por qué no prende? —se quejó apoyando la cabeza en la mesa de trabajo.\n\nSu hermano mayor, estudiante de electrónica, tomó los cables:\n\n—Mira el extremo del cable negro, Camila. Está suelto en el aire sin tocar el polo negativo de la pila. La electricidad no salta por arte de magia por el aire como si fuera un fantasma.\n\n—¿Cómo viaja entonces? —preguntó Camila recortando el plástico del cable.\n\n—Los electrones necesitan una autopista continua y sin baches —explicó su hermano—. Salen por un polo de la pila, viajan por el metal del cable, pasan por el filamento del bombillo haciéndolo brillar y deben regresar obligatoriamente al otro polo de la pila para cerrar el bucle.\n\nCamila conectó un clip metálico en medio del cable: al apoyarlo sobre la tachuela de metal, la luz del faro brilló instantáneamente con un destello dorado; al levantarlo, la bombilla se apagó de golpe.\n\n—¡Acabo de fabricar un interruptor! —exclamó Camila emocionada—. Es un puente que dejo caer para cerrar el camino o levanto para cortar la luz.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué no encendía la bombilla del faro al principio del cuento?",
+          "options": [
+            "Porque un cable estaba suelto y el circuito estaba abierto",
+            "Porque la pila estaba congelada",
+            "Porque el foco estaba lleno de agua",
+            "Porque el cartón del faro era muy pesado"
+          ],
+          "correct_answer": 0,
+          "explanation": "El circuito estaba incompleto (abierto), lo que impedía el flujo continuo de corriente eléctrica.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué condición indispensable debe cumplirse para que la corriente eléctrica fluya por un circuito?",
+          "options": [
+            "El circuito debe estar completamente cerrado con materiales conductores sin interrupciones",
+            "Los cables deben ser de madera seca",
+            "La pila debe estar colocada al revés",
+            "El circuito debe sumergirse en aceite caliente"
+          ],
+          "correct_answer": 0,
+          "explanation": "La electricidad solo se desplaza cuando existe una trayectoria cerrada y conductora entre los polos de la fuente de energía.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función que cumple un interruptor en una instalación eléctrica?",
+          "options": [
+            "Abrir o cerrar el camino de la corriente para encender o apagar un aparato",
+            "Aumentar el tamaño de la bombilla",
+            "Cambiar el color de los cables",
+            "Evaporar el agua de la batería"
+          ],
+          "correct_answer": 0,
+          "explanation": "El interruptor corta o restablece la continuidad física del circuito según se accione.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
     }
   ]
 }

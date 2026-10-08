@@ -5,9 +5,169 @@
     "name": "Ciencias y Astronomía",
     "emoji": "🔭",
     "color_hex": "#3B82F6",
-    "description": "El universo, planetas, física espacial, órbitas y tecnología científica"
+    "description": "El universo, planetas, física espacial, órbitas y tecnología científica",
+    "images_url": [
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/science_01.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/science_02.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/science_03.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/science_04.jpg"
+    ]
   },
   "stories": [
+    {
+      "id": "story_ast_002",
+      "slug": "la-danza-de-la-tierra-y-el-sol",
+      "title": "La Danza de la Tierra y el Sol",
+      "summary": "Martín descubre mediante una lámpara y una naranja por qué no es el Sol quien viaja por el cielo, sino la Tierra girando como un trompo silencioso.",
+      "subject": {
+        "id": "science-astronomy",
+        "name": "Ciencias y Astronomía",
+        "emoji": "🔭",
+        "color_hex": "#3B82F6"
+      },
+      "topic": {
+        "id": "earth-rotation-day-night",
+        "name": "El Día y la Noche (Movimiento de Rotación)"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_ast_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_002.jpg",
+      "key_learnings": [
+        "La Tierra gira sobre su propio eje como una peonza en un movimiento llamado rotación.",
+        "Un giro completo de rotación dura 24 horas y produce el ciclo del día y la noche.",
+        "El Sol parece moverse en el cielo, pero en realidad somos nosotros quienes estamos girando."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌍",
+          "fact": "En la línea del ecuador, ¡la superficie de la Tierra se mueve a más de 1.600 kilómetros por hora sin que sintamos mareo alguno!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Rotación",
+          "definition": "El giro que da un planeta o cuerpo celeste sobre su propio eje central."
+        },
+        {
+          "term": "Eje terrestre",
+          "definition": "Línea imaginaria que cruza la Tierra desde el Polo Norte hasta el Polo Sur sobre la cual rota el planeta."
+        }
+      ],
+      "content": "Martín miraba por la ventana cómo el Sol se escondía despacio detrás de las montañas.\n\n—El Sol debe de estar muy cansado de correr por todo el cielo durante el día —le comentó a su hermana mayor, Sara.\n\nSara apagó la luz de la habitación y colocó una lámpara sobre la mesa:\n\n—Esta lámpara es el Sol. Se queda siempre fija en su lugar. Y ahora, mira esta naranja atravesada con un palito: esta es la Tierra.\n\nSara pegó una pequeña calcomanía azul en un costado de la fruta:\n\n—Aquí vive Martín. Si giro el palito hacia la derecha, ¿qué le pasa a la calcomanía?\n\nMartín observó con atención: al rotar la fruta, la calcomanía pasó de la luz brillante a la sombra posterior.\n\n—¡Ahora está a oscuras! —exclamó Martín—. El Sol no se movió a ningún lado... ¡fue la naranja la que dio la vuelta!\n\n—Exacto —dijo Sara—. La Tierra nunca se detiene. Mientras nosotros dormimos abrigados en la noche, el otro lado del planeta despierta con los primeros rayos del día.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto representaba a la Tierra en el experimento de Sara?",
+          "options": [
+            "Una naranja atravesada con un palito",
+            "La lámpara de mesa",
+            "Un libro de cuentos",
+            "Una pelota de cristal"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sara usó la naranja con un palito como eje para mostrar el giro de nuestro planeta.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué se producen el día y la noche en la Tierra?",
+          "options": [
+            "Porque la Tierra gira sobre su eje (rotación), exponiendo una mitad a la luz y la otra a la sombra",
+            "Porque el Sol se apaga y se vuelve a encender cada doce horas",
+            "Porque las nubes tapan todo el cielo al caer la tarde",
+            "Porque la Luna absorbe toda la luz del Sol"
+          ],
+          "correct_answer": 0,
+          "explanation": "El movimiento de rotación expone alternadamente cada hemisferio a la radiación solar.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_ast_003",
+      "slug": "los-secretos-de-la-luna-cambiante",
+      "title": "Nico y el Espejo de la Luna",
+      "summary": "Nico descubre por qué la Luna parece cambiar de forma cada semana y comprende que nuestro satélite no tiene luz propia, sino que refleja la luz del Sol.",
+      "subject": {
+        "id": "science-astronomy",
+        "name": "Ciencias y Astronomía",
+        "emoji": "🔭",
+        "color_hex": "#3B82F6"
+      },
+      "topic": {
+        "id": "moon-phases-orbit",
+        "name": "Las Fases Lunares y los Satélites Naturales"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_ast_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_003.jpg",
+      "key_learnings": [
+        "La Luna no emite luz propia; brilla en la noche porque su superficie refleja la luz del Sol.",
+        "Las fases de la Luna (nueva, creciente, llena y menguante) se deben a cómo cambia nuestra perspectiva de la cara iluminada mientras orbita la Tierra.",
+        "La Luna tarda aproximadamente 28 días en completar una vuelta entera alrededor de la Tierra."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌕",
+          "fact": "La Luna siempre nos muestra la misma cara; la cara oculta no fue vista por ojos humanos hasta que la sonda espacial soviética Luna 3 la fotografió en 1959."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Satélite natural",
+          "definition": "Cuerpo celeste opaco que orbita alrededor de un planeta de mayor tamaño."
+        },
+        {
+          "term": "Fase lunar",
+          "definition": "Porción iluminada de la Luna que resulta visible desde la Tierra según su posición respecto al Sol."
+        }
+      ],
+      "content": "Nico dibujaba la Luna en su libreta cada noche antes de dormir. El lunes era una uña delgada y brillante; una semana después, parecía una galleta partida por la mitad; y el fin de semana brillaba como un gran plato de plata.\n\n—Papá, ¿quién le come pedazos a la Luna para que cambie de tamaño? —preguntó intrigado.\n\nSu padre lo llevó al patio con una pelota blanca de béisbol y una linterna:\n\n—Párate aquí al centro: tú eres la Tierra. Yo me quedo quieto iluminándote con la linterna: yo soy el Sol. Ahora sostén la pelota frente a ti y da vueltas despacio en tu sitio.\n\nNico extendió el brazo y giró. Cuando la pelota estaba entre él y la linterna, el lado que él veía estaba completamente a oscuras: Luna Nueva. Al girar noventa grados, vio iluminada solo la mitad lateral: Cuarto Creciente. Al ponerse de espaldas a la linterna y levantar la pelota, toda la cara que miraba resplandeció blanca: Luna Llena.\n\n—¡La pelota no cambió de tamaño ni se rompió! —gritó Nico riendo—. Siempre estuvo entera, solo que mis ojos veían diferentes ángulos de la parte iluminada.\n\nNico miró al cielo nocturno con nuevos ojos: la Luna no menguaba por magia, bailaba al compás de la luz del Sol.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿De dónde proviene el brillo que vemos en la Luna durante la noche?",
+          "options": [
+            "De la luz del Sol que se refleja en su superficie rocosa",
+            "De miles de volcanes encendidos en su interior",
+            "De una bombilla instalada por los astronautas",
+            "Del calor de las estrellas lejanas"
+          ],
+          "correct_answer": 0,
+          "explanation": "La Luna es un cuerpo opaco que actúa como un gigantesco reflector de la radiación solar.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué observamos diferentes fases lunares a lo largo del mes?",
+          "options": [
+            "Porque la Luna orbita la Tierra y vemos distintas porciones de su cara iluminada",
+            "Porque la Tierra tapa al Sol todas las noches",
+            "Porque la Luna cambia su tamaño físico de grande a pequeño",
+            "Porque las nubes borran pedazos de la Luna con tinta"
+          ],
+          "correct_answer": 0,
+          "explanation": "A medida que la Luna se desplaza alrededor de nuestro planeta, el ángulo entre el observador, la Luna y el Sol varía, revelando más o menos zona iluminada.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
     {
       "id": "story_ast_001",
       "slug": "la-memoria-de-las-estrellas-kepler-9",
@@ -25,12 +185,12 @@
       },
       "age_range": {
         "min": 10,
-        "max": 14
+        "max": 12
       },
       "difficulty": "advanced",
       "reading_time_min": 5,
-      "cover_image_path": "images/story_03_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_001.png",
+      "cover_image_path": "images/story_ast_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_001.png",
       "key_learnings": [
         "Una estación orbital se mantiene alrededor de un planeta gracias al equilibrio entre la gravedad y su velocidad de traslación (órbita).",
         "En el espacio, los telescopios y estaciones pueden observar las estrellas sin la distorsión de la atmósfera terrestre.",

@@ -25,8 +25,8 @@
       },
       "difficulty": "intermediate",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_02_002.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_002.jpg",
+      "cover_image_path": "images/story_hist_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_001.jpg",
       "key_learnings": [
         "La invención de la escritura marcó el inicio de la historia registrada de la humanidad.",
         "Las antiguas bibliotecas (como la de Alejandría) reunían rollos de papiro y pergamino de distintas culturas.",
@@ -82,6 +82,341 @@
       "total_points": 20
     },
     {
+      "id": "story_opt_001",
+      "slug": "el-laberinto-de-las-sombras-y-la-luz",
+      "title": "El Laberinto de las Sombras y el Secreto de la Luz",
+      "summary": "Adrián explora un misterioso laberinto de piedra al atardecer y descubre experimentalmente cómo la propagación rectilínea de la luz determina el tamaño, la nitidez y la formación de sombras y penumbras.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "light-and-shadows",
+        "name": "Propagación de la Luz y Geometría de las Sombras"
+      },
+      "age_range": {
+        "min": 9,
+        "max": 12
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_opt_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_001.jpg",
+      "key_learnings": [
+        "La luz viaja en línea recta en medios homogéneos (propagación rectilínea).",
+        "Una sombra se forma cuando un cuerpo opaco intercepta el haz luminoso.",
+        "El tamaño de la sombra proyectada depende de las distancias relativas entre la fuente luminosa, el objeto y la pantalla o pared.",
+        "Cuando la fuente de luz no es un punto diminuto sino extensa, se distinguen dos zonas: la umbra (oscuridad total) y la penumbra (borde difuso)."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "☀️",
+          "fact": "Al mediodía solar, cuando el astro alcanza su punto más alto (cenit), tu sombra es la más corta del día porque los rayos caen casi verticales."
+        },
+        {
+          "emoji": "🌘",
+          "fact": "Los eclipses solares y lunares son gigantescas sombras espaciales gobernadas por la misma geometría óptica que proyectas con una linterna en tu habitación."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Cuerpo opaco",
+          "definition": "Material o cuerpo que absorbe o refleja la luz incidente sin permitir que pase a través de él."
+        },
+        {
+          "term": "Ángulo de incidencia",
+          "definition": "Ángulo formado por la dirección de los rayos de luz respecto a la perpendicular de la superficie sobre la que impactan."
+        },
+        {
+          "term": "Umbra",
+          "definition": "Región central de oscuridad completa donde la fuente luminosa queda totalmente bloqueada por el cuerpo opaco."
+        },
+        {
+          "term": "Penumbra",
+          "definition": "Zona periférica parcialmente iluminada donde solo una fracción de los rayos de luz es bloqueada."
+        }
+      ],
+      "content": "En el corazón de la ciudad antigua reposaba el Laberinto de las Sombras, una compleja red de altos muros de granito construida hace siglos. Adrián, curioso por comprobar las leyes de la óptica que leía en sus libros, decidió internarse en sus pasadizos justo al caer la tarde, llevando consigo una linterna de enfoque regulable y un cuaderno de notas.\n\nConforme el Sol descendía hacia el horizonte, los muros proyectaban siluetas inmensas y alargadas sobre el suelo de piedra. Adrián midió con pasos la sombra de una columna: a menor altura del Sol respecto al suelo, el ángulo rasante estiraba las siluetas como si fueran gigantes.\n\nAl llegar a la plaza central, el crepúsculo dejó el laberinto en penumbra. Adrián encendió su linterna y apuntó contra una estatua tallada en piedra caliza. En el aire suspendido flotaban diminutas motas de polvo que revelaron con nitidez el haz luminoso: un cono perfecto de líneas rectas imperturbables.\n\nColocó su mano frente al foco. Al aproximar los dedos a la lente de la linterna, la silueta en el muro creció de forma desproporcionada, cubriendo casi toda la pared; al retirarla hacia el muro, la silueta se encogió hasta coincidir con el tamaño real de su mano. Al ajustar el cabezal de la linterna para ensanchar la bombilla, observó otro fenómeno fascinante: el centro de la silueta era negro absoluto (la umbra), pero los bordes mostraban un contorno difuso y grisáceo (la penumbra).\n\nAdrián anotó su conclusión: las sombras no eran caprichos de la oscuridad, sino la huella geométrica que deja cualquier objeto opaco cuando interrumpe el viaje recto e imparable de la luz.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
+          "options": [
+            "Una linterna de enfoque regulable",
+            "Un espejo mágico",
+            "Una cámara de fotos",
+            "Una vela de cera"
+          ],
+          "correct_answer": 0,
+          "explanation": "Adrián llevó una linterna de enfoque regulable para proyectar haces de luz controlados en los muros de piedra.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué las sombras son mucho más largas al atardecer que al mediodía?",
+          "options": [
+            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo",
+            "Porque la luz viaja más despacio en la tarde",
+            "Porque el aire se enfría",
+            "Porque los objetos crecen de tamaño"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al atardecer, el sol está bajo en el horizonte, lo que proyecta rayos inclinados que alargan la sombra detrás de los objetos opacos.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Qué sucede con el tamaño de la sombra proyectada en la pared cuando Adrián acerca su mano hacia la linterna?",
+          "options": [
+            "La sombra aumenta de tamaño en la pared",
+            "La sombra disminuye de tamaño en la pared",
+            "La sombra desaparece de inmediato",
+            "La sombra cambia de color a rojo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un cono mayor de rayos luminosos, proyectando una silueta más grande en la pared.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
+    },
+    {
+      "id": "story_opt_003",
+      "slug": "el-lapiz-roto-en-el-vaso",
+      "title": "Leo y el Truco del Lápiz Roto",
+      "summary": "Durante un experimento escolar con agua, aceite y un vaso de cristal, Leo descubre la refracción y comprende por qué la velocidad de la luz cambia según el medio por el que viaja.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "refraction-lenses",
+        "name": "La Refracción y la Velocidad de la Luz"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_opt_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_003.jpg",
+      "key_learnings": [
+        "La refracción es el cambio de dirección y velocidad que sufre la luz al pasar de un medio a otro (por ejemplo, del aire al agua).",
+        "La luz viaja más rápido en el aire que en el agua o el vidrio debido a la densidad de cada material.",
+        "Las lentes de las gafas y los microscopios funcionan aprovechando la curvatura de la luz por refracción."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏊",
+          "fact": "Cuando miras tus pies dentro de una piscina, parecen estar mucho más cerca de la superficie de lo que realmente están debido a la refracción del agua."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Refracción",
+          "definition": "El desvío que experimentan los rayos de luz cuando cruzan la frontera entre dos materiales transparentes distintos."
+        },
+        {
+          "term": "Medio transparente",
+          "definition": "Cualquier sustancia o material que deja pasar la luz a través de él de forma clara (como el aire, el agua pura o el vidrio)."
+        }
+      ],
+      "content": "Leo sumergió un lápiz amarillo nuevo en un vaso de vidrio lleno hasta la mitad con agua fresca. Al mirarlo de frente, pegó un brinco de sorpresa:\n\n—¡Profe Clara, el lápiz se partió en dos!\n\nLa profesora se acercó con una sonrisa y le pidió que sacara el lápiz del agua. El lápiz salió intacto, perfectamente recto y sin ningún rasguño.\n\n—¿Es magia de ilusionista? —preguntó Leo volviéndolo a meter con cautela.\n\n—No es magia, es refracción —respondió la profesora Clara—. La luz viaja muy velozmente por el aire, pero cuando entra en el agua, que es más densa y pesada, la luz se frena un poquito. Al cambiar de velocidad en diagonal, los rayos de luz se doblan, como las ruedas de un carrito cuando una de ellas entra al barro antes que la otra.\n\nLeo movió la cabeza hacia arriba y hacia los lados. Notó que la parte del lápiz sumergida no solo parecía cortada hacia un lado, sino ligeramente más gruesa.\n\n—Así que mis ojos ven el lápiz donde la luz desviada le dice a mi cerebro que está, no donde realmente se encuentra —razonó Leo asombrado.\n\n—Exacto —concluyó la maestra—. Y gracias a esa misma desviación calculada, los anteojos corrigen la vista de millones de personas en el mundo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué parecía que el lápiz estaba roto cuando estaba dentro del vaso?",
+          "options": [
+            "Porque los rayos de luz se desviaron al pasar del agua al aire",
+            "Porque el agua disolvió la madera del lápiz",
+            "Porque el vaso de vidrio estaba agrietado",
+            "Porque la tinta del lápiz reaccionó con el agua"
+          ],
+          "correct_answer": 0,
+          "explanation": "La refracción desvía los rayos de luz que salen del agua hacia nuestros ojos, creando la ilusión óptica de que el objeto está quebrado.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué ocurre con la velocidad de la luz cuando pasa del aire al agua?",
+          "options": [
+            "Disminuye su velocidad porque el agua es más densa que el aire",
+            "Aumenta su velocidad al doble",
+            "La luz se detiene por completo y se apaga",
+            "Se transforma de inmediato en sonido"
+          ],
+          "correct_answer": 0,
+          "explanation": "En medios más densos como el agua o el vidrio, la luz viaja más despacio que en el aire o en el vacío.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_ast_003",
+      "slug": "los-secretos-de-la-luna-cambiante",
+      "title": "Nico y el Espejo de la Luna",
+      "summary": "Nico descubre por qué la Luna parece cambiar de forma cada semana y comprende que nuestro satélite no tiene luz propia, sino que refleja la luz del Sol.",
+      "subject": {
+        "id": "science-astronomy",
+        "name": "Ciencias y Astronomía",
+        "emoji": "🔭",
+        "color_hex": "#3B82F6"
+      },
+      "topic": {
+        "id": "moon-phases-orbit",
+        "name": "Las Fases Lunares y los Satélites Naturales"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_ast_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_003.jpg",
+      "key_learnings": [
+        "La Luna no emite luz propia; brilla en la noche porque su superficie refleja la luz del Sol.",
+        "Las fases de la Luna (nueva, creciente, llena y menguante) se deben a cómo cambia nuestra perspectiva de la cara iluminada mientras orbita la Tierra.",
+        "La Luna tarda aproximadamente 28 días en completar una vuelta entera alrededor de la Tierra."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌕",
+          "fact": "La Luna siempre nos muestra la misma cara; la cara oculta no fue vista por ojos humanos hasta que la sonda espacial soviética Luna 3 la fotografió en 1959."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Satélite natural",
+          "definition": "Cuerpo celeste opaco que orbita alrededor de un planeta de mayor tamaño."
+        },
+        {
+          "term": "Fase lunar",
+          "definition": "Porción iluminada de la Luna que resulta visible desde la Tierra según su posición respecto al Sol."
+        }
+      ],
+      "content": "Nico dibujaba la Luna en su libreta cada noche antes de dormir. El lunes era una uña delgada y brillante; una semana después, parecía una galleta partida por la mitad; y el fin de semana brillaba como un gran plato de plata.\n\n—Papá, ¿quién le come pedazos a la Luna para que cambie de tamaño? —preguntó intrigado.\n\nSu padre lo llevó al patio con una pelota blanca de béisbol y una linterna:\n\n—Párate aquí al centro: tú eres la Tierra. Yo me quedo quieto iluminándote con la linterna: yo soy el Sol. Ahora sostén la pelota frente a ti y da vueltas despacio en tu sitio.\n\nNico extendió el brazo y giró. Cuando la pelota estaba entre él y la linterna, el lado que él veía estaba completamente a oscuras: Luna Nueva. Al girar noventa grados, vio iluminada solo la mitad lateral: Cuarto Creciente. Al ponerse de espaldas a la linterna y levantar la pelota, toda la cara que miraba resplandeció blanca: Luna Llena.\n\n—¡La pelota no cambió de tamaño ni se rompió! —gritó Nico riendo—. Siempre estuvo entera, solo que mis ojos veían diferentes ángulos de la parte iluminada.\n\nNico miró al cielo nocturno con nuevos ojos: la Luna no menguaba por magia, bailaba al compás de la luz del Sol.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿De dónde proviene el brillo que vemos en la Luna durante la noche?",
+          "options": [
+            "De la luz del Sol que se refleja en su superficie rocosa",
+            "De miles de volcanes encendidos en su interior",
+            "De una bombilla instalada por los astronautas",
+            "Del calor de las estrellas lejanas"
+          ],
+          "correct_answer": 0,
+          "explanation": "La Luna es un cuerpo opaco que actúa como un gigantesco reflector de la radiación solar.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué observamos diferentes fases lunares a lo largo del mes?",
+          "options": [
+            "Porque la Luna orbita la Tierra y vemos distintas porciones de su cara iluminada",
+            "Porque la Tierra tapa al Sol todas las noches",
+            "Porque la Luna cambia su tamaño físico de grande a pequeño",
+            "Porque las nubes borran pedazos de la Luna con tinta"
+          ],
+          "correct_answer": 0,
+          "explanation": "A medida que la Luna se desplaza alrededor de nuestro planeta, el ángulo entre el observador, la Luna y el Sol varía, revelando más o menos zona iluminada.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_soc_002",
+      "slug": "el-mapa-secreto-de-mateo-y-las-escalas",
+      "title": "El Mapa Secreto de Mateo y las Escalas",
+      "summary": "Mateo aprende a dibujar un mapa a escala de su vecindario, descubriendo cómo los cartógrafos reducen distancias enormes en pequeñas hojas de papel.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "cartography-scale-symbols",
+        "name": "Cartografía y Lectura de Mapas"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 10
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_soc_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_002.jpg",
+      "key_learnings": [
+        "Un mapa es una representación gráfica plana y reducida de una porción de la superficie terrestre vista desde arriba.",
+        "La escala cartográfica indica cuántas veces se redujo la realidad para caber en el papel.",
+        "La leyenda del mapa explica el significado de los símbolos, colores y líneas utilizados."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🗺️",
+          "fact": "Es matemáticamente imposible proyectar la superficie redonda de la Tierra en un papel completamente plano sin distorsionar el tamaño de los continentes o las formas."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Escala gráfica",
+          "definition": "Línea graduada en un mapa que muestra la relación entre una medida en el dibujo y la distancia real en el terreno."
+        },
+        {
+          "term": "Leyenda",
+          "definition": "Cuadro explicativo en un mapa donde se aclaran los símbolos, colores y convenciones gráficas."
+        }
+      ],
+      "content": "Mateo quería organizar una búsqueda del tesoro para el cumpleaños de su prima. Dibujó su casa y el parque en una hoja, pero al intentar medir el camino, el parque le quedó del tamaño de una moneda y su casa ocupaba casi toda la hoja.\n\nSu abuelo, topógrafo retirado, sacó una cinta métrica y una regla de madera:\n\n—Para que un mapa funcione de verdad, Mateo, necesitas usar una escala matemática. No puedes inventar los tamaños.\n\n—¿Cómo metemos doscientos metros de parque en una hoja de cuaderno? —preguntó Mateo con curiosidad.\n\n—Con una regla de proporción: diremos que cada centímetro que dibujes en el papel representará diez metros reales de terreno. Así, un parque de cien metros medirá exactamente diez centímetros en tu mapa.\n\nMateo midió con pasos, usó su regla y añadió una leyenda en la esquina: una cruz azul para la fuente de agua, un triángulo verde para los pinos viejos y una estrella dorada para el tesoro escondido. Cuando sus amigos siguieron el plano, encontraron la caja sorpresa a la primera sin perderse jamás.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué función cumplió la leyenda en la esquina del mapa de Mateo?",
+          "options": [
+            "Explicar qué significaban los símbolos y colores utilizados",
+            "Servir como adorno para colorear",
+            "Anotar el precio de la hoja de papel",
+            "Escribir una poesía"
+          ],
+          "correct_answer": 0,
+          "explanation": "La leyenda es el diccionario del mapa que descifra cada símbolo gráfico.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "Si en un mapa la escala indica que 1 centímetro equivale a 10 metros reales, ¿cuántos metros representan 5 centímetros medidos con la regla?",
+          "options": [
+            "50 metros",
+            "15 metros",
+            "5 metros",
+            "500 metros"
+          ],
+          "correct_answer": 0,
+          "explanation": "Multiplicando los 5 cm del papel por los 10 metros correspondientes a cada centímetro obtenemos 50 metros reales.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
       "id": "story_phy_001",
       "slug": "el-reloj-de-la-torre-y-los-engranajes",
       "title": "El reloj de la torre y el secreto de los engranajes",
@@ -102,8 +437,8 @@
       },
       "difficulty": "intermediate",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_02_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_001.png",
+      "cover_image_path": "images/story_phy_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_001.png",
       "key_learnings": [
         "Un engranaje es una rueda dentada que transmite fuerza y movimiento a otra rueda.",
         "Cuando un engranaje gira en sentido horario, el engranaje con el que se conecta gira en sentido antihorario.",
