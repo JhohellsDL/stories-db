@@ -1,0 +1,89 @@
+{
+  "version_db": 4,
+  "subject": {
+    "id": "technology-physics",
+    "name": "Física y Tecnología",
+    "emoji": "⚙️",
+    "color_hex": "#6366F1",
+    "description": "Mecanismos, máquinas simples, energía y avances tecnológicos"
+  },
+  "stories": [
+    {
+      "id": "story_phy_001",
+      "slug": "el-reloj-de-la-torre-y-los-engranajes",
+      "title": "El reloj de la torre y el secreto de los engranajes",
+      "summary": "Tomás sube a la torre del pueblo y aprende cómo los engranajes y la transferencia de movimiento hacen funcionar a las máquinas mecánicas.",
+      "subject": {
+        "id": "technology-physics",
+        "name": "Física y Tecnología",
+        "emoji": "⚙️",
+        "color_hex": "#6366F1"
+      },
+      "topic": {
+        "id": "gears-and-mechanics",
+        "name": "Engranajes y Mecánica Clásica"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_02_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_001.png",
+      "key_learnings": [
+        "Un engranaje es una rueda dentada que transmite fuerza y movimiento a otra rueda.",
+        "Cuando un engranaje gira en sentido horario, el engranaje con el que se conecta gira en sentido antihorario.",
+        "Los tamaños de los engranajes determinan la velocidad y la fuerza de rotación."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "⏰",
+          "fact": "Antes de la electricidad y las baterías, todas las máquinas complejas y relojes funcionaban únicamente con pesas, resortes y ruedas dentadas."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Engranaje",
+          "definition": "Rueda de metal o madera con dientes tallados en su borde que se encaja con otra para transmitir movimiento."
+        },
+        {
+          "term": "Mecanismo",
+          "definition": "Conjunto de piezas combinadas que trabajan juntas para realizar una tarea mecánica."
+        }
+      ],
+      "content": "Tomás vivía en un pueblo donde una torre de piedra gris guardaba un gran reloj que llevaba años en calma. Una tarde escuchó un leve tintineo metálico proveniente de las alturas.\n\nSubió por una escalera de caracol y encontró a Don Ernesto, el relojero, ajustando una gran maquinaria de bronce. Ruedas doradas con dientes pequeños encajaban perfectamente unas con otras.\n\n—Observa con atención, Tomás —le dijo Ernesto—. Esta rueda grande gira despacio impulsada por una pesa. Cada vez que da una vuelta, hace girar a esta rueda pequeña diez veces más rápido. Los engranajes permiten transformar una fuerza lenta en el movimiento preciso de los segundos.\n\nDe pronto, un engranaje suelto detuvo el sistema. Con pinzas y paciencia, volvieron a colocar el diente en su sitio. El péndulo osciló y el 'tic... tac' resonó con fuerza en toda la torre. Tomás comprendió la magia de la física mecánica aplicada a la vida real.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Quién estaba en la parte superior de la torre reparando el reloj?",
+          "options": [
+            "Don Ernesto, el relojero",
+            "La maestra de la escuela",
+            "El alcalde del pueblo",
+            "Un explorador desconocido"
+          ],
+          "correct_answer": 0,
+          "explanation": "Tomás encontró a Don Ernesto trabajando con las piezas de bronce del reloj.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "Si una rueda con dientes gira hacia la derecha (sentido horario), ¿hacia qué lado gira la rueda conectada a ella?",
+          "options": [
+            "Hacia la izquierda (sentido antihorario)",
+            "Hacia la derecha en la misma dirección",
+            "No se mueve",
+            "Hacia arriba"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al encajar los dientes, el giro de una rueda empuja a la otra en sentido contrario.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    }
+  ]
+}

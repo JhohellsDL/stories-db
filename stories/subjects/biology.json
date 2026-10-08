@@ -1,0 +1,89 @@
+{
+  "version_db": 4,
+  "subject": {
+    "id": "biology",
+    "name": "Biología y Salud",
+    "emoji": "🧬",
+    "color_hex": "#10B981",
+    "description": "El cuerpo humano, los seres vivos y los hábitos saludables"
+  },
+  "stories": [
+    {
+      "id": "story_bio_001",
+      "slug": "riley-y-el-cuidado-de-los-dientes",
+      "title": "Riley y el misterio del diente roto",
+      "summary": "Una niña aprende la importancia del esmalte dental, el cuidado de la boca y el valor de no consumir azúcar en exceso tras una divertida visita al dentista.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "dental-anatomy",
+        "name": "Anatomía Dental y Hábitos Saludables"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_01_003.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png",
+      "key_learnings": [
+        "Los dientes tienen una capa protectora dura llamada esmalte que los alimentos muy duros o azucarados pueden dañar.",
+        "Los dulces en exceso alimentan a bacterias que producen caries.",
+        "El cepillado diario y las visitas periódicas al dentista mantienen nuestros dientes fuertes para masticar adecuadamente."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🦷",
+          "fact": "El esmalte dental es la sustancia más dura de todo el cuerpo humano, ¡más resistente incluso que los huesos!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Esmalte dental",
+          "definition": "La capa exterior brillante y dura que cubre y protege a cada diente de golpes y bacterias."
+        },
+        {
+          "term": "Caries",
+          "definition": "Pequeños agujeros que se forman en los dientes cuando las bacterias se alimentan del azúcar sobrante."
+        }
+      ],
+      "content": "Un día, Riley estaba viendo la televisión cuando apareció un comercial de unos súper dulces de caramelo duro. Se le hizo agua la boca y corrió donde su mamá:\n\n—Mami, ¿me compras un chupetito? —le pidió con ojitos llenos de ilusión.\n\nSu mamá dudó un momento, pero al ver su carita, sonrió y aceptó. Riley estaba feliz, disfrutando su golosina… hasta que, de pronto: ¡Cuaaas! Le dio una mordida con demasiada fuerza a la parte dura del caramelo y sintió que una pequeña esquinita de su diente se quebraba.\n\n—¡Mami, me duele el diente! —dijo asustada, con los ojos llenos de lágrimas.\n\nSu mamá la abrazó de inmediato:\n\n—Tranquila, mi amor, yo estoy contigo. Vamos juntas al dentista —le dijo con voz suave.\n\nSalieron rápido camino al consultorio. En el camino comenzó a llover, pero juntas sortearon los charcos y llegaron a salvo. El dentista examinó la boca de Riley con una pequeña linterna y un espejo diminuto:\n\n—Tus dientes son como pequeños caballeros con armadura. Esa armadura se llama esmalte. Cuando muerdes cosas demasiado duras o comes muchos dulces sin cepillarte, la armadura se debilita.\n\nEl doctor arregló suavemente el diente de Riley y le regaló un cepillo nuevo. Riley tomó la mano de su mamá y prometió cuidar su armadura dental todos los días.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué Riley tuvo que ir al consultorio del dentista?",
+          "options": [
+            "Porque mordió con fuerza un caramelo duro y se lastimó un diente",
+            "Porque quería comprar juguetes",
+            "Porque perdió su mochila en el parque",
+            "Porque tenía sueño"
+          ],
+          "correct_answer": 0,
+          "explanation": "Riley mordió un caramelo duro que dañó la superficie de su diente, por lo que necesitó revisión médica.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama la capa exterior dura que protege a los dientes de bacterias y golpes?",
+          "options": [
+            "Esmalte dental",
+            "Músculo",
+            "Piel bucal",
+            "Cartílago"
+          ],
+          "correct_answer": 0,
+          "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    }
+  ]
+}

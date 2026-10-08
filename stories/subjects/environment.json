@@ -1,0 +1,89 @@
+{
+  "version_db": 4,
+  "subject": {
+    "id": "environment",
+    "name": "Medio Ambiente y Ecosistemas",
+    "emoji": "🌱",
+    "color_hex": "#059669",
+    "description": "Naturaleza, bosques, conservación y el ciclo de la vida"
+  },
+  "stories": [
+    {
+      "id": "story_env_001",
+      "slug": "el-ultimo-guardian-del-bosque",
+      "title": "El Último Guardián del Bosque",
+      "summary": "Mateo descubre cómo los árboles centenarios sostienen el suelo con sus raíces y protegen la biodiversidad de su comunidad.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "trees-and-soil",
+        "name": "La Importancia de los Árboles y las Raíces"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_01_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.jpg",
+      "key_learnings": [
+        "Las raíces de los árboles actúan como redes subterráneas que evitan la erosión y retienen agua en el suelo.",
+        "Los árboles producen oxígeno mediante la fotosíntesis y absorben dióxido de carbono.",
+        "Proteger los árboles maduros es crucial para mantener vivos los ecosistemas locales."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌳",
+          "fact": "Los árboles pueden comunicarse entre sí a través de una red subterránea de hongos llamada 'micorriza', compartiendo nutrientes y advertencias."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Erosión",
+          "definition": "El desgaste y pérdida de la tierra fértil cuando no hay raíces de plantas que la sujeten ante el viento o la lluvia."
+        },
+        {
+          "term": "Fotosíntesis",
+          "definition": "Proceso natural por el cual las hojas de los árboles convierten la luz del sol en alimento y liberan oxígeno limpio."
+        }
+      ],
+      "content": "El día que Mateo cumplió doce años, el árbol más viejo del parque desapareció. No fue talado; una mañana estaba ahí y al mediodía no quedaba ni la sombra, solo un círculo de tierra oscura donde antes vivían las raíces.\n\nSu abuela le había contado que los árboles centenarios eran los pilares invisibles de la ciudad: sus raíces profundas abrazaban la tierra para evitar que las lluvias arrasaran el suelo, y sus copas producían el aire fresco que respiraba todo el vecindario.\n\nMateo se arrodilló sobre la tierra fértil y tocó el suelo húmedo. Notó un suave calor. El árbol no había muerto: había sido trasladado a la reserva ecológica de la colina porque sus ramas gigantes necesitaban más espacio para alimentar a cientos de aves y ardillas.\n\nMateo comprendió que cada árbol en su comunidad era una fábrica de vida y prometió ayudar a plantar tres árboles jóvenes en el parque el fin de semana siguiente.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué el árbol centenario fue llevado a la reserva ecológica?",
+          "options": [
+            "Porque necesitaba más espacio para sus ramas y dar refugio a animales",
+            "Porque estaba seco y no tenía hojas",
+            "Porque Mateo quería jugar en el parque",
+            "Porque el viento lo derribó"
+          ],
+          "correct_answer": 0,
+          "explanation": "El árbol fue trasladado para que pudiera seguir creciendo y albergando a aves y ardillas con mayor libertad.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función principal de las raíces de los árboles en el suelo?",
+          "options": [
+            "Sujetar la tierra para evitar que el agua y el viento la desgasten (erosión)",
+            "Hacer que el suelo sea más frío",
+            "Cambiar el color de las piedras",
+            "Atrapar la luz del sol debajo de la tierra"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    }
+  ]
+}
