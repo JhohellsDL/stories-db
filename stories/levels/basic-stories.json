@@ -1,217 +1,239 @@
 {
-    "version_db": 3,
-    "stories": [
+  "version_db": 4,
+  "level_key": "basic",
+  "label": "Básico (Exploradores)",
+  "emoji": "🌱",
+  "stories": [
+    {
+      "id": "story_bio_001",
+      "slug": "riley-y-el-cuidado-de-los-dientes",
+      "title": "Riley y el misterio del diente roto",
+      "summary": "Una niña aprende la importancia del esmalte dental, el cuidado de la boca y el valor de no consumir azúcar en exceso tras una divertida visita al dentista.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "dental-anatomy",
+        "name": "Anatomía Dental y Hábitos Saludables"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_01_003.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png",
+      "key_learnings": [
+        "Los dientes tienen una capa protectora dura llamada esmalte que los alimentos muy duros o azucarados pueden dañar.",
+        "Los dulces en exceso alimentan a bacterias que producen caries.",
+        "El cepillado diario y las visitas periódicas al dentista mantienen nuestros dientes fuertes para masticar adecuadamente."
+      ],
+      "fun_facts": [
         {
-            "id": "story_001",
-            "title": "Luna y la colina roja",
-            "category": "AVENTURA",
-            "description": "Una niña curiosa decide explorar un lugar cercano y descubre algo inesperado en el camino.",
-            "image_path": "images/story_01_001.jpg",
-            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.jpg",
-            "reading_time": "2 min",
-            "content": "Luna era una niña de doce años que vivía en una casa azul al borde de un pequeño pueblo. Cada tarde miraba una colina roja que estaba a lo lejos.\n\nUn día, decidió subirla. Preparó una mochila verde con una botella de agua, dos panes y una linterna pequeña. Salió a las cuatro de la tarde, cuando el sol aún brillaba.\n\nEl camino era de tierra y tenía muchas piedras. Luna caminó despacio y contó diez árboles grandes en el camino. También vio un pájaro amarillo que cantaba fuerte.\n\nDespués de una hora, llegó a la mitad de la colina. Estaba cansada, pero decidió seguir. Pensó en lo feliz que sería al ver todo desde arriba.\n\nCuando llegó a la cima, el cielo estaba naranja. Luna vio su pueblo, su casa azul y un río brillante. Sonrió y se sentó en una roca.\n\nDe pronto, escuchó un sonido suave detrás de unas plantas. Se acercó con cuidado y encontró una caja de madera. Era pequeña y tenía una tapa suelta.\n\nLuna abrió la caja. Dentro había una brújula vieja y un papel doblado. El papel tenía un dibujo simple de la colina y una X en la cima.\n\nLuna entendió que alguien más había estado allí antes. Guardó la brújula en su mochila y dejó el papel en la caja.\n\nEl sol empezó a bajar y el cielo se volvió oscuro. Luna encendió su linterna y bajó con cuidado.\n\nLlegó a su casa a las siete de la noche. Estaba cansada, pero muy contenta. Esa noche, guardó la brújula en su mesa y pensó en su próxima aventura.",
-            "questions": [
-                {
-                    "id": "p1",
-                    "question": "¿Quién es el personaje principal del cuento?",
-                    "options": [
-                        "Luna",
-                        "Un pájaro",
-                        "El dueño de la caja",
-                        "La mamá de Luna"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p2",
-                    "question": "¿Qué llevó Luna en su mochila?",
-                    "options": [
-                        "Una botella de agua, dos panes y una linterna",
-                        "Solo comida",
-                        "Un mapa y ropa",
-                        "Juguetes y libros"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p3",
-                    "question": "¿Cuándo salió Luna hacia la colina?",
-                    "options": [
-                        "A las cuatro de la tarde",
-                        "Por la mañana temprano",
-                        "A medianoche",
-                        "Al mediodía"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p4",
-                    "question": "¿Dónde encontró Luna la caja de madera?",
-                    "options": [
-                        "En la cima de la colina",
-                        "En su casa",
-                        "En el río",
-                        "En el camino al inicio"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p5",
-                    "question": "¿Por qué Luna decidió subir la colina?",
-                    "options": [
-                        "Porque quería ver todo desde arriba",
-                        "Porque buscaba a un amigo",
-                        "Porque perdió su mochila",
-                        "Porque alguien se lo pidió"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                }
-            ],
-            "total_points": 50
-        },
-        {
-            "id": "story_002",
-            "title": "El Último Guardián del Bosque",
-            "category": "Aventura",
-            "description": "Mateo descubre que los árboles de su ciudad están desapareciendo misteriosamente, y solo él puede descubrir la verdad.",
-            "image_path": "images/story_01_002.jpg",
-            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.png",
-            "reading_time": "8 min",
-            "content": "El día que Mateo cumplió doce años, el árbol más viejo del parque desapareció.\n\nNo fue talado. No fue arrancado. Simplemente, una mañana estaba ahí, y al mediodía no quedaba ni la sombra. Solo un círculo de tierra oscura donde antes vivían las raíces.\n\nSu abuela decía que los árboles viejos guardaban memorias. Que si uno ponía la oreja contra la corteza en silencio, podía escuchar voces del pasado.\n\nMateo nunca le creyó. Hasta esa tarde.\n\nCuando se acercó al círculo vacío, escuchó algo. Un zumbido bajo, casi imperceptible, que venía de la tierra. Se arrodilló y puso la palma sobre el suelo.\n\nFue como tocar un cable de alta tensión.\n\nImágenes, sonidos, nombres. El árbol no había desaparecido. Lo habían movido. Y alguien en su ciudad sabía exactamente a dónde.",
-            "questions": [
-                {
-                    "id": "p1",
-                    "question": "¿Qué edad cumplió Mateo el día que comenzó la historia?",
-                    "options": [
-                        "Once años",
-                        "Doce años",
-                        "Trece años",
-                        "Catorce años"
-                    ],
-                    "correct_answer": 1,
-                    "points": 10
-                },
-                {
-                    "id": "p2",
-                    "question": "¿Qué le decía la abuela de Mateo sobre los árboles viejos?",
-                    "options": [
-                        "Que eran peligrosos",
-                        "Que daban mala suerte",
-                        "Que guardaban memorias",
-                        "Que hablaban por las noches"
-                    ],
-                    "correct_answer": 2,
-                    "points": 10
-                },
-                {
-                    "id": "p3",
-                    "question": "¿Qué descubrió Mateo al tocar el suelo donde estaba el árbol?",
-                    "options": [
-                        "Que el árbol fue talado",
-                        "Que el árbol fue quemado",
-                        "Que el árbol fue robado y alguien sabía dónde estaba",
-                        "Que el árbol se hundió bajo tierra"
-                    ],
-                    "correct_answer": 2,
-                    "points": 10
-                },
-                {
-                    "id": "p4",
-                    "question": "¿Cómo describió Mateo la sensación de tocar el suelo?",
-                    "options": [
-                        "Como tocar hielo",
-                        "Como tocar un cable de alta tensión",
-                        "Como sumergir la mano en agua fría",
-                        "Como nada especial"
-                    ],
-                    "correct_answer": 1,
-                    "points": 10
-                }
-            ],
-            "total_points": 40
-        },
-        {
-            "id": "story_003",
-            "title": "Riley y la aventura al dentista",
-            "category": "FAMILIA",
-            "description": "Una niña vive un día inesperado y descubre el valor del cuidado y el apoyo de su mamá.",
-            "image_path": "images/story_01_003.jpg",
-            "image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png",
-            "reading_time": "2 min",
-            "content": "Un día, Riley estaba viendo la televisión cuando apareció un comercial de unos súper dulces. Se le hizo agua la boca y corrió donde su mamá.\n\n—Mami, ¿me compras un chupetito? —le pidió con ojitos llenos de ilusión.\n\nSu mamá dudó un momento, pero al ver su carita, sonrió y aceptó.\n\nRiley estaba feliz, disfrutando su chupetito… hasta que, de pronto…\n\n—¡Cuaaas!\n\nLe dio una mordida fuerte y, sin querer, ¡se rompió un diente!\n\n—¡Mami, llévame al dentista! —dijo asustada, con los ojos llenos de lágrimas.\n\nSu mamá la abrazó de inmediato.\n\n—Tranquila, mi amor, yo estoy contigo. Vamos juntas —le dijo con voz suave.\n\nSalieron rápido, pero ese día había una huelga y no podían ir en carro. Tendrían que caminar.\n\n—Mami, llevemos un paraguas —dijo Riley.\n\nPero su mamá pensó que no sería necesario, y salieron sin él.\n\nMientras caminaban, el cielo se puso oscuro… y empezó a llover muy fuerte. En pocos minutos, estaban completamente mojadas.\n\nRiley miró a su mamá.\n\n—Te dije, mami…\n\nSu mamá la miró, sonrió con ternura y le dijo:\n\n—Sí, mi amor… pero ¿sabes qué? Aunque haya lluvia o problemas, siempre vamos a estar juntas.\n\nEntonces, para no sentirse tristes, comenzaron a saltar en los charcos, a chapotear y a reír. Lo que parecía un día difícil se convirtió en una pequeña aventura.\n\nAntes de llegar al dentista, tuvieron que comprar ropa seca para poder entrar.\n\nFinalmente, llegaron. El dentista revisó a Riley y le dijo con cariño:\n\n—Debes cuidar tus dientes y no comer tantos dulces, porque pueden hacerte daño.\n\nRiley miró a su mamá y asintió.\n\n—Sí, voy a cuidarlos.\n\nCuando salieron, la lluvia ya había pasado… y también la huelga. Todo estaba tranquilo otra vez.\n\nRiley tomó la mano de su mamá con fuerza.\n\n—Gracias por estar conmigo, mami.\n\nSu mamá la abrazó y le dijo:\n\n—Siempre voy a estar contigo, en los días bonitos y en los difíciles. Todo lo vamos a resolver juntas.\n\nY así, regresaron a casa, sanas y salvas, después de una aventura inesperada.\n\nDesde ese día, Riley aprendió que debe cuidar sus dientes, pero también algo aún más importante: que el amor de su mamá siempre la acompaña, incluso en los momentos difíciles, y que juntas pueden superar cualquier problema.",
-            "questions": [
-                {
-                    "id": "p1",
-                    "question": "¿Quién es la protagonista del cuento?",
-                    "options": [
-                        "Riley",
-                        "La mamá",
-                        "El dentista",
-                        "La vecina",
-                        "Ninguno de los anteriores"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p2",
-                    "question": "¿Qué le pasó a Riley al comer el chupetito?",
-                    "options": [
-                        "Se rompió un diente",
-                        "Se cayó al suelo",
-                        "Perdió su mochila",
-                        "Se ensució la ropa",
-                        "Ninguno de los anteriores"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p3",
-                    "question": "¿Cuándo empezó a llover?",
-                    "options": [
-                        "Mientras caminaban al dentista",
-                        "Cuando estaban en casa",
-                        "Después de salir del dentista",
-                        "En la noche",
-                        "Ninguno de los anteriores"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p4",
-                    "question": "¿Dónde tuvieron que comprar ropa seca?",
-                    "options": [
-                        "Antes de entrar al dentista",
-                        "En su casa",
-                        "En la escuela",
-                        "En el parque",
-                        "Ninguno de los anteriores"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                },
-                {
-                    "id": "p5",
-                    "question": "¿Por qué Riley fue al dentista?",
-                    "options": [
-                        "Porque se rompió un diente",
-                        "Porque quería un dulce",
-                        "Porque estaba aburrida",
-                        "Porque quería jugar",
-                        "Ninguno de los anteriores"
-                    ],
-                    "correct_answer": 0,
-                    "points": 10
-                }
-            ],
-            "total_points": 50
+          "emoji": "🦷",
+          "fact": "El esmalte dental es la sustancia más dura de todo el cuerpo humano, ¡más resistente incluso que los huesos!"
         }
-    ]
+      ],
+      "glossary": [
+        {
+          "term": "Esmalte dental",
+          "definition": "La capa exterior brillante y dura que cubre y protege a cada diente de golpes y bacterias."
+        },
+        {
+          "term": "Caries",
+          "definition": "Pequeños agujeros que se forman en los dientes cuando las bacterias se alimentan del azúcar sobrante."
+        }
+      ],
+      "content": "Un día, Riley estaba viendo la televisión cuando apareció un comercial de unos súper dulces de caramelo duro. Se le hizo agua la boca y corrió donde su mamá:\n\n—Mami, ¿me compras un chupetito? —le pidió con ojitos llenos de ilusión.\n\nSu mamá dudó un momento, pero al ver su carita, sonrió y aceptó. Riley estaba feliz, disfrutando su golosina… hasta que, de pronto: ¡Cuaaas! Le dio una mordida con demasiada fuerza a la parte dura del caramelo y sintió que una pequeña esquinita de su diente se quebraba.\n\n—¡Mami, me duele el diente! —dijo asustada, con los ojos llenos de lágrimas.\n\nSu mamá la abrazó de inmediato:\n\n—Tranquila, mi amor, yo estoy contigo. Vamos juntas al dentista —le dijo con voz suave.\n\nSalieron rápido camino al consultorio. En el camino comenzó a llover, pero juntas sortearon los charcos y llegaron a salvo. El dentista examinó la boca de Riley con una pequeña linterna y un espejo diminuto:\n\n—Tus dientes son como pequeños caballeros con armadura. Esa armadura se llama esmalte. Cuando muerdes cosas demasiado duras o comes muchos dulces sin cepillarte, la armadura se debilita.\n\nEl doctor arregló suavemente el diente de Riley y le regaló un cepillo nuevo. Riley tomó la mano de su mamá y prometió cuidar su armadura dental todos los días.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué Riley tuvo que ir al consultorio del dentista?",
+          "options": [
+            "Porque mordió con fuerza un caramelo duro y se lastimó un diente",
+            "Porque quería comprar juguetes",
+            "Porque perdió su mochila en el parque",
+            "Porque tenía sueño"
+          ],
+          "correct_answer": 0,
+          "explanation": "Riley mordió un caramelo duro que dañó la superficie de su diente, por lo que necesitó revisión médica.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama la capa exterior dura que protege a los dientes de bacterias y golpes?",
+          "options": [
+            "Esmalte dental",
+            "Músculo",
+            "Piel bucal",
+            "Cartílago"
+          ],
+          "correct_answer": 0,
+          "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_env_001",
+      "slug": "el-ultimo-guardian-del-bosque",
+      "title": "El Último Guardián del Bosque",
+      "summary": "Mateo descubre cómo los árboles centenarios sostienen el suelo con sus raíces y protegen la biodiversidad de su comunidad.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "trees-and-soil",
+        "name": "La Importancia de los Árboles y las Raíces"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_01_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.jpg",
+      "key_learnings": [
+        "Las raíces de los árboles actúan como redes subterráneas que evitan la erosión y retienen agua en el suelo.",
+        "Los árboles producen oxígeno mediante la fotosíntesis y absorben dióxido de carbono.",
+        "Proteger los árboles maduros es crucial para mantener vivos los ecosistemas locales."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌳",
+          "fact": "Los árboles pueden comunicarse entre sí a través de una red subterránea de hongos llamada 'micorriza', compartiendo nutrientes y advertencias."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Erosión",
+          "definition": "El desgaste y pérdida de la tierra fértil cuando no hay raíces de plantas que la sujeten ante el viento o la lluvia."
+        },
+        {
+          "term": "Fotosíntesis",
+          "definition": "Proceso natural por el cual las hojas de los árboles convierten la luz del sol en alimento y liberan oxígeno limpio."
+        }
+      ],
+      "content": "El día que Mateo cumplió doce años, el árbol más viejo del parque desapareció. No fue talado; una mañana estaba ahí y al mediodía no quedaba ni la sombra, solo un círculo de tierra oscura donde antes vivían las raíces.\n\nSu abuela le había contado que los árboles centenarios eran los pilares invisibles de la ciudad: sus raíces profundas abrazaban la tierra para evitar que las lluvias arrasaran el suelo, y sus copas producían el aire fresco que respiraba todo el vecindario.\n\nMateo se arrodilló sobre la tierra fértil y tocó el suelo húmedo. Notó un suave calor. El árbol no había muerto: había sido trasladado a la reserva ecológica de la colina porque sus ramas gigantes necesitaban más espacio para alimentar a cientos de aves y ardillas.\n\nMateo comprendió que cada árbol en su comunidad era una fábrica de vida y prometió ayudar a plantar tres árboles jóvenes en el parque el fin de semana siguiente.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué el árbol centenario fue llevado a la reserva ecológica?",
+          "options": [
+            "Porque necesitaba más espacio para sus ramas y dar refugio a animales",
+            "Porque estaba seco y no tenía hojas",
+            "Porque Mateo quería jugar en el parque",
+            "Porque el viento lo derribó"
+          ],
+          "correct_answer": 0,
+          "explanation": "El árbol fue trasladado para que pudiera seguir creciendo y albergando a aves y ardillas con mayor libertad.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función principal de las raíces de los árboles en el suelo?",
+          "options": [
+            "Sujetar la tierra para evitar que el agua y el viento la desgasten (erosión)",
+            "Hacer que el suelo sea más frío",
+            "Cambiar el color de las piedras",
+            "Atrapar la luz del sol debajo de la tierra"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_soc_001",
+      "slug": "luna-y-la-brujula-en-la-colina",
+      "title": "Luna y el enigma de la colina roja",
+      "summary": "Luna explora la colina de su pueblo y aprende a orientarse utilizando una brújula magnética y los cuatro puntos cardinales.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "cardinal-points",
+        "name": "Orientación y Puntos Cardinales"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_01_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.png",
+      "key_learnings": [
+        "La brújula tiene una aguja imantada que siempre apunta hacia el Norte magnético de la Tierra.",
+        "Los cuatro puntos cardinales principales son Norte, Sur, Este y Oeste.",
+        "El Sol sale por el Este en las mañanas y se oculta por el Oeste al atardecer."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🧭",
+          "fact": "La Tierra actúa como un imán gigante debido a los metales líquidos que giran en su núcleo profundo."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Puntos cardinales",
+          "definition": "Las cuatro direcciones principales que usamos para ubicarnos en cualquier parte del planeta: Norte, Sur, Este y Oeste."
+        },
+        {
+          "term": "Brújula",
+          "definition": "Instrumento con una aguja magnética que gira libremente y siempre señala hacia el Norte."
+        }
+      ],
+      "content": "Luna era una niña curiosa que vivía en una casa azul al borde de un pequeño pueblo. Cada tarde miraba una colina roja a lo lejos. Un día decidió subirla; preparó una mochila con agua, provisiones y una linterna.\n\nEl camino subía en pendiente y Luna caminaba observando el paisaje. Al llegar a la cumbre, el cielo se tornó anaranjado. Detrás de unas rocas encontró una caja de madera antigua. Dentro había un mapa simple y una brújula de bronce.\n\nLuna observó la aguja de la brújula: sin importar cómo se moviera, la punta roja señalaba firmemente hacia el Norte. Miró hacia el horizonte y vio el sol ocultándose por el Oeste, pintando de dorado el tejado de su casa al Este.\n\nComprendió que el mapa y la brújula eran las herramientas con las que los antiguos exploradores trazaban caminos sin perderse. Con la brújula en mano, bajó con seguridad antes del anochecer.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto antiguo encontró Luna en la cima de la colina?",
+          "options": [
+            "Una brújula de bronce y un mapa",
+            "Un libro de cuentos",
+            "Un reloj de arena",
+            "Un catalejo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Luna encontró una caja de madera que resguardaba una brújula y un mapa antiguo.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Hacia qué dirección apunta siempre la aguja magnética de una brújula?",
+          "options": [
+            "Hacia el Norte",
+            "Hacia donde sopla el viento",
+            "Hacia el Oeste",
+            "Hacia el punto más alto de una montaña"
+          ],
+          "correct_answer": 0,
+          "explanation": "La aguja magnética de la brújula se alinea con el campo magnético terrestre y apunta siempre al Norte.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    }
+  ]
 }

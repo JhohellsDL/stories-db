@@ -1,0 +1,546 @@
+{
+  "version_db": 4,
+  "total_stories": 7,
+  "updated_at": "2026-10-08T01:01:09.945Z",
+  "stories": [
+    {
+      "id": "story_bio_001",
+      "slug": "riley-y-el-cuidado-de-los-dientes",
+      "title": "Riley y el misterio del diente roto",
+      "summary": "Una niña aprende la importancia del esmalte dental, el cuidado de la boca y el valor de no consumir azúcar en exceso tras una divertida visita al dentista.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "dental-anatomy",
+        "name": "Anatomía Dental y Hábitos Saludables"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_01_003.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png",
+      "key_learnings": [
+        "Los dientes tienen una capa protectora dura llamada esmalte que los alimentos muy duros o azucarados pueden dañar.",
+        "Los dulces en exceso alimentan a bacterias que producen caries.",
+        "El cepillado diario y las visitas periódicas al dentista mantienen nuestros dientes fuertes para masticar adecuadamente."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🦷",
+          "fact": "El esmalte dental es la sustancia más dura de todo el cuerpo humano, ¡más resistente incluso que los huesos!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Esmalte dental",
+          "definition": "La capa exterior brillante y dura que cubre y protege a cada diente de golpes y bacterias."
+        },
+        {
+          "term": "Caries",
+          "definition": "Pequeños agujeros que se forman en los dientes cuando las bacterias se alimentan del azúcar sobrante."
+        }
+      ],
+      "content": "Un día, Riley estaba viendo la televisión cuando apareció un comercial de unos súper dulces de caramelo duro. Se le hizo agua la boca y corrió donde su mamá:\n\n—Mami, ¿me compras un chupetito? —le pidió con ojitos llenos de ilusión.\n\nSu mamá dudó un momento, pero al ver su carita, sonrió y aceptó. Riley estaba feliz, disfrutando su golosina… hasta que, de pronto: ¡Cuaaas! Le dio una mordida con demasiada fuerza a la parte dura del caramelo y sintió que una pequeña esquinita de su diente se quebraba.\n\n—¡Mami, me duele el diente! —dijo asustada, con los ojos llenos de lágrimas.\n\nSu mamá la abrazó de inmediato:\n\n—Tranquila, mi amor, yo estoy contigo. Vamos juntas al dentista —le dijo con voz suave.\n\nSalieron rápido camino al consultorio. En el camino comenzó a llover, pero juntas sortearon los charcos y llegaron a salvo. El dentista examinó la boca de Riley con una pequeña linterna y un espejo diminuto:\n\n—Tus dientes son como pequeños caballeros con armadura. Esa armadura se llama esmalte. Cuando muerdes cosas demasiado duras o comes muchos dulces sin cepillarte, la armadura se debilita.\n\nEl doctor arregló suavemente el diente de Riley y le regaló un cepillo nuevo. Riley tomó la mano de su mamá y prometió cuidar su armadura dental todos los días.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué Riley tuvo que ir al consultorio del dentista?",
+          "options": [
+            "Porque mordió con fuerza un caramelo duro y se lastimó un diente",
+            "Porque quería comprar juguetes",
+            "Porque perdió su mochila en el parque",
+            "Porque tenía sueño"
+          ],
+          "correct_answer": 0,
+          "explanation": "Riley mordió un caramelo duro que dañó la superficie de su diente, por lo que necesitó revisión médica.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama la capa exterior dura que protege a los dientes de bacterias y golpes?",
+          "options": [
+            "Esmalte dental",
+            "Músculo",
+            "Piel bucal",
+            "Cartílago"
+          ],
+          "correct_answer": 0,
+          "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_env_001",
+      "slug": "el-ultimo-guardian-del-bosque",
+      "title": "El Último Guardián del Bosque",
+      "summary": "Mateo descubre cómo los árboles centenarios sostienen el suelo con sus raíces y protegen la biodiversidad de su comunidad.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "trees-and-soil",
+        "name": "La Importancia de los Árboles y las Raíces"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_01_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.jpg",
+      "key_learnings": [
+        "Las raíces de los árboles actúan como redes subterráneas que evitan la erosión y retienen agua en el suelo.",
+        "Los árboles producen oxígeno mediante la fotosíntesis y absorben dióxido de carbono.",
+        "Proteger los árboles maduros es crucial para mantener vivos los ecosistemas locales."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌳",
+          "fact": "Los árboles pueden comunicarse entre sí a través de una red subterránea de hongos llamada 'micorriza', compartiendo nutrientes y advertencias."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Erosión",
+          "definition": "El desgaste y pérdida de la tierra fértil cuando no hay raíces de plantas que la sujeten ante el viento o la lluvia."
+        },
+        {
+          "term": "Fotosíntesis",
+          "definition": "Proceso natural por el cual las hojas de los árboles convierten la luz del sol en alimento y liberan oxígeno limpio."
+        }
+      ],
+      "content": "El día que Mateo cumplió doce años, el árbol más viejo del parque desapareció. No fue talado; una mañana estaba ahí y al mediodía no quedaba ni la sombra, solo un círculo de tierra oscura donde antes vivían las raíces.\n\nSu abuela le había contado que los árboles centenarios eran los pilares invisibles de la ciudad: sus raíces profundas abrazaban la tierra para evitar que las lluvias arrasaran el suelo, y sus copas producían el aire fresco que respiraba todo el vecindario.\n\nMateo se arrodilló sobre la tierra fértil y tocó el suelo húmedo. Notó un suave calor. El árbol no había muerto: había sido trasladado a la reserva ecológica de la colina porque sus ramas gigantes necesitaban más espacio para alimentar a cientos de aves y ardillas.\n\nMateo comprendió que cada árbol en su comunidad era una fábrica de vida y prometió ayudar a plantar tres árboles jóvenes en el parque el fin de semana siguiente.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué el árbol centenario fue llevado a la reserva ecológica?",
+          "options": [
+            "Porque necesitaba más espacio para sus ramas y dar refugio a animales",
+            "Porque estaba seco y no tenía hojas",
+            "Porque Mateo quería jugar en el parque",
+            "Porque el viento lo derribó"
+          ],
+          "correct_answer": 0,
+          "explanation": "El árbol fue trasladado para que pudiera seguir creciendo y albergando a aves y ardillas con mayor libertad.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función principal de las raíces de los árboles en el suelo?",
+          "options": [
+            "Sujetar la tierra para evitar que el agua y el viento la desgasten (erosión)",
+            "Hacer que el suelo sea más frío",
+            "Cambiar el color de las piedras",
+            "Atrapar la luz del sol debajo de la tierra"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_hist_001",
+      "slug": "la-biblioteca-de-las-puertas-secretas",
+      "title": "La Biblioteca de las Puertas Secretas",
+      "summary": "Clara viaja en el tiempo a través de pergaminos y descubre cómo la escritura y las bibliotecas permitieron conservar el conocimiento de la humanidad.",
+      "subject": {
+        "id": "history",
+        "name": "Historia y Civilizaciones",
+        "emoji": "🏛️",
+        "color_hex": "#8B5CF6"
+      },
+      "topic": {
+        "id": "ancient-writing-libraries",
+        "name": "La Escritura y la Preservación del Saber"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_02_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_002.jpg",
+      "key_learnings": [
+        "La invención de la escritura marcó el inicio de la historia registrada de la humanidad.",
+        "Las antiguas bibliotecas (como la de Alejandría) reunían rollos de papiro y pergamino de distintas culturas.",
+        "Gracias a los libros y documentos históricos podemos conocer cómo vivían y pensaban personas hace miles de años."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "📜",
+          "fact": "Antes de inventar el papel moderno a base de árboles, en el antiguo Egipto se usaba una planta del río Nilo llamada papiro para escribir."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Papiro",
+          "definition": "Lámina vegetal flexible hecha con tallos de la planta de papiro sobre la que escribían los antiguos egipcios."
+        },
+        {
+          "term": "Civilización",
+          "definition": "Sociedad humana avanzada con sus propias ciudades, leyes, arte, escritura y conocimientos compartidos."
+        }
+      ],
+      "content": "Clara siempre pensó que las bibliotecas eran lugares silenciosos, hasta que una tarde encontró una puerta detrás del estante de crónicas antiguas. Al abrir un grueso volumen de cuero con grabados dorados, las páginas cobraron vida como una ventana.\n\nAl otro lado vio a un joven escriba sentado a orillas del río Nilo, dibujando jeroglíficos con tinta negra sobre un rollo de papiro bajo el sol.\n\n—¿Por qué escribes cada detalle de la cosecha y las estrellas? —preguntó Clara maravillada.\n\nEl escriba alzó la mirada y sonrió con serenidad:\n\n—Porque las palabras que se dicen se las lleva el viento, pero las palabras escritas viajan en el tiempo para que las personas del futuro, como tú, aprendan de nuestros aciertos y errores.\n\nClara acarició la textura del papel antiguo y entendió que cada libro en una biblioteca es un puente directo hacia las mentes de quienes vivieron siglos atrás.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué hacía el joven escriba a orillas del río Nilo?",
+          "options": [
+            "Escribía jeroglíficos con tinta sobre un rollo de papiro",
+            "Construía una barca de madera",
+            "Pintaba un cuadro al óleo",
+            "Leía un periódico moderno"
+          ],
+          "correct_answer": 0,
+          "explanation": "El escriba registraba datos y conocimientos dibujando jeroglíficos sobre papiro vegetal.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué fue tan importante la invención de la escritura para la humanidad?",
+          "options": [
+            "Porque permitió guardar y transmitir conocimientos a futuras generaciones",
+            "Porque hacía que los libros pesaran más",
+            "Porque reemplazó a todos los dibujos",
+            "Porque servía solo como adorno"
+          ],
+          "correct_answer": 0,
+          "explanation": "La escritura permitió conservar saberes científicos, historias y leyes sin depender únicamente de la memoria oral.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_opt_001",
+      "slug": "el-laberinto-de-las-sombras-y-la-luz",
+      "title": "El Laberinto de las Sombras y el Secreto de la Luz",
+      "summary": "Adrián explora un misterioso laberinto de piedra y descubre cómo la luz viaja en línea recta y genera sombras según el ángulo de incidencia.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "light-and-shadows",
+        "name": "Propagación de la Luz y Geometría de las Sombras"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 14
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_03_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_002.jpg",
+      "key_learnings": [
+        "La luz viaja siempre en línea recta mientras se propaga por un medio homogéneo.",
+        "Una sombra se produce cuando un cuerpo opaco bloquea el paso de los rayos de luz.",
+        "A menor ángulo de la fuente luminosa con respecto al suelo, más larga y alargada será la sombra proyectada."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "☀️",
+          "fact": "Al mediodía, cuando el Sol está en su punto más alto (cenit), tu sombra es la más corta del día porque la luz incide casi verticalmente."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Cuerpo opaco",
+          "definition": "Cualquier objeto que no permite que la luz lo atraviese (como una roca o una pared de piedra)."
+        },
+        {
+          "term": "Ángulo de incidencia",
+          "definition": "La inclinación con la que los rayos de luz chocan contra una superficie o cuerpo."
+        }
+      ],
+      "content": "En el corazón de la ciudad existía un antiguo laberinto de altos muros de piedra conocido como el Laberinto de las Sombras. Adrián, fascinado por la física óptica, decidió entrar al atardecer llevando consigo una linterna de enfoque directo.\n\nAl cruzar los pasillos, notó que las sombras de los muros cambiaban de longitud con cada paso. Cuando el sol bajaba hacia el horizonte, las sombras de las piedras se estiraban como gigantes por el suelo.\n\nAdrián encendió su linterna y apuntó contra una estatua central: observó cómo la luz viajaba en perfecta línea recta. Al colocar su mano frente al haz de luz, la sombra en la pared imitó exactamente el contorno de sus dedos. Si acercaba la mano a la linterna, la sombra crecía; si la alejaba hacia la pared, la sombra se volvía nítida y pequeña.\n\nComprendió que las sombras no son misterios oscuros, sino la prueba visible de que la luz viaja en líneas rectas perfectas que ningún objeto opaco puede doblar.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
+          "options": [
+            "Una linterna de enfoque directo",
+            "Un espejo mágico",
+            "Una cámara de fotos",
+            "Una vela de cera"
+          ],
+          "correct_answer": 0,
+          "explanation": "Adrián llevó una linterna para proyectar haces de luz controlados en los muros de piedra.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué las sombras son mucho más largas al atardecer que al mediodía?",
+          "options": [
+            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo",
+            "Porque la luz viaja más despacio en la tarde",
+            "Porque el aire se enfría",
+            "Porque los objetos crecen de tamaño"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al atardecer, el sol está bajo en el horizonte, lo que proyecta rayos inclinados que alargan la sombra detrás de los objetos opacos.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_ast_001",
+      "slug": "la-memoria-de-las-estrellas-kepler-9",
+      "title": "La memoria de las estrellas en Kepler-9",
+      "summary": "Izan trabaja en una estación orbital y comprende cómo la microgravedad y los módulos de memoria permiten a los astronautas realizar ciencia en el espacio.",
+      "subject": {
+        "id": "science-astronomy",
+        "name": "Ciencias y Astronomía",
+        "emoji": "🔭",
+        "color_hex": "#3B82F6"
+      },
+      "topic": {
+        "id": "orbital-stations-space",
+        "name": "Estaciones Espaciales y Órbitas"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 14
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_03_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_001.png",
+      "key_learnings": [
+        "Una estación orbital se mantiene alrededor de un planeta gracias al equilibrio entre la gravedad y su velocidad de traslación (órbita).",
+        "En el espacio, los telescopios y estaciones pueden observar las estrellas sin la distorsión de la atmósfera terrestre.",
+        "Los sistemas de computación espacial almacenan datos científicos mediante módulos de memoria redundantes para resistir la radiación cósmica."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🛰️",
+          "fact": "La Estación Espacial Internacional viaja tan rápido (a unos 28.000 km/h) que los astronautas ven 16 amaneceres y 16 atardeceres cada 24 horas."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Órbita",
+          "definition": "La trayectoria curva y continua que recorre un objeto en el espacio alrededor de un cuerpo con mayor masa, como un planeta o estrella."
+        },
+        {
+          "term": "Microgravedad",
+          "definition": "Estado en el que las cosas parecen flotar libremente porque están en constante caída libre alrededor del planeta."
+        }
+      ],
+      "content": "La estación orbital Kepler-9 giraba en silencio alrededor de un planeta azul oscuro. Izan revisaba el panel de sensores científicos. Las luces verdes parpadeaban con un pulso regular a través del ventanal blindado que mostraba miles de estrellas lejanas.\n\n—Comandante Lira, ¿por qué los telescopios de la estación capturan imágenes mucho más nítidas que los telescopios terrestres? —preguntó Izan mientras calibraba el módulo siete.\n\nLira sonrió y señaló el espacio profundo:\n\n—Porque aquí arriba estamos fuera de la atmósfera. El aire de la Tierra mueve la luz de las estrellas, haciéndolas titilar. En el vacío del espacio, la luz viaja en línea recta y sin obstáculos.\n\nIzan observó los datos de la memoria central registrando la composición de planetas extrasolares. Comprendió que la ciencia espacial es el mapa con el que la humanidad descubre su lugar en el cosmos.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Dónde se encontraba la tripulación realizando sus investigaciones?",
+          "options": [
+            "En la estación orbital Kepler-9 en el espacio",
+            "En un submarino en el fondo marino",
+            "En una base subterránea",
+            "En un observatorio en la cima de una montaña"
+          ],
+          "correct_answer": 0,
+          "explanation": "Izan y la comandante Lira estaban a bordo de la estación orbital Kepler-9.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué los telescopios espaciales obtienen imágenes más nítidas que los de la superficie terrestre?",
+          "options": [
+            "Porque están fuera de la atmósfera y la luz no se distorsiona con el aire",
+            "Porque usan lentes de mayor tamaño que no caben en la Tierra",
+            "Porque las estrellas están más cerca de día",
+            "Porque en el espacio no existe la luz solar"
+          ],
+          "correct_answer": 0,
+          "explanation": "La atmósfera terrestre contiene gases y polvo en movimiento que distorsionan la luz estelar; en el espacio la luz llega pura.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_soc_001",
+      "slug": "luna-y-la-brujula-en-la-colina",
+      "title": "Luna y el enigma de la colina roja",
+      "summary": "Luna explora la colina de su pueblo y aprende a orientarse utilizando una brújula magnética y los cuatro puntos cardinales.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "cardinal-points",
+        "name": "Orientación y Puntos Cardinales"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_01_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.png",
+      "key_learnings": [
+        "La brújula tiene una aguja imantada que siempre apunta hacia el Norte magnético de la Tierra.",
+        "Los cuatro puntos cardinales principales son Norte, Sur, Este y Oeste.",
+        "El Sol sale por el Este en las mañanas y se oculta por el Oeste al atardecer."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🧭",
+          "fact": "La Tierra actúa como un imán gigante debido a los metales líquidos que giran en su núcleo profundo."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Puntos cardinales",
+          "definition": "Las cuatro direcciones principales que usamos para ubicarnos en cualquier parte del planeta: Norte, Sur, Este y Oeste."
+        },
+        {
+          "term": "Brújula",
+          "definition": "Instrumento con una aguja magnética que gira libremente y siempre señala hacia el Norte."
+        }
+      ],
+      "content": "Luna era una niña curiosa que vivía en una casa azul al borde de un pequeño pueblo. Cada tarde miraba una colina roja a lo lejos. Un día decidió subirla; preparó una mochila con agua, provisiones y una linterna.\n\nEl camino subía en pendiente y Luna caminaba observando el paisaje. Al llegar a la cumbre, el cielo se tornó anaranjado. Detrás de unas rocas encontró una caja de madera antigua. Dentro había un mapa simple y una brújula de bronce.\n\nLuna observó la aguja de la brújula: sin importar cómo se moviera, la punta roja señalaba firmemente hacia el Norte. Miró hacia el horizonte y vio el sol ocultándose por el Oeste, pintando de dorado el tejado de su casa al Este.\n\nComprendió que el mapa y la brújula eran las herramientas con las que los antiguos exploradores trazaban caminos sin perderse. Con la brújula en mano, bajó con seguridad antes del anochecer.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto antiguo encontró Luna en la cima de la colina?",
+          "options": [
+            "Una brújula de bronce y un mapa",
+            "Un libro de cuentos",
+            "Un reloj de arena",
+            "Un catalejo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Luna encontró una caja de madera que resguardaba una brújula y un mapa antiguo.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Hacia qué dirección apunta siempre la aguja magnética de una brújula?",
+          "options": [
+            "Hacia el Norte",
+            "Hacia donde sopla el viento",
+            "Hacia el Oeste",
+            "Hacia el punto más alto de una montaña"
+          ],
+          "correct_answer": 0,
+          "explanation": "La aguja magnética de la brújula se alinea con el campo magnético terrestre y apunta siempre al Norte.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_phy_001",
+      "slug": "el-reloj-de-la-torre-y-los-engranajes",
+      "title": "El reloj de la torre y el secreto de los engranajes",
+      "summary": "Tomás sube a la torre del pueblo y aprende cómo los engranajes y la transferencia de movimiento hacen funcionar a las máquinas mecánicas.",
+      "subject": {
+        "id": "technology-physics",
+        "name": "Física y Tecnología",
+        "emoji": "⚙️",
+        "color_hex": "#6366F1"
+      },
+      "topic": {
+        "id": "gears-and-mechanics",
+        "name": "Engranajes y Mecánica Clásica"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_02_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_001.png",
+      "key_learnings": [
+        "Un engranaje es una rueda dentada que transmite fuerza y movimiento a otra rueda.",
+        "Cuando un engranaje gira en sentido horario, el engranaje con el que se conecta gira en sentido antihorario.",
+        "Los tamaños de los engranajes determinan la velocidad y la fuerza de rotación."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "⏰",
+          "fact": "Antes de la electricidad y las baterías, todas las máquinas complejas y relojes funcionaban únicamente con pesas, resortes y ruedas dentadas."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Engranaje",
+          "definition": "Rueda de metal o madera con dientes tallados en su borde que se encaja con otra para transmitir movimiento."
+        },
+        {
+          "term": "Mecanismo",
+          "definition": "Conjunto de piezas combinadas que trabajan juntas para realizar una tarea mecánica."
+        }
+      ],
+      "content": "Tomás vivía en un pueblo donde una torre de piedra gris guardaba un gran reloj que llevaba años en calma. Una tarde escuchó un leve tintineo metálico proveniente de las alturas.\n\nSubió por una escalera de caracol y encontró a Don Ernesto, el relojero, ajustando una gran maquinaria de bronce. Ruedas doradas con dientes pequeños encajaban perfectamente unas con otras.\n\n—Observa con atención, Tomás —le dijo Ernesto—. Esta rueda grande gira despacio impulsada por una pesa. Cada vez que da una vuelta, hace girar a esta rueda pequeña diez veces más rápido. Los engranajes permiten transformar una fuerza lenta en el movimiento preciso de los segundos.\n\nDe pronto, un engranaje suelto detuvo el sistema. Con pinzas y paciencia, volvieron a colocar el diente en su sitio. El péndulo osciló y el 'tic... tac' resonó con fuerza en toda la torre. Tomás comprendió la magia de la física mecánica aplicada a la vida real.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Quién estaba en la parte superior de la torre reparando el reloj?",
+          "options": [
+            "Don Ernesto, el relojero",
+            "La maestra de la escuela",
+            "El alcalde del pueblo",
+            "Un explorador desconocido"
+          ],
+          "correct_answer": 0,
+          "explanation": "Tomás encontró a Don Ernesto trabajando con las piezas de bronce del reloj.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "Si una rueda con dientes gira hacia la derecha (sentido horario), ¿hacia qué lado gira la rueda conectada a ella?",
+          "options": [
+            "Hacia la izquierda (sentido antihorario)",
+            "Hacia la derecha en la misma dirección",
+            "No se mueve",
+            "Hacia arriba"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al encajar los dientes, el giro de una rueda empuja a la otra en sentido contrario.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    }
+  ]
+}

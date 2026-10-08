@@ -1,86 +1,13 @@
 {
   "version_db": 4,
-  "level_key": "advanced",
-  "label": "Avanzado (Investigadores)",
-  "emoji": "⚡",
+  "subject": {
+    "id": "science-astronomy",
+    "name": "Ciencias y Astronomía",
+    "emoji": "🔭",
+    "color_hex": "#3B82F6",
+    "description": "El universo, planetas, física espacial, órbitas y tecnología científica"
+  },
   "stories": [
-    {
-      "id": "story_opt_001",
-      "slug": "el-laberinto-de-las-sombras-y-la-luz",
-      "title": "El Laberinto de las Sombras y el Secreto de la Luz",
-      "summary": "Adrián explora un misterioso laberinto de piedra y descubre cómo la luz viaja en línea recta y genera sombras según el ángulo de incidencia.",
-      "subject": {
-        "id": "physics-optics",
-        "name": "Física Óptica y Luz",
-        "emoji": "💡",
-        "color_hex": "#EC4899"
-      },
-      "topic": {
-        "id": "light-and-shadows",
-        "name": "Propagación de la Luz y Geometría de las Sombras"
-      },
-      "age_range": {
-        "min": 10,
-        "max": 14
-      },
-      "difficulty": "advanced",
-      "reading_time_min": 4,
-      "cover_image_path": "images/story_03_002.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_002.jpg",
-      "key_learnings": [
-        "La luz viaja siempre en línea recta mientras se propaga por un medio homogéneo.",
-        "Una sombra se produce cuando un cuerpo opaco bloquea el paso de los rayos de luz.",
-        "A menor ángulo de la fuente luminosa con respecto al suelo, más larga y alargada será la sombra proyectada."
-      ],
-      "fun_facts": [
-        {
-          "emoji": "☀️",
-          "fact": "Al mediodía, cuando el Sol está en su punto más alto (cenit), tu sombra es la más corta del día porque la luz incide casi verticalmente."
-        }
-      ],
-      "glossary": [
-        {
-          "term": "Cuerpo opaco",
-          "definition": "Cualquier objeto que no permite que la luz lo atraviese (como una roca o una pared de piedra)."
-        },
-        {
-          "term": "Ángulo de incidencia",
-          "definition": "La inclinación con la que los rayos de luz chocan contra una superficie o cuerpo."
-        }
-      ],
-      "content": "En el corazón de la ciudad existía un antiguo laberinto de altos muros de piedra conocido como el Laberinto de las Sombras. Adrián, fascinado por la física óptica, decidió entrar al atardecer llevando consigo una linterna de enfoque directo.\n\nAl cruzar los pasillos, notó que las sombras de los muros cambiaban de longitud con cada paso. Cuando el sol bajaba hacia el horizonte, las sombras de las piedras se estiraban como gigantes por el suelo.\n\nAdrián encendió su linterna y apuntó contra una estatua central: observó cómo la luz viajaba en perfecta línea recta. Al colocar su mano frente al haz de luz, la sombra en la pared imitó exactamente el contorno de sus dedos. Si acercaba la mano a la linterna, la sombra crecía; si la alejaba hacia la pared, la sombra se volvía nítida y pequeña.\n\nComprendió que las sombras no son misterios oscuros, sino la prueba visible de que la luz viaja en líneas rectas perfectas que ningún objeto opaco puede doblar.",
-      "questions": [
-        {
-          "id": "q1",
-          "type": "reading_comprehension",
-          "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
-          "options": [
-            "Una linterna de enfoque directo",
-            "Un espejo mágico",
-            "Una cámara de fotos",
-            "Una vela de cera"
-          ],
-          "correct_answer": 0,
-          "explanation": "Adrián llevó una linterna para proyectar haces de luz controlados en los muros de piedra.",
-          "points": 10
-        },
-        {
-          "id": "q2",
-          "type": "educational_concept",
-          "question": "¿Por qué las sombras son mucho más largas al atardecer que al mediodía?",
-          "options": [
-            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo",
-            "Porque la luz viaja más despacio en la tarde",
-            "Porque el aire se enfría",
-            "Porque los objetos crecen de tamaño"
-          ],
-          "correct_answer": 0,
-          "explanation": "Al atardecer, el sol está bajo en el horizonte, lo que proyecta rayos inclinados que alargan la sombra detrás de los objetos opacos.",
-          "points": 10
-        }
-      ],
-      "total_points": 20
-    },
     {
       "id": "story_ast_001",
       "slug": "la-memoria-de-las-estrellas-kepler-9",

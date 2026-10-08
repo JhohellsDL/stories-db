@@ -1,26 +1,98 @@
 {
-  "version_db": 3,
+  "version_db": 4,
+  "total_stories": 7,
+  "subjects": [
+    {
+      "id": "biology",
+      "name": "Biología y Salud",
+      "emoji": "🧬",
+      "color_hex": "#10B981",
+      "path": "stories/subjects/biology.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/biology.json",
+      "story_count": 1
+    },
+    {
+      "id": "environment",
+      "name": "Medio Ambiente y Ecosistemas",
+      "emoji": "🌱",
+      "color_hex": "#059669",
+      "path": "stories/subjects/environment.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/environment.json",
+      "story_count": 1
+    },
+    {
+      "id": "history",
+      "name": "Historia y Civilizaciones",
+      "emoji": "🏛️",
+      "color_hex": "#8B5CF6",
+      "path": "stories/subjects/history.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/history.json",
+      "story_count": 1
+    },
+    {
+      "id": "physics-optics",
+      "name": "Física Óptica y Luz",
+      "emoji": "💡",
+      "color_hex": "#EC4899",
+      "path": "stories/subjects/physics-optics.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/physics-optics.json",
+      "story_count": 1
+    },
+    {
+      "id": "science-astronomy",
+      "name": "Ciencias y Astronomía",
+      "emoji": "🔭",
+      "color_hex": "#3B82F6",
+      "path": "stories/subjects/science-astronomy.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/science-astronomy.json",
+      "story_count": 1
+    },
+    {
+      "id": "social-sciences",
+      "name": "Ciencias Sociales y Geografía",
+      "emoji": "🧭",
+      "color_hex": "#F59E0B",
+      "path": "stories/subjects/social-sciences.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/social-sciences.json",
+      "story_count": 1
+    },
+    {
+      "id": "technology-physics",
+      "name": "Física y Tecnología",
+      "emoji": "⚙️",
+      "color_hex": "#6366F1",
+      "path": "stories/subjects/technology-physics.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/technology-physics.json",
+      "story_count": 1
+    }
+  ],
   "levels": [
     {
-      "label": "Básico",
+      "id": "basic",
+      "label": "Básico (Exploradores)",
       "emoji": "🌱",
-      "description": "Cuentos cortos y vocabulario sencillo",
+      "description": "Cuentos cortos (5-7 años) con conceptos iniciales y vocabulario claro",
       "path": "stories/levels/basic-stories.json",
-      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/basic-stories.json"
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/basic-stories.json",
+      "story_count": 3
     },
     {
-      "label": "Medio",
+      "id": "intermediate",
+      "label": "Medio (Aventureros)",
       "emoji": "🔥",
-      "description": "Narrativas más elaboradas",
+      "description": "Narrativas guiadas (8-10 años) con retos y conceptos educativos aplicados",
       "path": "stories/levels/medium-stories.json",
-      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/medium-stories.json"
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/medium-stories.json",
+      "story_count": 2
     },
     {
-      "label": "Avanzado",
+      "id": "advanced",
+      "label": "Avanzado (Investigadores)",
       "emoji": "⚡",
-      "description": "Textos complejos y vocabulario rico",
+      "description": "Textos enriquecidos (11-14 años) con razonamiento crítico y científico",
       "path": "stories/levels/advanced-stories.json",
-      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/advanced-stories.json"
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/advanced-stories.json",
+      "story_count": 2
     }
   ]
 }

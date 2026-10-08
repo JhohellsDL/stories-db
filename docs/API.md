@@ -1,141 +1,161 @@
-# API Documentation for stories-db
+# 📚 Documentación de Consumo - stories-db (Educational Data Engine)
 
-## Overview
-This document outlines how to consume the stories-db API, detailing available endpoints, example requests, and response formats.
+`stories-db` es un **Data Engine estático y Headless** diseñado para alimentar aplicaciones infantiles de lectura educativa y comprensión lectora. Los datos se distribuyen como JSONs optimizados a través del CDN de GitHub (`raw.githubusercontent.com`).
 
-## Base URL
-The base URL for accessing the API is:
-```
-https://api.stories-db.example.com/v1
-```
+---
 
-## Endpoints
-### 1. Get All Stories
-- **Endpoint:** `/stories`
-- **Method:** `GET`
-- **Description:** Retrieves a list of all stories.
+## 🌐 URLs Base
 
-#### Example Request:
-```http
-GET /stories HTTP/1.1
-Host: api.stories-db.example.com
+```text
+https://raw.githubusercontent.com/JhohellsDL/stories-db/main/
 ```
 
-#### Example Response:
+---
+
+## 🧭 1. Manifiesto Maestro (`db-stories.json`)
+
+Contiene el catálogo completo de materias (`subjects`) y niveles de dificultad (`levels`), con sus rutas y conteos actualizados.
+
+- **URL:** `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/db-stories.json`
+- **Método:** `GET`
+
 ```json
 {
-  "stories": [
+  "version_db": 4,
+  "total_stories": 7,
+  "subjects": [
     {
-      "id": 1,
-      "title": "Story Title 1",
-      "content": "Story content here"
+      "id": "biology",
+      "name": "Biología y Salud",
+      "emoji": "🧬",
+      "color_hex": "#10B981",
+      "path": "stories/subjects/biology.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/biology.json",
+      "story_count": 1
     },
     {
-      "id": 2,
-      "title": "Story Title 2",
-      "content": "Story content here"
+      "id": "environment",
+      "name": "Medio Ambiente y Ecosistemas",
+      "emoji": "🌱",
+      "color_hex": "#059669",
+      "path": "stories/subjects/environment.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/environment.json",
+      "story_count": 1
+    }
+  ],
+  "levels": [
+    {
+      "id": "basic",
+      "label": "Básico (Exploradores)",
+      "emoji": "🌱",
+      "description": "Cuentos cortos (5-7 años) con conceptos iniciales y vocabulario claro",
+      "path": "stories/levels/basic-stories.json",
+      "url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/basic-stories.json",
+      "story_count": 3
     }
   ]
 }
 ```
 
-### 2. Get Story by ID
-- **Endpoint:** `/stories/{id}`
-- **Method:** `GET`
-- **Description:** Retrieves a single story by its ID.
+---
 
-#### Example Request:
-```http
-GET /stories/1 HTTP/1.1
-Host: api.stories-db.example.com
-```
+## 📖 2. Cuentos por Materia Educativa (`stories/subjects/*.json`)
 
-#### Example Response:
-```json
-{
-  "story": {
-    "id": 1,
-    "title": "Story Title 1",
-    "content": "Story content here"
-  }
+| Materia | Emoji | URL |
+| :--- | :--- | :--- |
+| **Biología y Salud** | 🧬 | `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/biology.json` |
+| **Medio Ambiente** | 🌱 | `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/environment.json` |
+| **Ciencias Sociales y Geografía** | 🧭 | `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/social-sciences.json` |
+| **Física y Tecnología** | ⚙️ | `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/technology-physics.json` |
+| **Historia y Civilizaciones** | 🏛️ | `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/history.json` |
+| **Ciencias y Astronomía** | 🔭 | `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/science-astronomy.json` |
+| **Física Óptica y Luz** | 💡 | `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/subjects/physics-optics.json` |
+
+---
+
+## 🎯 3. Cuentos por Nivel de Dificultad (`stories/levels/*.json`)
+
+- **Básico (5-7 años):** `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/basic-stories.json`
+- **Medio (8-10 años):** `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/medium-stories.json`
+- **Avanzado (11-14 años):** `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/levels/advanced-stories.json`
+
+---
+
+## 📦 4. Catálogo Consolidado Completo (`all-stories.json`)
+
+Ideal para cachear todo el contenido en local al abrir la app o para modo sin conexión (*offline first*).
+
+- **URL:** `https://raw.githubusercontent.com/JhohellsDL/stories-db/main/stories/all-stories.json`
+
+---
+
+## 📑 5. Especificación del Esquema de una Historia
+
+```typescript
+interface Story {
+  id: string;                      // ej: "story_bio_001"
+  slug: string;                    // ej: "riley-y-el-cuidado-de-los-dientes"
+  title: string;                   // Título de la historia
+  summary: string;                 // Resumen para catálogo
+  subject: {
+    id: string;                    // "biology", "history", etc.
+    name: string;
+    emoji: string;
+    color_hex?: string;
+  };
+  topic: {
+    id: string;                    // "dental-anatomy", "water-cycle"
+    name: string;
+  };
+  age_range: {
+    min: number;                   // ej: 6
+    max: number;                   // ej: 9
+  };
+  difficulty: "basic" | "intermediate" | "advanced";
+  reading_time_min: number;        // Minutos estimados de lectura
+  cover_image_path: string;        // "images/story_01_003.png"
+  cover_image_url: string;         // URL directa en GitHub CDN
+  key_learnings: string[];         // Lista de conceptos educativos aprendidos
+  fun_facts: {                     // Datos curiosos para el niño
+    emoji: string;
+    fact: string;
+  }[];
+  glossary: {                      // Glosario para palabras clickeables
+    term: string;
+    definition: string;
+    simple_example?: string;
+  }[];
+  content: string;                 // Texto completo del cuento
+  questions: {
+    id: string;
+    type: "reading_comprehension" | "educational_concept";
+    question: string;
+    options: string[];
+    correct_answer: number;        // Índice (0-based) de la opción correcta
+    explanation: string;           // Retroalimentación formativa
+    points: number;
+  }[];
+  total_points: number;
 }
 ```
 
-### 3. Create a New Story
-- **Endpoint:** `/stories`
-- **Method:** `POST`
-- **Description:** Creates a new story.
+---
 
-#### Example Request:
-```http
-POST /stories HTTP/1.1
-Host: api.stories-db.example.com
-Content-Type: application/json
+## 🛠️ Comandos de Desarrollo
 
-{
-  "title": "New Story",
-  "content": "This is a new story."
-}
+```bash
+# Validar tipos TypeScript
+npm run typecheck
+
+# Ejecutar suite de pruebas unitarias
+npm run test:unit
+
+# Validar integridad de esquemas, imágenes y coherencia
+npm run validate
+
+# Ejecutar verificación completa
+npm test
+
+# Compilar niveles, manifiestos y catálogo unificado
+npm run build
 ```
-
-#### Example Response:
-```json
-{
-  "message": "Story created successfully",
-  "story": {
-    "id": 3,
-    "title": "New Story",
-    "content": "This is a new story."
-  }
-}
-```
-
-### 4. Update a Story
-- **Endpoint:** `/stories/{id}`
-- **Method:** `PUT`
-- **Description:** Updates an existing story by its ID.
-
-#### Example Request:
-```http
-PUT /stories/1 HTTP/1.1
-Host: api.stories-db.example.com
-Content-Type: application/json
-
-{
-  "title": "Updated Story Title",
-  "content": "Updated story content."
-}
-```
-
-#### Example Response:
-```json
-{
-  "message": "Story updated successfully",
-  "story": {
-    "id": 1,
-    "title": "Updated Story Title",
-    "content": "Updated story content."
-  }
-}
-```
-
-### 5. Delete a Story
-- **Endpoint:** `/stories/{id}`
-- **Method:** `DELETE`
-- **Description:** Deletes a story by its ID.
-
-#### Example Request:
-```http
-DELETE /stories/1 HTTP/1.1
-Host: api.stories-db.example.com
-```
-
-#### Example Response:
-```json
-{
-  "message": "Story deleted successfully"
-}
-```
-
-## Conclusion
-This API provides a simple interface to manage stories in the stories-db. Use the examples provided to guide your requests and handle the responses appropriately.

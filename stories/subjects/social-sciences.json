@@ -1,0 +1,89 @@
+{
+  "version_db": 4,
+  "subject": {
+    "id": "social-sciences",
+    "name": "Ciencias Sociales y Geografía",
+    "emoji": "🧭",
+    "color_hex": "#F59E0B",
+    "description": "Geografía, mapas, orientación espacial y comunidades"
+  },
+  "stories": [
+    {
+      "id": "story_soc_001",
+      "slug": "luna-y-la-brujula-en-la-colina",
+      "title": "Luna y el enigma de la colina roja",
+      "summary": "Luna explora la colina de su pueblo y aprende a orientarse utilizando una brújula magnética y los cuatro puntos cardinales.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "cardinal-points",
+        "name": "Orientación y Puntos Cardinales"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_01_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.png",
+      "key_learnings": [
+        "La brújula tiene una aguja imantada que siempre apunta hacia el Norte magnético de la Tierra.",
+        "Los cuatro puntos cardinales principales son Norte, Sur, Este y Oeste.",
+        "El Sol sale por el Este en las mañanas y se oculta por el Oeste al atardecer."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🧭",
+          "fact": "La Tierra actúa como un imán gigante debido a los metales líquidos que giran en su núcleo profundo."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Puntos cardinales",
+          "definition": "Las cuatro direcciones principales que usamos para ubicarnos en cualquier parte del planeta: Norte, Sur, Este y Oeste."
+        },
+        {
+          "term": "Brújula",
+          "definition": "Instrumento con una aguja magnética que gira libremente y siempre señala hacia el Norte."
+        }
+      ],
+      "content": "Luna era una niña curiosa que vivía en una casa azul al borde de un pequeño pueblo. Cada tarde miraba una colina roja a lo lejos. Un día decidió subirla; preparó una mochila con agua, provisiones y una linterna.\n\nEl camino subía en pendiente y Luna caminaba observando el paisaje. Al llegar a la cumbre, el cielo se tornó anaranjado. Detrás de unas rocas encontró una caja de madera antigua. Dentro había un mapa simple y una brújula de bronce.\n\nLuna observó la aguja de la brújula: sin importar cómo se moviera, la punta roja señalaba firmemente hacia el Norte. Miró hacia el horizonte y vio el sol ocultándose por el Oeste, pintando de dorado el tejado de su casa al Este.\n\nComprendió que el mapa y la brújula eran las herramientas con las que los antiguos exploradores trazaban caminos sin perderse. Con la brújula en mano, bajó con seguridad antes del anochecer.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto antiguo encontró Luna en la cima de la colina?",
+          "options": [
+            "Una brújula de bronce y un mapa",
+            "Un libro de cuentos",
+            "Un reloj de arena",
+            "Un catalejo"
+          ],
+          "correct_answer": 0,
+          "explanation": "Luna encontró una caja de madera que resguardaba una brújula y un mapa antiguo.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Hacia qué dirección apunta siempre la aguja magnética de una brújula?",
+          "options": [
+            "Hacia el Norte",
+            "Hacia donde sopla el viento",
+            "Hacia el Oeste",
+            "Hacia el punto más alto de una montaña"
+          ],
+          "correct_answer": 0,
+          "explanation": "La aguja magnética de la brújula se alinea con el campo magnético terrestre y apunta siempre al Norte.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    }
+  ]
+}
