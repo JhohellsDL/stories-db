@@ -215,8 +215,8 @@
       },
       "difficulty": "advanced",
       "reading_time_min": 5,
-      "cover_image_path": "images/story_ast_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_001.png",
+      "cover_image_path": "images/story_ast_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_001.jpg",
       "key_learnings": [
         "Una estación orbital se mantiene alrededor de un planeta gracias al equilibrio entre la gravedad y su velocidad de traslación (órbita).",
         "En el espacio, los telescopios y estaciones pueden observar las estrellas sin la distorsión de la atmósfera terrestre.",

@@ -7,7 +7,7 @@
     "color_hex": "#F59E0B",
     "description": "Geografía, mapas, orientación espacial y comunidades",
     "images_url": [
-      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_01.png",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_01.jpg",
       "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_02.jpg",
       "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_03.jpg",
       "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/social_04.jpg"
@@ -35,8 +35,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_soc_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_001.png",
+      "cover_image_path": "images/story_soc_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_001.jpg",
       "key_learnings": [
         "La brújula tiene una aguja imantada que siempre apunta hacia el Norte magnético de la Tierra.",
         "Los cuatro puntos cardinales principales son Norte, Sur, Este y Oeste.",
