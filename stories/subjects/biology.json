@@ -5,7 +5,13 @@
     "name": "Biología y Salud",
     "emoji": "🧬",
     "color_hex": "#10B981",
-    "description": "El cuerpo humano, los seres vivos y los hábitos saludables"
+    "description": "El cuerpo humano, los seres vivos y los hábitos saludables",
+    "images_url": [
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_01.png",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_02.png",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_03.png",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/biology_04.png"
+    ]
   },
   "stories": [
     {
@@ -29,8 +35,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_01_003.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png",
+      "cover_image_path": "images/story_bio_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_001.png",
       "key_learnings": [
         "Los dientes tienen una capa protectora dura llamada esmalte que los alimentos muy duros o azucarados pueden dañar.",
         "Los dulces en exceso alimentan a bacterias que producen caries.",
@@ -80,6 +86,237 @@
           ],
           "correct_answer": 0,
           "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_bio_002",
+      "slug": "lucas-y-el-motor-del-pecho",
+      "title": "Lucas y el tambor del corazón",
+      "summary": "Durante una carrera en el parque, Lucas descubre cómo late su corazón, cómo viaja la sangre transportando oxígeno y por qué hacer ejercicio lo mantiene fuerte.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "circulatory-system",
+        "name": "El Sistema Circulatorio y la Respiración"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_bio_002.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_002.png",
+      "key_learnings": [
+        "El corazón es un músculo que bombea sangre a todo el cuerpo día y noche.",
+        "La sangre lleva oxígeno y nutrientes a los músculos para que podamos movernos.",
+        "Cuando hacemos ejercicio, el corazón late más rápido para enviar más oxígeno a donde se necesita."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "❤️",
+          "fact": "El corazón de un niño late en promedio entre 70 y 110 veces por minuto mientras descansa, y tiene un tamaño similar al de su puño cerrado."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Oxígeno",
+          "definition": "Un gas invisible presente en el aire que respiramos y que nuestras células necesitan para producir energía."
+        },
+        {
+          "term": "Pulso",
+          "definition": "El latido rítmico que podemos sentir en lugares como la muñeca o el cuello cada vez que el corazón bombea sangre."
+        }
+      ],
+      "content": "Lucas corría tras la pelota de fútbol en el parque con sus primos. Después de diez minutos de piques veloces, se tiró sobre el pasto a descansar. Al poner su mano sobre el pecho, sintió algo impresionante: ¡pum, pum, pum! Su pecho latía como un tamborcito acelerado.\n\nSu tío David, profesor de educación física, se sentó a su lado y le sonrió:\n\n—¿Sientes ese ritmo, Lucas? Es tu corazón trabajando a toda máquina.\n\nLucas, aún respirando hondo, preguntó intrigado:\n\n—¿Por qué late tan rápido ahora si antes casi ni lo sentía?\n\n—Imagina que tus piernas son cochecitos que necesitan combustible —explicó el tío señalando sus rodillas—. Ese combustible es el oxígeno que entra por tus pulmones. El corazón es la bomba que empuja la sangre llena de oxígeno por pequeños tubitos llamados venas y arterias hasta cada rincón de tus músculos. Al correr, tus músculos piden más oxígeno, y tu corazón responde bombeando el doble de rápido.\n\nLucas colocó sus dos dedos sobre la muñeca izquierda y notó las pulsaciones constantes. Respiró despacio varias veces y sintió cómo poco a poco el tambor volvía a su compás tranquilo, listo para la siguiente aventura.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué actividad estaba haciendo Lucas antes de sentir sus latidos acelerados?",
+          "options": [
+            "Jugando una carrera con la pelota en el parque",
+            "Durmiendo una siesta en su cama",
+            "Leyendo un libro en la biblioteca",
+            "Pintando un cuadro con acuarelas"
+          ],
+          "correct_answer": 0,
+          "explanation": "Lucas corría velozmente tras la pelota en el parque, lo que exigió más energía a sus músculos.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué el corazón late con mayor rapidez cuando realizamos ejercicio intenso?",
+          "options": [
+            "Para enviar más sangre con oxígeno y nutrientes a los músculos activos",
+            "Porque el cuerpo intenta enfriar la ropa",
+            "Porque los huesos se encogen",
+            "Para producir más lágrimas"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al ejercitarnos, los músculos consumen más oxígeno, por lo que el corazón bombea sangre más rápido para abastecerlos.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_bio_003",
+      "slug": "el-gran-viaje-de-la-manzana",
+      "title": "El increíble viaje de una manzana",
+      "summary": "Mateo acompaña a un bocado de fruta en un fascinante recorrido por el sistema digestivo para entender cómo el cuerpo transforma la comida en energía.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "digestive-system",
+        "name": "El Sistema Digestivo y la Nutrición"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_bio_003.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_003.png",
+      "key_learnings": [
+        "La digestión comienza en la boca gracias a la masticación y la saliva.",
+        "El estómago descompone los alimentos en trozos microscópicos mediante jugos gástricos.",
+        "Los intestinos absorben los nutrientes para que pasen a la sangre y eliminan lo que el cuerpo no necesita."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "📏",
+          "fact": "Si desenrollaras el intestino delgado de una persona adulta, ¡mediría casi 6 metros de largo, doblado como una manguera mágica dentro del abdomen!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Digestión",
+          "definition": "El proceso mediante el cual el cuerpo descompone los alimentos para absorber los nutrientes necesarios para crecer y tener energía."
+        },
+        {
+          "term": "Nutrientes",
+          "definition": "Sustancias químicas útiles presentes en la comida, como vitaminas, proteínas y minerales, que alimentan nuestras células."
+        }
+      ],
+      "content": "Mateo sostenía una manzana roja y crujiente frente a su abuela mientras preparaban la merienda. Al morderla con un sonoro *¡crunch!*, sintió curiosidad:\n\n—Abuelita, ¿a dónde va exactamente este pedazo de fruta después de que lo trago?\n\nLa abuela sonrió y le pidió que masticara despacio:\n\n—El viaje empieza justo ahí, en tu boca. Tus dientes muelen la manzana y la saliva la humedece para formar una pasta suave. Luego, la tragas y desciende por un tubo llamado esófago como si fuera un tobogán.\n\n—¿Y luego cae a una bolsa? —preguntó Mateo tocándose la panza.\n\n—Exacto, esa bolsa es tu estómago. Allí se mezcla con unos líquidos especiales que deshacen la manzana hasta convertirla en una papilla líquida. Después, esa papilla pasa a un túnel muy largo y enrollado: el intestino delgado. Sus paredes absorben todas las vitaminas y azúcares buenos de la manzana y los envían a tu sangre para darte fuerza.\n\n—¿Y qué pasa con la cáscara dura que no se pudo absorber? —preguntó Mateo.\n\n—Pasa al intestino grueso, que recoge el agua y empaca los restos que el cuerpo no usará para expulsarlos cuando vas al baño.\n\nMateo dio otro bocado, masticando con paciencia y agradeciendo a su cuerpo por trabajar como una fábrica perfecta.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar del cuerpo humano comienza formalmente el proceso de la digestión?",
+          "options": [
+            "En la boca, con los dientes y la saliva",
+            "En las rodillas",
+            "En el estómago directamente",
+            "En la punta de la nariz"
+          ],
+          "correct_answer": 0,
+          "explanation": "La digestión empieza al masticar y humedecer los alimentos con la saliva en la boca.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función principal del intestino delgado?",
+          "options": [
+            "Absorber los nutrientes de los alimentos y enviarlos a la sangre",
+            "Masticar la comida dura",
+            "Enfriar la temperatura del aire",
+            "Almacenar pensamientos"
+          ],
+          "correct_answer": 0,
+          "explanation": "El intestino delgado se encarga de absorber las vitaminas, minerales y nutrientes digeridos para nutrir el organismo.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_bio_004",
+      "slug": "los-guardianes-del-jabon",
+      "title": "Sofía y el escudo de burbujas",
+      "summary": "Sofía aprende cómo actúan los gérmenes invisibles y cómo el agua con jabón desintegra la capa de los microbios para proteger el sistema inmune.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "microbiology-hygiene",
+        "name": "Microbiología y Hábitos de Higiene"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_bio_004.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_004.png",
+      "key_learnings": [
+        "Existen microorganismos invisibles a simple vista llamados bacterias y virus que pueden transmitir enfermedades.",
+        "El jabón descompone la capa grasa exterior de los virus y bacterias, haciéndolos resbalar con el agua.",
+        "Lavarse las manos por al menos 20 segundos antes de comer y tras jugar en el suelo previene infecciones."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🧼",
+          "fact": "La molécula de jabón tiene dos extremos: a uno le gusta el agua y al otro le gusta la grasa; por eso atrapa y arrastra la suciedad con tanta facilidad."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Microbio",
+          "definition": "Ser vivo diminuto, como virus o bacterias, que únicamente se puede observar a través de un microscopio."
+        },
+        {
+          "term": "Sistema inmune",
+          "definition": "El equipo de defensas naturales de nuestro cuerpo que combate las infecciones y nos ayuda a sanar."
+        }
+      ],
+      "content": "Sofía terminó de construir un castillo de tierra en el jardín con sus amigos. Sus dedos estaban llenos de barro y pequeñas piedritas. Cuando su papá llamó para merendar unas rodajas de sandía, Sofía corrió a la mesa con ganas de tomar una tajada de inmediato.\n\n—¡Alto ahí, detective de jardines! —dijo su papá poniéndose en el camino—. Primero pasamos por la estación de desinfección.\n\nEn el lavamanos, Sofía se frotó con solo un poco de agua fría:\n\n—Listo, papi, ya no se ve la tierra oscura.\n\nSu papá abrió un frasco de jabón y le colocó una gota en las palmas:\n\n—Que no veas tierra no significa que tus manos estén limpias. Hay diminutos bichitos llamados microbios que son invisibles a nuestros ojos. Si tocas la sandía con las manos sucias, los microbios viajarán a tu boca y pueden causarte dolor de estómago.\n\n—¿Y el jabón qué les hace? —preguntó Sofía frotándose entre los dedos.\n\n—El jabón tiene un súper poder: rompe la capita de grasa que envuelve a los microbios como si fuera una espada mágica, y las burbujas los despegan de tu piel para que el agua se los lleve por el desagüe.\n\nSofía cantó su canción favorita durante veinte segundos mientras formaba una montaña de espuma blanca. Al enjuagarse, sus manos olían a frutas y estaban listas y protegidas para disfrutar su merienda.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué no era suficiente que Sofía se enjuagara solo con agua?",
+          "options": [
+            "Porque los microbios invisibles siguen adheridos a la piel sin la acción del jabón",
+            "Porque el agua estaba demasiado caliente",
+            "Porque sus manos iban a oler mal",
+            "Porque el agua sola ensucia más"
+          ],
+          "correct_answer": 0,
+          "explanation": "El agua por sí sola no descompone la grasa ni despega los microorganismos patógenos; requiere jabón.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo ayuda el jabón a eliminar virus y bacterias de las manos?",
+          "options": [
+            "Descompone su capa protectora externa y los atrapa en burbujas para que el agua los arrastre",
+            "Los alimenta para que crezcan",
+            "Los congela en cubos de hielo",
+            "Los pinta de color azul"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las moléculas de jabón disuelven la membrana grasa de los microbios y permiten que el agua corriente los desplace.",
           "points": 10
         }
       ],

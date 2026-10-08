@@ -6,6 +6,7 @@ export const SubjectSchema = z.object({
   emoji: z.string().min(1, 'El emoji no puede estar vacío'),
   color_hex: z.string().regex(/^#[0-9A-Fa-f]{6}$/, 'color_hex debe ser un color hexadecimal válido (ej: #3B82F6)').optional(),
   description: z.string().optional(),
+  images_url: z.array(z.string().url('Cada imagen debe ser una URL válida')).optional(),
 });
 
 export type Subject = z.infer<typeof SubjectSchema>;
@@ -124,6 +125,8 @@ export const SubjectManifestItemSchema = z.object({
   name: z.string(),
   emoji: z.string(),
   color_hex: z.string().optional(),
+  description: z.string().optional(),
+  images_url: z.array(z.string().url()).optional(),
   path: z.string(),
   url: z.string().url(),
   story_count: z.number().int().nonnegative().default(0),

@@ -5,9 +5,92 @@
     "name": "Física y Tecnología",
     "emoji": "⚙️",
     "color_hex": "#6366F1",
-    "description": "Mecanismos, máquinas simples, energía y avances tecnológicos"
+    "description": "Mecanismos, máquinas simples, energía y avances tecnológicos",
+    "images_url": [
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_01.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_02.png",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_03.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/technology_04.jpg"
+    ]
   },
   "stories": [
+    {
+      "id": "story_phy_002",
+      "slug": "el-subibaja-gigante-de-nico",
+      "title": "El Subibaja Gigante de Nico",
+      "summary": "Nico descubre cómo una palanca y un punto de apoyo bien ubicado le permiten levantar por los aires a su hermano mayor jugando en el parque.",
+      "subject": {
+        "id": "technology-physics",
+        "name": "Física y Tecnología",
+        "emoji": "⚙️",
+        "color_hex": "#6366F1"
+      },
+      "topic": {
+        "id": "simple-machines-levers",
+        "name": "Máquinas Simples y Palancas"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_phy_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_002.jpg",
+      "key_learnings": [
+        "Una palanca es una máquina simple compuesta por una barra rígida que gira sobre un punto de apoyo.",
+        "Cuanto más lejos te sientes del punto de apoyo, menos fuerza necesitas para levantar un peso grande.",
+        "Tijeras, carretillas y balancines son ejemplos cotidianos de palancas."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏗️",
+          "fact": "El sabio griego Arquímedes dijo hace más de dos mil años: 'Denme una palanca lo suficientemente larga y un punto de apoyo, y moveré el mundo entero'."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Palanca",
+          "definition": "Barra rígida apoyada en un punto fijo que multiplica la fuerza aplicada para mover objetos pesados."
+        },
+        {
+          "term": "Punto de apoyo",
+          "definition": "El lugar central o pivote sobre el cual gira y descansa la barra de una palanca."
+        }
+      ],
+      "content": "Nico pesaba veinticinco kilos y su hermano mayor Gabriel pesaba cincuenta. Cada vez que intentaban jugar en el subibaja del parque, Gabriel se quedaba abajo pegado a la tierra y Nico quedaba suspendido en el aire pataleando sin poder bajar.\n\n—¡No es justo! —protestó Nico—. ¡Pesas el doble que yo!\n\nSu tía Laura, ingeniera civil, se acercó al balancín con una sonrisa:\n\n—Nico, no necesitas ser más pesado, necesitas usar la física. Gabriel, muévete hacia adelante y siéntate bien pegado al poste del medio. Nico, tú quédate en el extremo más lejano de la tabla.\n\nGabriel se deslizó hacia el centro. Cuando Nico empujó suavemente con la punta de sus pies, ocurrió algo que parecía imposible: ¡Gabriel se elevó por el aire como si flotara!\n\n—¡Te estoy levantando con una sola mano! —gritó Nico maravillado.\n\n—El subibaja es una palanca —explicó Laura—. Al alejarte del punto de apoyo central, tu peso tiene un brazo de palanca mucho más largo y multiplica tu fuerza, venciendo fácilmente a tu hermano.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué cambio hicieron en el subibaja para que Nico pudiera levantar a su hermano mayor?",
+          "options": [
+            "Gabriel se sentó más cerca del centro y Nico se quedó en el extremo",
+            "Pusieron piedras pesadas en el asiento de Gabriel",
+            "Nico saltó con una cuerda",
+            "Cambiaron la madera por una barra de hierro"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al reducir la distancia de Gabriel al fulcro y maximizar la de Nico, la fuerza de Nico se multiplicó.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué sucede con la fuerza cuando te sientas más lejos del punto de apoyo en una palanca?",
+          "options": [
+            "Se multiplica, requiriendo menos esfuerzo para levantar el peso del otro lado",
+            "Desaparece por completo",
+            "Hace que la tabla se rompa al instante",
+            "La tabla deja de girar"
+          ],
+          "correct_answer": 0,
+          "explanation": "A mayor longitud del brazo de palanca respecto al fulcro, mayor ventaja mecánica para elevar una carga.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
     {
       "id": "story_phy_001",
       "slug": "el-reloj-de-la-torre-y-los-engranajes",
@@ -29,8 +112,8 @@
       },
       "difficulty": "intermediate",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_02_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_001.png",
+      "cover_image_path": "images/story_phy_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_001.png",
       "key_learnings": [
         "Un engranaje es una rueda dentada que transmite fuerza y movimiento a otra rueda.",
         "Cuando un engranaje gira en sentido horario, el engranaje con el que se conecta gira en sentido antihorario.",
@@ -84,6 +167,101 @@
         }
       ],
       "total_points": 20
+    },
+    {
+      "id": "story_phy_003",
+      "slug": "camila-y-la-chispa-del-circuito-cerrado",
+      "title": "Camila y la Chispa del Circuito Cerrado",
+      "summary": "Con una pila, cables de cobre y una bombilla pequeña, Camila descubre cómo viajan los electrones por un circuito eléctrico cerrado y cómo funcionan los interruptores.",
+      "subject": {
+        "id": "technology-physics",
+        "name": "Física y Tecnología",
+        "emoji": "⚙️",
+        "color_hex": "#6366F1"
+      },
+      "topic": {
+        "id": "electricity-circuits",
+        "name": "Electricidad y Circuitos Eléctricos"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_phy_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_003.jpg",
+      "key_learnings": [
+        "La corriente eléctrica es el flujo ordenado de partículas diminutas cargadas llamadas electrones.",
+        "Para que la electricidad fluya e ilumine una bombilla, el circuito debe formar un camino continuo e ininterrumpido (circuito cerrado).",
+        "Un interruptor actúa como un puente levadizo que abre o cierra el paso de los electrones según se desee."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "⚡",
+          "fact": "La señal eléctrica a lo largo de un cable de cobre viaja a una velocidad cercana a la de la luz: ¡unos 300.000 kilómetros por segundo!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Circuito cerrado",
+          "definition": "Camino completo y continuo formado por materiales conductores que permite la circulación constante de la corriente eléctrica."
+        },
+        {
+          "term": "Conductor",
+          "definition": "Material que permite el paso fácil de la electricidad a través de él (como el cobre, el aluminio o el agua con sal)."
+        },
+        {
+          "term": "Interruptor",
+          "definition": "Mecanismo diseñado para abrir o cerrar intencionalmente el paso de la corriente en un circuito."
+        }
+      ],
+      "content": "Camila intentaba construir un faro en miniatura para su proyecto de ciencias, pero la pequeña bombilla LED sobre la torre de cartón no encendía. Tenía una pila de 9 voltios y dos cables de cobre con fundas plásticas rojas y negras.\n\n—Tengo la batería llena y el foco es nuevo, ¿por qué no prende? —se quejó apoyando la cabeza en la mesa de trabajo.\n\nSu hermano mayor, estudiante de electrónica, tomó los cables:\n\n—Mira el extremo del cable negro, Camila. Está suelto en el aire sin tocar el polo negativo de la pila. La electricidad no salta por arte de magia por el aire como si fuera un fantasma.\n\n—¿Cómo viaja entonces? —preguntó Camila recortando el plástico del cable.\n\n—Los electrones necesitan una autopista continua y sin baches —explicó su hermano—. Salen por un polo de la pila, viajan por el metal del cable, pasan por el filamento del bombillo haciéndolo brillar y deben regresar obligatoriamente al otro polo de la pila para cerrar el bucle.\n\nCamila conectó un clip metálico en medio del cable: al apoyarlo sobre la tachuela de metal, la luz del faro brilló instantáneamente con un destello dorado; al levantarlo, la bombilla se apagó de golpe.\n\n—¡Acabo de fabricar un interruptor! —exclamó Camila emocionada—. Es un puente que dejo caer para cerrar el camino o levanto para cortar la luz.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué no encendía la bombilla del faro al principio del cuento?",
+          "options": [
+            "Porque un cable estaba suelto y el circuito estaba abierto",
+            "Porque la pila estaba congelada",
+            "Porque el foco estaba lleno de agua",
+            "Porque el cartón del faro era muy pesado"
+          ],
+          "correct_answer": 0,
+          "explanation": "El circuito estaba incompleto (abierto), lo que impedía el flujo continuo de corriente eléctrica.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué condición indispensable debe cumplirse para que la corriente eléctrica fluya por un circuito?",
+          "options": [
+            "El circuito debe estar completamente cerrado con materiales conductores sin interrupciones",
+            "Los cables deben ser de madera seca",
+            "La pila debe estar colocada al revés",
+            "El circuito debe sumergirse en aceite caliente"
+          ],
+          "correct_answer": 0,
+          "explanation": "La electricidad solo se desplaza cuando existe una trayectoria cerrada y conductora entre los polos de la fuente de energía.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función que cumple un interruptor en una instalación eléctrica?",
+          "options": [
+            "Abrir o cerrar el camino de la corriente para encender o apagar un aparato",
+            "Aumentar el tamaño de la bombilla",
+            "Cambiar el color de los cables",
+            "Evaporar el agua de la batería"
+          ],
+          "correct_answer": 0,
+          "explanation": "El interruptor corta o restablece la continuidad física del circuito según se accione.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
     }
   ]
 }

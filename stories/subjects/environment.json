@@ -5,7 +5,13 @@
     "name": "Medio Ambiente y Ecosistemas",
     "emoji": "🌱",
     "color_hex": "#059669",
-    "description": "Naturaleza, bosques, conservación y el ciclo de la vida"
+    "description": "Naturaleza, bosques, conservación y el ciclo de la vida",
+    "images_url": [
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/enviroment_01.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/enviroment_02.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/enviroment_03.jpg",
+      "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/enviroment_04.jpg"
+    ]
   },
   "stories": [
     {
@@ -29,8 +35,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_01_002.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.jpg",
+      "cover_image_path": "images/story_env_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_001.jpg",
       "key_learnings": [
         "Las raíces de los árboles actúan como redes subterráneas que evitan la erosión y retienen agua en el suelo.",
         "Los árboles producen oxígeno mediante la fotosíntesis y absorben dióxido de carbono.",
@@ -80,6 +86,237 @@
           ],
           "correct_answer": 0,
           "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_env_002",
+      "slug": "el-vuelo-de-la-semilla-viajera",
+      "title": "Maya y la Danza de las Abejas",
+      "summary": "Una niña descubre en el huerto escolar el papel fundamental de los polinizadores en la producción de flores, frutas y semillas.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "pollination-biodiversity",
+        "name": "Polinización y Biodiversidad"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_env_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_002.jpg",
+      "key_learnings": [
+        "Las abejas y otros insectos transportan polen de una flor a otra permitiendo el nacimiento de nuevos frutos.",
+        "Más de un tercio de los alimentos que consumimos a diario dependen directamente de la polinización animal.",
+        "Sembrar flores nativas y no usar pesticidas protege a las poblaciones de polinizadores."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🐝",
+          "fact": "Las abejas se comunican entre sí mediante un baile especial en forma de 'ocho' que indica la dirección exacta y distancia de las flores con néctar."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Polen",
+          "definition": "Diminuto polvo producido por las flores que contiene las células reproductoras masculinas de las plantas."
+        },
+        {
+          "term": "Polinizador",
+          "definition": "Animal o insecto que traslada el polen de flor en flor, permitiendo que se fecunden y nazcan frutos y semillas."
+        }
+      ],
+      "content": "Maya observaba con detenimiento una flor de calabaza en el huerto de su colegio. De repente, una abeja regordeta aterrizó en los pétalos amarillos y se sumergió en el fondo.\n\n—¡Cuidado, te va a picar! —le gritó su compañero Lucas desde el sendero.\n\n—No está enojada, solo está desayunando —respondió el profesor de ciencias acercándose con una lupa de mano—. Miren de cerca sus patitas traseras.\n\nLucas y Maya se asomaron con cuidado. En las patitas de la abeja había dos bolitas de polvo dorado brillante.\n\n—Eso es polen —explicó el profesor—. Al viajar de flor en flor buscando néctar dulce, la abeja deja caer granos de polen en otras plantas. Gracias a ese viaje, la flor se convertirá en una calabaza jugosa. Si las abejas desaparecieran, los huertos dejarían de dar frutos como manzanas, fresas o tomates.\n\nMaya vio a la abeja despegar rumbo a un campo de tréboles. Entendió que aquel pequeño insecto era un mensajero silencioso que sostenía la comida de todo el planeta.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué transportaba la abeja en sus patas traseras mientras visitaba las flores?",
+          "options": [
+            "Polvo dorado de polen",
+            "Gotas de lluvia",
+            "Tierra negra para su nido",
+            "Semillas de pasto"
+          ],
+          "correct_answer": 0,
+          "explanation": "La abeja llevaba polen adherido a sus patas traseras tras libar néctar dentro de la flor.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué sucedería con la producción de frutos si los polinizadores dejaran de existir?",
+          "options": [
+            "Muchas plantas no podrían reproducirse ni formar frutas y semillas",
+            "Los árboles crecerían el doble de rápido",
+            "Todas las flores se volverían de color verde",
+            "El agua de lluvia desaparecería de los campos"
+          ],
+          "correct_answer": 0,
+          "explanation": "La polinización es esencial para que las flores fertilicen y se transformen en frutos con semillas.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_env_003",
+      "slug": "el-viaje-eterno-de-una-gota",
+      "title": "La Nube que Recordaba el Mar",
+      "summary": "Una gota de lluvia viaja desde la cumbre de una montaña nevada hasta el océano, revelando las etapas del ciclo natural del agua.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "water-cycle",
+        "name": "El Ciclo Hidrológico y la Conservación del Agua"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_env_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_003.jpg",
+      "key_learnings": [
+        "El agua de la Tierra circula constantemente a través de la evaporación, condensación, precipitación e infiltración.",
+        "La cantidad de agua en nuestro planeta es siempre la misma; se transforma continuamente.",
+        "El cuidado de los ríos y glaciares garantiza el acceso a agua dulce para todos los seres vivos."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "💧",
+          "fact": "El agua que bebes hoy en tu vaso probablemente estuvo en el cuerpo de un dinosaurio o en una cascada prehistórica hace millones de años."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Evaporación",
+          "definition": "Paso del agua líquida a vapor de agua invisible por efecto del calor del Sol."
+        },
+        {
+          "term": "Condensación",
+          "definition": "Proceso por el cual el vapor de agua asciende, se enfría y forma diminutas gotitas que dan origen a las nubes."
+        }
+      ],
+      "content": "Plim era una gota de agua que descansaba en la cima de un glaciar blanco. Cuando el sol de verano calentó el pico helado, Plim se derritió suavemente y se unió a un riachuelo cristalino que bajaba a gran velocidad por la ladera de la montaña.\n\nEn su camino, regó las raíces de helechos antiguos, dio de beber a un cervatillo y desembocó en un gran río caudaloso que cruzaba valles verdes. Días después, el río se abrió en una ensenada y Plim tocó las aguas saladas del océano inmenso.\n\nAllí sintió la fuerza del calor solar. Poco a poco se volvió más ligera y ascendió convertida en vapor hacia el cielo azul. Arriba, el aire helado la abrazó: se agrupó con millones de gotas hermanas para formar una nube esponjosa que el viento empujó de nuevo hacia las montañas.\n\nAl chocar contra los picos fríos, la nube se deshizo en lluvia fresca. Plim cayó sobre una hoja verde, lista para reiniciar su viaje infinito por la vida.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué provocó que la gota Plim se derritiera en la cumbre del glaciar para iniciar su viaje?",
+          "options": [
+            "El calor del sol durante el verano",
+            "El peso de una piedra",
+            "La llegada del invierno",
+            "El viento de la noche"
+          ],
+          "correct_answer": 0,
+          "explanation": "El calor solar derritió el hielo y permitió que el agua líquida fluyera ladera abajo.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama el proceso en el que el agua de ríos y mares asciende al cielo en forma de vapor?",
+          "options": [
+            "Evaporación",
+            "Solidificación",
+            "Erosión",
+            "Digestión"
+          ],
+          "correct_answer": 0,
+          "explanation": "La evaporación ocurre cuando la energía solar transforma el agua superficial líquida en vapor de agua ascendente.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_env_004",
+      "slug": "el-secreto-del-compost-magico",
+      "title": "Leo y el Monstruo Devorador de Hojas",
+      "summary": "Leo aprende sobre los descomponedores y el compostaje, descubriendo que los restos orgánicos de la cocina pueden transformarse en abono rico para la tierra.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "decomposition-recycling",
+        "name": "Descomposición, Suelo y Economía Circular"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_env_004.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_004.jpg",
+      "key_learnings": [
+        "Los restos de comida vegetal y las hojas secas son materia orgánica biodegradable.",
+        "Organismos como lombrices, bacterias y hongos convierten los desechos orgánicos en abono fértil (humus).",
+        "Separar los residuos reduce la basura en vertederos y devuelve nutrientes vitales a la tierra."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🪱",
+          "fact": "Una lombriz de tierra puede ingerir cada día una cantidad de materia orgánica equivalente a su propio peso corporal, enriqueciendo el suelo con minerales."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Compostaje",
+          "definition": "Proceso biológico controlado mediante el cual microorganismos transforman restos orgánicos en abono natural para las plantas."
+        },
+        {
+          "term": "Biodegradable",
+          "definition": "Material o residuo de origen vegetal o animal que puede desintegrarse de forma natural sin contaminar el entorno."
+        }
+      ],
+      "content": "Leo vio a su abuela arrojar cáscaras de plátano, restos de lechuga y hojas secas dentro de un cajón de madera en la esquina del patio.\n\n—Abue, ¿por qué botas la comida en una caja de madera en vez del tacho de basura? —preguntó curioso.\n\n—No es basura, Leo; es el banquete de nuestros pequeños aliados subterráneos —dijo la abuela removiendo la mezcla con una pequeña pala.\n\nAl levantar la capa superficial, Leo vio cientos de lombrices rojas moviéndose entre tierra húmeda con olor a bosque fresco. No olía mal como los basureros de la calle.\n\n—Las lombrices, los hongos y las bacterias invisibles se alimentan de estos restos de fruta y vegetales —le explicó la abuela—. Lo que ellas procesan se convierte en compost, la tierra más nutritiva del mundo.\n\nUn mes después, tomaron puñados de esa tierra oscura y suave para sembrar tomates en macetas. Leo vio brotar hojas verdes y sanas, comprendiendo que en la naturaleza no existe la basura: todo lo que nace de la tierra vuelve a ella para renacer.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué materiales colocaba la abuela en el cajón de madera para alimentar a las lombrices?",
+          "options": [
+            "Cáscaras de plátano, hojas secas y restos vegetales",
+            "Botellas plásticas vacías",
+            "Juguetes rotos y alambres",
+            "Bolsas de cartón con pegamento"
+          ],
+          "correct_answer": 0,
+          "explanation": "El compost se elabora únicamente con residuos orgánicos biodegradables como frutas, vegetales y hojas secas.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función principal de los organismos descomponedores como las lombrices y hongos en el suelo?",
+          "options": [
+            "Transformar la materia orgánica muerta en nutrientes asimilables para las plantas",
+            "Endurecer la tierra para que no crezcan raíces",
+            "Eliminar toda el agua del suelo",
+            "Evitar que las plantas reciban luz solar"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los descomponedores degradan los restos orgánicos devolviendo minerales y nutrientes esenciales a la tierra fértil.",
           "points": 10
         }
       ],

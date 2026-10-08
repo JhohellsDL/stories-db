@@ -1,7 +1,7 @@
 {
   "version_db": 4,
-  "total_stories": 7,
-  "updated_at": "2026-10-08T13:51:30.498Z",
+  "total_stories": 24,
+  "updated_at": "2026-10-08T15:59:25.768Z",
   "stories": [
     {
       "id": "story_bio_001",
@@ -24,8 +24,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_01_003.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_003.png",
+      "cover_image_path": "images/story_bio_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_001.png",
       "key_learnings": [
         "Los dientes tienen una capa protectora dura llamada esmalte que los alimentos muy duros o azucarados pueden dañar.",
         "Los dulces en exceso alimentan a bacterias que producen caries.",
@@ -81,6 +81,237 @@
       "total_points": 20
     },
     {
+      "id": "story_bio_002",
+      "slug": "lucas-y-el-motor-del-pecho",
+      "title": "Lucas y el tambor del corazón",
+      "summary": "Durante una carrera en el parque, Lucas descubre cómo late su corazón, cómo viaja la sangre transportando oxígeno y por qué hacer ejercicio lo mantiene fuerte.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "circulatory-system",
+        "name": "El Sistema Circulatorio y la Respiración"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_bio_002.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_002.png",
+      "key_learnings": [
+        "El corazón es un músculo que bombea sangre a todo el cuerpo día y noche.",
+        "La sangre lleva oxígeno y nutrientes a los músculos para que podamos movernos.",
+        "Cuando hacemos ejercicio, el corazón late más rápido para enviar más oxígeno a donde se necesita."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "❤️",
+          "fact": "El corazón de un niño late en promedio entre 70 y 110 veces por minuto mientras descansa, y tiene un tamaño similar al de su puño cerrado."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Oxígeno",
+          "definition": "Un gas invisible presente en el aire que respiramos y que nuestras células necesitan para producir energía."
+        },
+        {
+          "term": "Pulso",
+          "definition": "El latido rítmico que podemos sentir en lugares como la muñeca o el cuello cada vez que el corazón bombea sangre."
+        }
+      ],
+      "content": "Lucas corría tras la pelota de fútbol en el parque con sus primos. Después de diez minutos de piques veloces, se tiró sobre el pasto a descansar. Al poner su mano sobre el pecho, sintió algo impresionante: ¡pum, pum, pum! Su pecho latía como un tamborcito acelerado.\n\nSu tío David, profesor de educación física, se sentó a su lado y le sonrió:\n\n—¿Sientes ese ritmo, Lucas? Es tu corazón trabajando a toda máquina.\n\nLucas, aún respirando hondo, preguntó intrigado:\n\n—¿Por qué late tan rápido ahora si antes casi ni lo sentía?\n\n—Imagina que tus piernas son cochecitos que necesitan combustible —explicó el tío señalando sus rodillas—. Ese combustible es el oxígeno que entra por tus pulmones. El corazón es la bomba que empuja la sangre llena de oxígeno por pequeños tubitos llamados venas y arterias hasta cada rincón de tus músculos. Al correr, tus músculos piden más oxígeno, y tu corazón responde bombeando el doble de rápido.\n\nLucas colocó sus dos dedos sobre la muñeca izquierda y notó las pulsaciones constantes. Respiró despacio varias veces y sintió cómo poco a poco el tambor volvía a su compás tranquilo, listo para la siguiente aventura.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué actividad estaba haciendo Lucas antes de sentir sus latidos acelerados?",
+          "options": [
+            "Jugando una carrera con la pelota en el parque",
+            "Durmiendo una siesta en su cama",
+            "Leyendo un libro en la biblioteca",
+            "Pintando un cuadro con acuarelas"
+          ],
+          "correct_answer": 0,
+          "explanation": "Lucas corría velozmente tras la pelota en el parque, lo que exigió más energía a sus músculos.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué el corazón late con mayor rapidez cuando realizamos ejercicio intenso?",
+          "options": [
+            "Para enviar más sangre con oxígeno y nutrientes a los músculos activos",
+            "Porque el cuerpo intenta enfriar la ropa",
+            "Porque los huesos se encogen",
+            "Para producir más lágrimas"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al ejercitarnos, los músculos consumen más oxígeno, por lo que el corazón bombea sangre más rápido para abastecerlos.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_bio_003",
+      "slug": "el-gran-viaje-de-la-manzana",
+      "title": "El increíble viaje de una manzana",
+      "summary": "Mateo acompaña a un bocado de fruta en un fascinante recorrido por el sistema digestivo para entender cómo el cuerpo transforma la comida en energía.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "digestive-system",
+        "name": "El Sistema Digestivo y la Nutrición"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_bio_003.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_003.png",
+      "key_learnings": [
+        "La digestión comienza en la boca gracias a la masticación y la saliva.",
+        "El estómago descompone los alimentos en trozos microscópicos mediante jugos gástricos.",
+        "Los intestinos absorben los nutrientes para que pasen a la sangre y eliminan lo que el cuerpo no necesita."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "📏",
+          "fact": "Si desenrollaras el intestino delgado de una persona adulta, ¡mediría casi 6 metros de largo, doblado como una manguera mágica dentro del abdomen!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Digestión",
+          "definition": "El proceso mediante el cual el cuerpo descompone los alimentos para absorber los nutrientes necesarios para crecer y tener energía."
+        },
+        {
+          "term": "Nutrientes",
+          "definition": "Sustancias químicas útiles presentes en la comida, como vitaminas, proteínas y minerales, que alimentan nuestras células."
+        }
+      ],
+      "content": "Mateo sostenía una manzana roja y crujiente frente a su abuela mientras preparaban la merienda. Al morderla con un sonoro *¡crunch!*, sintió curiosidad:\n\n—Abuelita, ¿a dónde va exactamente este pedazo de fruta después de que lo trago?\n\nLa abuela sonrió y le pidió que masticara despacio:\n\n—El viaje empieza justo ahí, en tu boca. Tus dientes muelen la manzana y la saliva la humedece para formar una pasta suave. Luego, la tragas y desciende por un tubo llamado esófago como si fuera un tobogán.\n\n—¿Y luego cae a una bolsa? —preguntó Mateo tocándose la panza.\n\n—Exacto, esa bolsa es tu estómago. Allí se mezcla con unos líquidos especiales que deshacen la manzana hasta convertirla en una papilla líquida. Después, esa papilla pasa a un túnel muy largo y enrollado: el intestino delgado. Sus paredes absorben todas las vitaminas y azúcares buenos de la manzana y los envían a tu sangre para darte fuerza.\n\n—¿Y qué pasa con la cáscara dura que no se pudo absorber? —preguntó Mateo.\n\n—Pasa al intestino grueso, que recoge el agua y empaca los restos que el cuerpo no usará para expulsarlos cuando vas al baño.\n\nMateo dio otro bocado, masticando con paciencia y agradeciendo a su cuerpo por trabajar como una fábrica perfecta.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar del cuerpo humano comienza formalmente el proceso de la digestión?",
+          "options": [
+            "En la boca, con los dientes y la saliva",
+            "En las rodillas",
+            "En el estómago directamente",
+            "En la punta de la nariz"
+          ],
+          "correct_answer": 0,
+          "explanation": "La digestión empieza al masticar y humedecer los alimentos con la saliva en la boca.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función principal del intestino delgado?",
+          "options": [
+            "Absorber los nutrientes de los alimentos y enviarlos a la sangre",
+            "Masticar la comida dura",
+            "Enfriar la temperatura del aire",
+            "Almacenar pensamientos"
+          ],
+          "correct_answer": 0,
+          "explanation": "El intestino delgado se encarga de absorber las vitaminas, minerales y nutrientes digeridos para nutrir el organismo.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_bio_004",
+      "slug": "los-guardianes-del-jabon",
+      "title": "Sofía y el escudo de burbujas",
+      "summary": "Sofía aprende cómo actúan los gérmenes invisibles y cómo el agua con jabón desintegra la capa de los microbios para proteger el sistema inmune.",
+      "subject": {
+        "id": "biology",
+        "name": "Biología y Salud",
+        "emoji": "🧬",
+        "color_hex": "#10B981"
+      },
+      "topic": {
+        "id": "microbiology-hygiene",
+        "name": "Microbiología y Hábitos de Higiene"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_bio_004.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_bio_004.png",
+      "key_learnings": [
+        "Existen microorganismos invisibles a simple vista llamados bacterias y virus que pueden transmitir enfermedades.",
+        "El jabón descompone la capa grasa exterior de los virus y bacterias, haciéndolos resbalar con el agua.",
+        "Lavarse las manos por al menos 20 segundos antes de comer y tras jugar en el suelo previene infecciones."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🧼",
+          "fact": "La molécula de jabón tiene dos extremos: a uno le gusta el agua y al otro le gusta la grasa; por eso atrapa y arrastra la suciedad con tanta facilidad."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Microbio",
+          "definition": "Ser vivo diminuto, como virus o bacterias, que únicamente se puede observar a través de un microscopio."
+        },
+        {
+          "term": "Sistema inmune",
+          "definition": "El equipo de defensas naturales de nuestro cuerpo que combate las infecciones y nos ayuda a sanar."
+        }
+      ],
+      "content": "Sofía terminó de construir un castillo de tierra en el jardín con sus amigos. Sus dedos estaban llenos de barro y pequeñas piedritas. Cuando su papá llamó para merendar unas rodajas de sandía, Sofía corrió a la mesa con ganas de tomar una tajada de inmediato.\n\n—¡Alto ahí, detective de jardines! —dijo su papá poniéndose en el camino—. Primero pasamos por la estación de desinfección.\n\nEn el lavamanos, Sofía se frotó con solo un poco de agua fría:\n\n—Listo, papi, ya no se ve la tierra oscura.\n\nSu papá abrió un frasco de jabón y le colocó una gota en las palmas:\n\n—Que no veas tierra no significa que tus manos estén limpias. Hay diminutos bichitos llamados microbios que son invisibles a nuestros ojos. Si tocas la sandía con las manos sucias, los microbios viajarán a tu boca y pueden causarte dolor de estómago.\n\n—¿Y el jabón qué les hace? —preguntó Sofía frotándose entre los dedos.\n\n—El jabón tiene un súper poder: rompe la capita de grasa que envuelve a los microbios como si fuera una espada mágica, y las burbujas los despegan de tu piel para que el agua se los lleve por el desagüe.\n\nSofía cantó su canción favorita durante veinte segundos mientras formaba una montaña de espuma blanca. Al enjuagarse, sus manos olían a frutas y estaban listas y protegidas para disfrutar su merienda.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué no era suficiente que Sofía se enjuagara solo con agua?",
+          "options": [
+            "Porque los microbios invisibles siguen adheridos a la piel sin la acción del jabón",
+            "Porque el agua estaba demasiado caliente",
+            "Porque sus manos iban a oler mal",
+            "Porque el agua sola ensucia más"
+          ],
+          "correct_answer": 0,
+          "explanation": "El agua por sí sola no descompone la grasa ni despega los microorganismos patógenos; requiere jabón.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo ayuda el jabón a eliminar virus y bacterias de las manos?",
+          "options": [
+            "Descompone su capa protectora externa y los atrapa en burbujas para que el agua los arrastre",
+            "Los alimenta para que crezcan",
+            "Los congela en cubos de hielo",
+            "Los pinta de color azul"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las moléculas de jabón disuelven la membrana grasa de los microbios y permiten que el agua corriente los desplace.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
       "id": "story_env_001",
       "slug": "el-ultimo-guardian-del-bosque",
       "title": "El Último Guardián del Bosque",
@@ -101,8 +332,8 @@
       },
       "difficulty": "basic",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_01_002.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_002.jpg",
+      "cover_image_path": "images/story_env_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_001.jpg",
       "key_learnings": [
         "Las raíces de los árboles actúan como redes subterráneas que evitan la erosión y retienen agua en el suelo.",
         "Los árboles producen oxígeno mediante la fotosíntesis y absorben dióxido de carbono.",
@@ -158,6 +389,314 @@
       "total_points": 20
     },
     {
+      "id": "story_env_002",
+      "slug": "el-vuelo-de-la-semilla-viajera",
+      "title": "Maya y la Danza de las Abejas",
+      "summary": "Una niña descubre en el huerto escolar el papel fundamental de los polinizadores en la producción de flores, frutas y semillas.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "pollination-biodiversity",
+        "name": "Polinización y Biodiversidad"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_env_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_002.jpg",
+      "key_learnings": [
+        "Las abejas y otros insectos transportan polen de una flor a otra permitiendo el nacimiento de nuevos frutos.",
+        "Más de un tercio de los alimentos que consumimos a diario dependen directamente de la polinización animal.",
+        "Sembrar flores nativas y no usar pesticidas protege a las poblaciones de polinizadores."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🐝",
+          "fact": "Las abejas se comunican entre sí mediante un baile especial en forma de 'ocho' que indica la dirección exacta y distancia de las flores con néctar."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Polen",
+          "definition": "Diminuto polvo producido por las flores que contiene las células reproductoras masculinas de las plantas."
+        },
+        {
+          "term": "Polinizador",
+          "definition": "Animal o insecto que traslada el polen de flor en flor, permitiendo que se fecunden y nazcan frutos y semillas."
+        }
+      ],
+      "content": "Maya observaba con detenimiento una flor de calabaza en el huerto de su colegio. De repente, una abeja regordeta aterrizó en los pétalos amarillos y se sumergió en el fondo.\n\n—¡Cuidado, te va a picar! —le gritó su compañero Lucas desde el sendero.\n\n—No está enojada, solo está desayunando —respondió el profesor de ciencias acercándose con una lupa de mano—. Miren de cerca sus patitas traseras.\n\nLucas y Maya se asomaron con cuidado. En las patitas de la abeja había dos bolitas de polvo dorado brillante.\n\n—Eso es polen —explicó el profesor—. Al viajar de flor en flor buscando néctar dulce, la abeja deja caer granos de polen en otras plantas. Gracias a ese viaje, la flor se convertirá en una calabaza jugosa. Si las abejas desaparecieran, los huertos dejarían de dar frutos como manzanas, fresas o tomates.\n\nMaya vio a la abeja despegar rumbo a un campo de tréboles. Entendió que aquel pequeño insecto era un mensajero silencioso que sostenía la comida de todo el planeta.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué transportaba la abeja en sus patas traseras mientras visitaba las flores?",
+          "options": [
+            "Polvo dorado de polen",
+            "Gotas de lluvia",
+            "Tierra negra para su nido",
+            "Semillas de pasto"
+          ],
+          "correct_answer": 0,
+          "explanation": "La abeja llevaba polen adherido a sus patas traseras tras libar néctar dentro de la flor.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué sucedería con la producción de frutos si los polinizadores dejaran de existir?",
+          "options": [
+            "Muchas plantas no podrían reproducirse ni formar frutas y semillas",
+            "Los árboles crecerían el doble de rápido",
+            "Todas las flores se volverían de color verde",
+            "El agua de lluvia desaparecería de los campos"
+          ],
+          "correct_answer": 0,
+          "explanation": "La polinización es esencial para que las flores fertilicen y se transformen en frutos con semillas.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_env_003",
+      "slug": "el-viaje-eterno-de-una-gota",
+      "title": "La Nube que Recordaba el Mar",
+      "summary": "Una gota de lluvia viaja desde la cumbre de una montaña nevada hasta el océano, revelando las etapas del ciclo natural del agua.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "water-cycle",
+        "name": "El Ciclo Hidrológico y la Conservación del Agua"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_env_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_003.jpg",
+      "key_learnings": [
+        "El agua de la Tierra circula constantemente a través de la evaporación, condensación, precipitación e infiltración.",
+        "La cantidad de agua en nuestro planeta es siempre la misma; se transforma continuamente.",
+        "El cuidado de los ríos y glaciares garantiza el acceso a agua dulce para todos los seres vivos."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "💧",
+          "fact": "El agua que bebes hoy en tu vaso probablemente estuvo en el cuerpo de un dinosaurio o en una cascada prehistórica hace millones de años."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Evaporación",
+          "definition": "Paso del agua líquida a vapor de agua invisible por efecto del calor del Sol."
+        },
+        {
+          "term": "Condensación",
+          "definition": "Proceso por el cual el vapor de agua asciende, se enfría y forma diminutas gotitas que dan origen a las nubes."
+        }
+      ],
+      "content": "Plim era una gota de agua que descansaba en la cima de un glaciar blanco. Cuando el sol de verano calentó el pico helado, Plim se derritió suavemente y se unió a un riachuelo cristalino que bajaba a gran velocidad por la ladera de la montaña.\n\nEn su camino, regó las raíces de helechos antiguos, dio de beber a un cervatillo y desembocó en un gran río caudaloso que cruzaba valles verdes. Días después, el río se abrió en una ensenada y Plim tocó las aguas saladas del océano inmenso.\n\nAllí sintió la fuerza del calor solar. Poco a poco se volvió más ligera y ascendió convertida en vapor hacia el cielo azul. Arriba, el aire helado la abrazó: se agrupó con millones de gotas hermanas para formar una nube esponjosa que el viento empujó de nuevo hacia las montañas.\n\nAl chocar contra los picos fríos, la nube se deshizo en lluvia fresca. Plim cayó sobre una hoja verde, lista para reiniciar su viaje infinito por la vida.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué provocó que la gota Plim se derritiera en la cumbre del glaciar para iniciar su viaje?",
+          "options": [
+            "El calor del sol durante el verano",
+            "El peso de una piedra",
+            "La llegada del invierno",
+            "El viento de la noche"
+          ],
+          "correct_answer": 0,
+          "explanation": "El calor solar derritió el hielo y permitió que el agua líquida fluyera ladera abajo.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama el proceso en el que el agua de ríos y mares asciende al cielo en forma de vapor?",
+          "options": [
+            "Evaporación",
+            "Solidificación",
+            "Erosión",
+            "Digestión"
+          ],
+          "correct_answer": 0,
+          "explanation": "La evaporación ocurre cuando la energía solar transforma el agua superficial líquida en vapor de agua ascendente.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_env_004",
+      "slug": "el-secreto-del-compost-magico",
+      "title": "Leo y el Monstruo Devorador de Hojas",
+      "summary": "Leo aprende sobre los descomponedores y el compostaje, descubriendo que los restos orgánicos de la cocina pueden transformarse en abono rico para la tierra.",
+      "subject": {
+        "id": "environment",
+        "name": "Medio Ambiente y Ecosistemas",
+        "emoji": "🌱",
+        "color_hex": "#059669"
+      },
+      "topic": {
+        "id": "decomposition-recycling",
+        "name": "Descomposición, Suelo y Economía Circular"
+      },
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "difficulty": "basic",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_env_004.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_env_004.jpg",
+      "key_learnings": [
+        "Los restos de comida vegetal y las hojas secas son materia orgánica biodegradable.",
+        "Organismos como lombrices, bacterias y hongos convierten los desechos orgánicos en abono fértil (humus).",
+        "Separar los residuos reduce la basura en vertederos y devuelve nutrientes vitales a la tierra."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🪱",
+          "fact": "Una lombriz de tierra puede ingerir cada día una cantidad de materia orgánica equivalente a su propio peso corporal, enriqueciendo el suelo con minerales."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Compostaje",
+          "definition": "Proceso biológico controlado mediante el cual microorganismos transforman restos orgánicos en abono natural para las plantas."
+        },
+        {
+          "term": "Biodegradable",
+          "definition": "Material o residuo de origen vegetal o animal que puede desintegrarse de forma natural sin contaminar el entorno."
+        }
+      ],
+      "content": "Leo vio a su abuela arrojar cáscaras de plátano, restos de lechuga y hojas secas dentro de un cajón de madera en la esquina del patio.\n\n—Abue, ¿por qué botas la comida en una caja de madera en vez del tacho de basura? —preguntó curioso.\n\n—No es basura, Leo; es el banquete de nuestros pequeños aliados subterráneos —dijo la abuela removiendo la mezcla con una pequeña pala.\n\nAl levantar la capa superficial, Leo vio cientos de lombrices rojas moviéndose entre tierra húmeda con olor a bosque fresco. No olía mal como los basureros de la calle.\n\n—Las lombrices, los hongos y las bacterias invisibles se alimentan de estos restos de fruta y vegetales —le explicó la abuela—. Lo que ellas procesan se convierte en compost, la tierra más nutritiva del mundo.\n\nUn mes después, tomaron puñados de esa tierra oscura y suave para sembrar tomates en macetas. Leo vio brotar hojas verdes y sanas, comprendiendo que en la naturaleza no existe la basura: todo lo que nace de la tierra vuelve a ella para renacer.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué materiales colocaba la abuela en el cajón de madera para alimentar a las lombrices?",
+          "options": [
+            "Cáscaras de plátano, hojas secas y restos vegetales",
+            "Botellas plásticas vacías",
+            "Juguetes rotos y alambres",
+            "Bolsas de cartón con pegamento"
+          ],
+          "correct_answer": 0,
+          "explanation": "El compost se elabora únicamente con residuos orgánicos biodegradables como frutas, vegetales y hojas secas.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función principal de los organismos descomponedores como las lombrices y hongos en el suelo?",
+          "options": [
+            "Transformar la materia orgánica muerta en nutrientes asimilables para las plantas",
+            "Endurecer la tierra para que no crezcan raíces",
+            "Eliminar toda el agua del suelo",
+            "Evitar que las plantas reciban luz solar"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los descomponedores degradan los restos orgánicos devolviendo minerales y nutrientes esenciales a la tierra fértil.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_hist_002",
+      "slug": "kael-y-el-secreto-de-la-rueda",
+      "title": "Kael y el Secreto de la Rueda",
+      "summary": "En la antigua Mesopotamia, un niño ayuda a su padre a transportar vasijas de trigo sobre troncos cilíndricos, descubriendo la invención más importante del transporte.",
+      "subject": {
+        "id": "history",
+        "name": "Historia y Civilizaciones",
+        "emoji": "🏛️",
+        "color_hex": "#8B5CF6"
+      },
+      "topic": {
+        "id": "early-inventions-wheel",
+        "name": "Primeros Inventos de la Humanidad"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_hist_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_002.jpg",
+      "key_learnings": [
+        "Antes de inventar la rueda, los seres humanos arrastraban cargas pesadas con gran esfuerzo.",
+        "Los primeros rodillos de troncos inspiraron la creación de ruedas sólidas de madera.",
+        "La rueda facilitó la agricultura, el comercio y el nacimiento de las primeras ciudades."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🪵",
+          "fact": "Las primeras ruedas conocidas no se usaron para carretas, ¡sino para girar y moldear vasijas de barro en los talleres de alfarería!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Mesopotamia",
+          "definition": "Antigua región situada entre los ríos Tigris y Éufrates, cuna de algunas de las primeras civilizaciones."
+        },
+        {
+          "term": "Eje",
+          "definition": "Barra central que une dos ruedas y les permite girar juntas para mover un vehículo."
+        }
+      ],
+      "content": "Kael vivía junto al gran río Éufrates hace miles de años. Su familia cosechaba sacos de trigo y arcilla húmeda. Para llevar la carga al mercado del pueblo, arrastraban pesadas tablas sobre la arena.\n\n—Papá, mis brazos no pueden más —dijo Kael sentándose en una piedra a recuperar el aliento.\n\nEn ese momento, un tronco redondo cayó rodando con suavidad colina abajo, avanzando rápidamente sin esfuerzo. Kael abrió los ojos asombrado:\n\n—¡Mira, papá! El tronco no se frena con la arena, ¡gira sobre sí mismo!\n\nJuntos cortaron rodajas anchas de troncos de madera maciza, les abrieron un agujero en el centro y las unieron con una barra pulida. Cuando colocaron los sacos sobre la plataforma con ruedas, Kael pudo empujarla con un solo brazo.\n\nTodo el poblado celebró la idea. Habían inventado la carreta, y el mundo entero comenzó a moverse mucho más rápido.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto inspiró a Kael para facilitar el transporte de la carga?",
+          "options": [
+            "Un tronco redondo que rodaba por la colina",
+            "Una roca gigante cuadrada",
+            "Un bote de remos",
+            "Una soga de cáñamo"
+          ],
+          "correct_answer": 0,
+          "explanation": "El movimiento suave del tronco cilíndrico demostró que los objetos redondos reducen la fricción.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cuál fue el principal beneficio de la invención de la rueda para la humanidad?",
+          "options": [
+            "Permitió mover grandes pesos con mucho menor esfuerzo",
+            "Ayudó a que lloviera más seguido",
+            "Servía para enfriar los alimentos",
+            "Hizo que los ríos tuvieran más peces"
+          ],
+          "correct_answer": 0,
+          "explanation": "La rueda transformó el arrastre en rodadura, multiplicando la capacidad de transporte humano y comercial.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
       "id": "story_hist_001",
       "slug": "la-biblioteca-de-las-puertas-secretas",
       "title": "La Biblioteca de las Puertas Secretas",
@@ -178,8 +717,8 @@
       },
       "difficulty": "intermediate",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_02_002.jpg",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_002.jpg",
+      "cover_image_path": "images/story_hist_001.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_001.jpg",
       "key_learnings": [
         "La invención de la escritura marcó el inicio de la historia registrada de la humanidad.",
         "Las antiguas bibliotecas (como la de Alejandría) reunían rollos de papiro y pergamino de distintas culturas.",
@@ -235,6 +774,101 @@
       "total_points": 20
     },
     {
+      "id": "story_hist_003",
+      "slug": "el-acueducto-de-julia-y-el-agua-que-flotaba",
+      "title": "El Acueducto de Julia y el Agua que Flotaba",
+      "summary": "En la antigua Roma, Julia aprende de su tío ingeniero cómo los arcos de piedra y la gravedad permitían llevar agua potable a miles de personas a kilómetros de distancia.",
+      "subject": {
+        "id": "history",
+        "name": "Historia y Civilizaciones",
+        "emoji": "🏛️",
+        "color_hex": "#8B5CF6"
+      },
+      "topic": {
+        "id": "roman-engineering-aqueducts",
+        "name": "Ingeniería y Ciudades del Imperio Romano"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_hist_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_hist_003.jpg",
+      "key_learnings": [
+        "Los ingenieros romanos construyeron acueductos para transportar agua fresca desde manantiales montañosos hasta el centro urbano.",
+        "Los acueductos funcionaban exclusivamente mediante la fuerza de gravedad gracias a una inclinación suave y constante del canal.",
+        "El arco de medio punto distribuía el enorme peso de la piedra permitiendo levantar puentes altos y resistentes."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏛️",
+          "fact": "Algunos acueductos romanos construidos hace más de dos mil años, como el de Segovia en España, todavía se mantienen en pie sin usar una sola gota de cemento entre sus bloques de granito."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Acueducto",
+          "definition": "Canal artificial elevado o subterráneo diseñado para transportar agua desde una fuente natural lejana hasta una ciudad."
+        },
+        {
+          "term": "Arco de medio punto",
+          "definition": "Estructura semicircular de piedra que reparte el peso superior hacia los pilares laterales, impidiendo el colapso del puente."
+        },
+        {
+          "term": "Pendiente",
+          "definition": "Inclinación de un terreno o canal que permite que los líquidos fluyan por gravedad."
+        }
+      ],
+      "content": "Julia subió con su tío Marco, arquitecto de la legión, a una colina que dominaba el valle de Segovia. Frente a ellos se alzaba una muralla de arcos dobles de granito que parecía tocar las nubes.\n\n—Tío, ¿por qué molestarse en construir puentes tan altos en vez de dejar que el río corra por el suelo? —preguntó Julia mientras tocaba los sillares tallados.\n\nMarco sacó una regla de madera con un nivel de agua de plomo:\n\n—El agua de los ríos cercanos al valle está estancada y puede transmitir enfermedades, Julia. El agua buena brota pura en los manantiales de las montañas, a quince kilómetros de aquí. Para traerla sin motores ni bombas eléctricas, que no existen, necesitamos que baje por gravedad.\n\n—¿Pero cómo cruza este barranco profundo sin caerse? —indagó Julia mirando al fondo del precipicio.\n\n—Por estos arcos —dijo Marco trazando un círculo con la mano—. La piedra clave central en la cima de cada arco empuja a las demás hacia abajo y hacia los lados, sosteniendo toneladas de peso. El canal superior tiene una pendiente perfecta de apenas tres centímetros por cada cien metros. El agua nunca se estanca y nunca se desborda.\n\nJulia vio llegar el chorro cristalino a las fuentes públicas de la ciudad. Comprendió que la grandeza de una civilización no se medía por sus guerras, sino por su capacidad de construir obras que protegieran la vida y la salud de sus ciudadanos.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿De dónde provenía el agua que transportaba el acueducto romano?",
+          "options": [
+            "De manantiales puros en las montañas lejanas",
+            "Del mar Mediterráneo",
+            "De charcos de lluvia del valle",
+            "De pozos subterráneos dentro de la ciudad"
+          ],
+          "correct_answer": 0,
+          "explanation": "Los romanos captaban agua de manantiales montañosos limpios para evitar enfermedades.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué fuerza física permitía que el agua fluyera por los canales del acueducto?",
+          "options": [
+            "La fuerza de gravedad aprovechada mediante una suave pendiente continua",
+            "Motores a vapor instalados en los arcos",
+            "Bombas eléctricas de gran potencia",
+            "La presión del viento soplando por los túneles"
+          ],
+          "correct_answer": 0,
+          "explanation": "El diseño de los acueductos dependía de una leve inclinación calculada que hacía circular el agua por gravedad sin mecanismos activos.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Cuál es la ventaja arquitectónica del arco de medio punto en los acueductos?",
+          "options": [
+            "Distribuye el peso hacia los pilares laterales, soportando grandes cargas",
+            "Hace que el agua cambie de sabor a dulce",
+            "Impide que los pájaros aniden en la piedra",
+            "Permite calentar el canal durante el invierno"
+          ],
+          "correct_answer": 0,
+          "explanation": "El arco reparte el peso lateralmente hacia los pilares, otorgando una resistencia estructural extraordinaria sin derrumbarse.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
+    },
+    {
       "id": "story_opt_001",
       "slug": "el-laberinto-de-las-sombras-y-la-luz",
       "title": "El Laberinto de las Sombras y el Secreto de la Luz",
@@ -250,10 +884,10 @@
         "name": "Propagación de la Luz y Geometría de las Sombras"
       },
       "age_range": {
-        "min": 10,
-        "max": 14
+        "min": 9,
+        "max": 12
       },
-      "difficulty": "advanced",
+      "difficulty": "intermediate",
       "reading_time_min": 5,
       "cover_image_path": "images/story_opt_001.jpg",
       "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_001.jpg",
@@ -298,7 +932,7 @@
           "type": "reading_comprehension",
           "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
           "options": [
-            "Una linterna de enfoque directo",
+            "Una linterna de enfoque regulable",
             "Un espejo mágico",
             "Una cámara de fotos",
             "Una vela de cera"
@@ -332,11 +966,414 @@
             "La sombra cambia de color a rojo"
           ],
           "correct_answer": 0,
-          "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un ángulo mayor del cono de rayos luminosos, proyectando una silueta mucho más grande sobre la pantalla o pared de fondo.",
+          "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un cono mayor de rayos luminosos, proyectando una silueta más grande en la pared.",
           "points": 10
         }
       ],
       "total_points": 30
+    },
+    {
+      "id": "story_opt_002",
+      "slug": "el-espejo-rebotador-de-valeria",
+      "title": "Valeria y el Rayo Rebotador",
+      "summary": "Una niña utiliza pequeños espejos de mano para guiar un destello de luz solar hasta un rincón oscuro de su habitación, aprendiendo la ley de la reflexión de forma intuitiva.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "reflection-mirrors",
+        "name": "La Reflexión de la Luz y los Espejos"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_opt_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_002.jpg",
+      "key_learnings": [
+        "La reflexión ocurre cuando un rayo de luz choca contra una superficie lisa y pulida y rebota en otra dirección.",
+        "El ángulo con el que la luz golpea el espejo es idéntico al ángulo con el que sale rebotada.",
+        "Los espejos planos forman imágenes del mismo tamaño pero invertidas lateralmente (la derecha parece la izquierda)."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🪞",
+          "fact": "La palabra 'AMBULANCIA' está escrita al revés en la parte delantera de los vehículos médicos para que los conductores la lean correctamente al mirarla por el espejo retrovisor."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Reflexión",
+          "definition": "El rebote de la luz al chocar contra una superficie pulida que no la deja pasar."
+        },
+        {
+          "term": "Superficie pulida",
+          "definition": "Una superficie tan lisa y uniforme que refleja la luz sin dispersarla en todas direcciones."
+        }
+      ],
+      "content": "Valeria quería iluminar la casita de muñecas que había quedado en la esquina más oscura de su cuarto. La ventana estaba lejos y el rayo del sol de la mañana solo caía sobre el escritorio.\n\n—Tengo una idea —dijo Valeria tomando el espejo de mano de su mamá.\n\nSe paró junto a la mesa e interceptó el haz brillante de sol. De inmediato, un disco de luz saltó del espejo hacia el techo. Valeria inclinó su mano hacia abajo: el disco se deslizó por la pared. Lo inclinó un poco más hacia la derecha y... ¡bingo! El rayo rebotó directo dentro de la sala de su casita de juguetes.\n\nSu hermano Tomás se asomó intrigado:\n\n—¿Cómo hiciste esa curva con la luz si la luz solo va en línea recta?\n\n—No dio una curva, ¡rebotó como una pelota de tenis! —le explicó Valeria risueña—. Si la pelota pega de costado contra la pared, sale disparada hacia el otro lado con la misma inclinación. El espejo hace exactamente lo mismo con los rayos del sol.\n\nTomás trajo otro espejito y ambos hicieron un circuito: del sol al primer espejo, del primero al segundo, y del segundo iluminaron una planta que nunca recibía sol.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto utilizó Valeria para llevar la luz del sol hasta el rincón oscuro?",
+          "options": [
+            "Un espejo de mano",
+            "Un pedazo de cartón",
+            "Una lupa de aumento",
+            "Una bufanda de lana"
+          ],
+          "correct_answer": 0,
+          "explanation": "Valeria usó un espejo de mano para hacer rebotar la luz del sol en la dirección deseada.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Cómo se llama el fenómeno por el cual la luz rebota al chocar contra una superficie pulida?",
+          "options": [
+            "Reflexión",
+            "Combustión",
+            "Erosión",
+            "Evaporación"
+          ],
+          "correct_answer": 0,
+          "explanation": "La reflexión es el cambio de dirección que experimenta un rayo de luz al chocar con una superficie reflectante.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_opt_003",
+      "slug": "el-lapiz-roto-en-el-vaso",
+      "title": "Leo y el Truco del Lápiz Roto",
+      "summary": "Durante un experimento escolar con agua, aceite y un vaso de cristal, Leo descubre la refracción y comprende por qué la velocidad de la luz cambia según el medio por el que viaja.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "refraction-lenses",
+        "name": "La Refracción y la Velocidad de la Luz"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_opt_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_003.jpg",
+      "key_learnings": [
+        "La refracción es el cambio de dirección y velocidad que sufre la luz al pasar de un medio a otro (por ejemplo, del aire al agua).",
+        "La luz viaja más rápido en el aire que en el agua o el vidrio debido a la densidad de cada material.",
+        "Las lentes de las gafas y los microscopios funcionan aprovechando la curvatura de la luz por refracción."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏊",
+          "fact": "Cuando miras tus pies dentro de una piscina, parecen estar mucho más cerca de la superficie de lo que realmente están debido a la refracción del agua."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Refracción",
+          "definition": "El desvío que experimentan los rayos de luz cuando cruzan la frontera entre dos materiales transparentes distintos."
+        },
+        {
+          "term": "Medio transparente",
+          "definition": "Cualquier sustancia o material que deja pasar la luz a través de él de forma clara (como el aire, el agua pura o el vidrio)."
+        }
+      ],
+      "content": "Leo sumergió un lápiz amarillo nuevo en un vaso de vidrio lleno hasta la mitad con agua fresca. Al mirarlo de frente, pegó un brinco de sorpresa:\n\n—¡Profe Clara, el lápiz se partió en dos!\n\nLa profesora se acercó con una sonrisa y le pidió que sacara el lápiz del agua. El lápiz salió intacto, perfectamente recto y sin ningún rasguño.\n\n—¿Es magia de ilusionista? —preguntó Leo volviéndolo a meter con cautela.\n\n—No es magia, es refracción —respondió la profesora Clara—. La luz viaja muy velozmente por el aire, pero cuando entra en el agua, que es más densa y pesada, la luz se frena un poquito. Al cambiar de velocidad en diagonal, los rayos de luz se doblan, como las ruedas de un carrito cuando una de ellas entra al barro antes que la otra.\n\nLeo movió la cabeza hacia arriba y hacia los lados. Notó que la parte del lápiz sumergida no solo parecía cortada hacia un lado, sino ligeramente más gruesa.\n\n—Así que mis ojos ven el lápiz donde la luz desviada le dice a mi cerebro que está, no donde realmente se encuentra —razonó Leo asombrado.\n\n—Exacto —concluyó la maestra—. Y gracias a esa misma desviación calculada, los anteojos corrigen la vista de millones de personas en el mundo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué parecía que el lápiz estaba roto cuando estaba dentro del vaso?",
+          "options": [
+            "Porque los rayos de luz se desviaron al pasar del agua al aire",
+            "Porque el agua disolvió la madera del lápiz",
+            "Porque el vaso de vidrio estaba agrietado",
+            "Porque la tinta del lápiz reaccionó con el agua"
+          ],
+          "correct_answer": 0,
+          "explanation": "La refracción desvía los rayos de luz que salen del agua hacia nuestros ojos, creando la ilusión óptica de que el objeto está quebrado.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué ocurre con la velocidad de la luz cuando pasa del aire al agua?",
+          "options": [
+            "Disminuye su velocidad porque el agua es más densa que el aire",
+            "Aumenta su velocidad al doble",
+            "La luz se detiene por completo y se apaga",
+            "Se transforma de inmediato en sonido"
+          ],
+          "correct_answer": 0,
+          "explanation": "En medios más densos como el agua o el vidrio, la luz viaja más despacio que en el aire o en el vacío.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_opt_004",
+      "slug": "el-secreto-del-arcoiris-y-el-prisma",
+      "title": "Sofía y la Máquina de Colores Ocultos",
+      "summary": "Con un prisma triangular de cristal, Sofía recrea el célebre experimento de Isaac Newton y descubre que la luz blanca del sol contiene todos los colores del arcoíris.",
+      "subject": {
+        "id": "physics-optics",
+        "name": "Física Óptica y Luz",
+        "emoji": "💡",
+        "color_hex": "#EC4899"
+      },
+      "topic": {
+        "id": "dispersion-colors",
+        "name": "Dispersión de la Luz y el Espectro Visible"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_opt_004.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_opt_004.jpg",
+      "key_learnings": [
+        "La luz blanca no es un color único, sino una combinación de todas las longitudes de onda del espectro visible.",
+        "La dispersión luminosa separa la luz blanca en sus colores componentes al refractar cada color con un ángulo ligeramente distinto.",
+        "Las gotas de lluvia actúan como diminutos prismas naturales en el cielo, originando los arcoíris tras una tormenta."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌈",
+          "fact": "En realidad, todos los arcoíris son círculos completos en el cielo, pero desde la tierra solo vemos un semicírculo porque el horizonte nos tapa la otra mitad."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Dispersión cromática",
+          "definition": "Separación de un haz de luz blanca en los colores que lo componen al atravesar un medio refringente como un prisma o una gota."
+        },
+        {
+          "term": "Espectro visible",
+          "definition": "La gama de colores que los ojos humanos son capaces de percibir: rojo, naranja, amarillo, verde, cian, azul y violeta."
+        },
+        {
+          "term": "Prisma óptico",
+          "definition": "Bloque geométrico de vidrio o plástico transparente con caras pulidas no paralelas que desvía y separa la luz."
+        }
+      ],
+      "content": "Sofía cerró las persianas de su habitación dejando solo una pequeña rendija por la que se colaba un haz delgado de luz solar directa. Sobre su escritorio colocó una pirámide alargada de cristal: un prisma óptico que le había regalado su tía astrofísica.\n\nColocó una cartulina blanca frente al prisma y giró la pieza de vidrio lentamente. Al interceptar el rayo blanco, ocurrió algo maravilloso: la cartulina no mostró un punto blanco, sino una brillante cinta desplegada de siete colores en degradado perfecto: rojo, naranja, amarillo, verde, azul, añil y violeta.\n\n—El rojo apenas se desvió, pero el violeta se inclinó muchísimo más —anotó Sofía en su libreta de campo mientras medía las bandas de color.\n\nSu tía entró al cuarto y contempló la franja luminosa proyectada:\n\n—¿Sabes qué descubrió Isaac Newton en 1666 con este mismo montaje? Que el prisma no le añade pintura mágica a la luz. Esos colores siempre estuvieron dentro del haz blanco del Sol, viajando juntos como un coro de voces afinadas.\n\n—Y al entrar al vidrio, como cada color viaja a una frecuencia distinta, se doblan en ángulos diferentes —añadió Sofía recordando sus lecturas de clase.\n\n—Exacto —asintió su tía—. Y cuando llueve y sale el Sol al mismo tiempo, millones de gotas de agua flotando en el aire hacen exactamente el mismo trabajo que tu prisma, regalándonos el arcoíris en el cielo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto utilizó Sofía para descomponer la luz blanca del sol en colores?",
+          "options": [
+            "Un prisma triangular de cristal",
+            "Un espejo plano común",
+            "Un filtro de tela roja",
+            "Una lámina de metal pulido"
+          ],
+          "correct_answer": 0,
+          "explanation": "El prisma óptico de cristal separa los distintos colores de la luz blanca mediante dispersión cromática.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué demuestra que la luz blanca se separe en colores al pasar por un prisma?",
+          "options": [
+            "Que la luz blanca es la mezcla de todos los colores del espectro visible",
+            "Que el vidrio tiñe la luz con tintas invisibles",
+            "Que la luz pierde toda su energía en el cristal",
+            "Que los colores solo existen dentro del vidrio"
+          ],
+          "correct_answer": 0,
+          "explanation": "La luz blanca está formada por la superposición de todas las longitudes de onda del espectro de colores visible.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Qué elemento de la naturaleza actúa como pequeños prismas para formar los arcoíris en el cielo?",
+          "options": [
+            "Las gotas suspendidas de lluvia",
+            "Las hojas secas de los árboles",
+            "Los granos de arena del viento",
+            "El humo de las fogatas"
+          ],
+          "correct_answer": 0,
+          "explanation": "Las gotas de agua refractan y reflejan la luz solar dispersándola en sus colores componentes en el cielo.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
+    },
+    {
+      "id": "story_ast_002",
+      "slug": "la-danza-de-la-tierra-y-el-sol",
+      "title": "La Danza de la Tierra y el Sol",
+      "summary": "Martín descubre mediante una lámpara y una naranja por qué no es el Sol quien viaja por el cielo, sino la Tierra girando como un trompo silencioso.",
+      "subject": {
+        "id": "science-astronomy",
+        "name": "Ciencias y Astronomía",
+        "emoji": "🔭",
+        "color_hex": "#3B82F6"
+      },
+      "topic": {
+        "id": "earth-rotation-day-night",
+        "name": "El Día y la Noche (Movimiento de Rotación)"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_ast_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_002.jpg",
+      "key_learnings": [
+        "La Tierra gira sobre su propio eje como una peonza en un movimiento llamado rotación.",
+        "Un giro completo de rotación dura 24 horas y produce el ciclo del día y la noche.",
+        "El Sol parece moverse en el cielo, pero en realidad somos nosotros quienes estamos girando."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌍",
+          "fact": "En la línea del ecuador, ¡la superficie de la Tierra se mueve a más de 1.600 kilómetros por hora sin que sintamos mareo alguno!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Rotación",
+          "definition": "El giro que da un planeta o cuerpo celeste sobre su propio eje central."
+        },
+        {
+          "term": "Eje terrestre",
+          "definition": "Línea imaginaria que cruza la Tierra desde el Polo Norte hasta el Polo Sur sobre la cual rota el planeta."
+        }
+      ],
+      "content": "Martín miraba por la ventana cómo el Sol se escondía despacio detrás de las montañas.\n\n—El Sol debe de estar muy cansado de correr por todo el cielo durante el día —le comentó a su hermana mayor, Sara.\n\nSara apagó la luz de la habitación y colocó una lámpara sobre la mesa:\n\n—Esta lámpara es el Sol. Se queda siempre fija en su lugar. Y ahora, mira esta naranja atravesada con un palito: esta es la Tierra.\n\nSara pegó una pequeña calcomanía azul en un costado de la fruta:\n\n—Aquí vive Martín. Si giro el palito hacia la derecha, ¿qué le pasa a la calcomanía?\n\nMartín observó con atención: al rotar la fruta, la calcomanía pasó de la luz brillante a la sombra posterior.\n\n—¡Ahora está a oscuras! —exclamó Martín—. El Sol no se movió a ningún lado... ¡fue la naranja la que dio la vuelta!\n\n—Exacto —dijo Sara—. La Tierra nunca se detiene. Mientras nosotros dormimos abrigados en la noche, el otro lado del planeta despierta con los primeros rayos del día.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué objeto representaba a la Tierra en el experimento de Sara?",
+          "options": [
+            "Una naranja atravesada con un palito",
+            "La lámpara de mesa",
+            "Un libro de cuentos",
+            "Una pelota de cristal"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sara usó la naranja con un palito como eje para mostrar el giro de nuestro planeta.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué se producen el día y la noche en la Tierra?",
+          "options": [
+            "Porque la Tierra gira sobre su eje (rotación), exponiendo una mitad a la luz y la otra a la sombra",
+            "Porque el Sol se apaga y se vuelve a encender cada doce horas",
+            "Porque las nubes tapan todo el cielo al caer la tarde",
+            "Porque la Luna absorbe toda la luz del Sol"
+          ],
+          "correct_answer": 0,
+          "explanation": "El movimiento de rotación expone alternadamente cada hemisferio a la radiación solar.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_ast_003",
+      "slug": "los-secretos-de-la-luna-cambiante",
+      "title": "Nico y el Espejo de la Luna",
+      "summary": "Nico descubre por qué la Luna parece cambiar de forma cada semana y comprende que nuestro satélite no tiene luz propia, sino que refleja la luz del Sol.",
+      "subject": {
+        "id": "science-astronomy",
+        "name": "Ciencias y Astronomía",
+        "emoji": "🔭",
+        "color_hex": "#3B82F6"
+      },
+      "topic": {
+        "id": "moon-phases-orbit",
+        "name": "Las Fases Lunares y los Satélites Naturales"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 11
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_ast_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_003.jpg",
+      "key_learnings": [
+        "La Luna no emite luz propia; brilla en la noche porque su superficie refleja la luz del Sol.",
+        "Las fases de la Luna (nueva, creciente, llena y menguante) se deben a cómo cambia nuestra perspectiva de la cara iluminada mientras orbita la Tierra.",
+        "La Luna tarda aproximadamente 28 días en completar una vuelta entera alrededor de la Tierra."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🌕",
+          "fact": "La Luna siempre nos muestra la misma cara; la cara oculta no fue vista por ojos humanos hasta que la sonda espacial soviética Luna 3 la fotografió en 1959."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Satélite natural",
+          "definition": "Cuerpo celeste opaco que orbita alrededor de un planeta de mayor tamaño."
+        },
+        {
+          "term": "Fase lunar",
+          "definition": "Porción iluminada de la Luna que resulta visible desde la Tierra según su posición respecto al Sol."
+        }
+      ],
+      "content": "Nico dibujaba la Luna en su libreta cada noche antes de dormir. El lunes era una uña delgada y brillante; una semana después, parecía una galleta partida por la mitad; y el fin de semana brillaba como un gran plato de plata.\n\n—Papá, ¿quién le come pedazos a la Luna para que cambie de tamaño? —preguntó intrigado.\n\nSu padre lo llevó al patio con una pelota blanca de béisbol y una linterna:\n\n—Párate aquí al centro: tú eres la Tierra. Yo me quedo quieto iluminándote con la linterna: yo soy el Sol. Ahora sostén la pelota frente a ti y da vueltas despacio en tu sitio.\n\nNico extendió el brazo y giró. Cuando la pelota estaba entre él y la linterna, el lado que él veía estaba completamente a oscuras: Luna Nueva. Al girar noventa grados, vio iluminada solo la mitad lateral: Cuarto Creciente. Al ponerse de espaldas a la linterna y levantar la pelota, toda la cara que miraba resplandeció blanca: Luna Llena.\n\n—¡La pelota no cambió de tamaño ni se rompió! —gritó Nico riendo—. Siempre estuvo entera, solo que mis ojos veían diferentes ángulos de la parte iluminada.\n\nNico miró al cielo nocturno con nuevos ojos: la Luna no menguaba por magia, bailaba al compás de la luz del Sol.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿De dónde proviene el brillo que vemos en la Luna durante la noche?",
+          "options": [
+            "De la luz del Sol que se refleja en su superficie rocosa",
+            "De miles de volcanes encendidos en su interior",
+            "De una bombilla instalada por los astronautas",
+            "Del calor de las estrellas lejanas"
+          ],
+          "correct_answer": 0,
+          "explanation": "La Luna es un cuerpo opaco que actúa como un gigantesco reflector de la radiación solar.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Por qué observamos diferentes fases lunares a lo largo del mes?",
+          "options": [
+            "Porque la Luna orbita la Tierra y vemos distintas porciones de su cara iluminada",
+            "Porque la Tierra tapa al Sol todas las noches",
+            "Porque la Luna cambia su tamaño físico de grande a pequeño",
+            "Porque las nubes borran pedazos de la Luna con tinta"
+          ],
+          "correct_answer": 0,
+          "explanation": "A medida que la Luna se desplaza alrededor de nuestro planeta, el ángulo entre el observador, la Luna y el Sol varía, revelando más o menos zona iluminada.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
     },
     {
       "id": "story_ast_001",
@@ -355,12 +1392,12 @@
       },
       "age_range": {
         "min": 10,
-        "max": 14
+        "max": 12
       },
       "difficulty": "advanced",
       "reading_time_min": 5,
-      "cover_image_path": "images/story_03_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_03_001.png",
+      "cover_image_path": "images/story_ast_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_ast_001.png",
       "key_learnings": [
         "Una estación orbital se mantiene alrededor de un planeta gracias al equilibrio entre la gravedad y su velocidad de traslación (órbita).",
         "En el espacio, los telescopios y estaciones pueden observar las estrellas sin la distorsión de la atmósfera terrestre.",
@@ -432,12 +1469,12 @@
       },
       "age_range": {
         "min": 7,
-        "max": 10
+        "max": 9
       },
       "difficulty": "basic",
       "reading_time_min": 3,
-      "cover_image_path": "images/story_01_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_01_001.png",
+      "cover_image_path": "images/story_soc_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_001.png",
       "key_learnings": [
         "La brújula tiene una aguja imantada que siempre apunta hacia el Norte magnético de la Tierra.",
         "Los cuatro puntos cardinales principales son Norte, Sur, Este y Oeste.",
@@ -493,6 +1530,255 @@
       "total_points": 20
     },
     {
+      "id": "story_soc_002",
+      "slug": "el-mapa-secreto-de-mateo-y-las-escalas",
+      "title": "El Mapa Secreto de Mateo y las Escalas",
+      "summary": "Mateo aprende a dibujar un mapa a escala de su vecindario, descubriendo cómo los cartógrafos reducen distancias enormes en pequeñas hojas de papel.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "cartography-scale-symbols",
+        "name": "Cartografía y Lectura de Mapas"
+      },
+      "age_range": {
+        "min": 8,
+        "max": 10
+      },
+      "difficulty": "intermediate",
+      "reading_time_min": 4,
+      "cover_image_path": "images/story_soc_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_002.jpg",
+      "key_learnings": [
+        "Un mapa es una representación gráfica plana y reducida de una porción de la superficie terrestre vista desde arriba.",
+        "La escala cartográfica indica cuántas veces se redujo la realidad para caber en el papel.",
+        "La leyenda del mapa explica el significado de los símbolos, colores y líneas utilizados."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🗺️",
+          "fact": "Es matemáticamente imposible proyectar la superficie redonda de la Tierra en un papel completamente plano sin distorsionar el tamaño de los continentes o las formas."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Escala gráfica",
+          "definition": "Línea graduada en un mapa que muestra la relación entre una medida en el dibujo y la distancia real en el terreno."
+        },
+        {
+          "term": "Leyenda",
+          "definition": "Cuadro explicativo en un mapa donde se aclaran los símbolos, colores y convenciones gráficas."
+        }
+      ],
+      "content": "Mateo quería organizar una búsqueda del tesoro para el cumpleaños de su prima. Dibujó su casa y el parque en una hoja, pero al intentar medir el camino, el parque le quedó del tamaño de una moneda y su casa ocupaba casi toda la hoja.\n\nSu abuelo, topógrafo retirado, sacó una cinta métrica y una regla de madera:\n\n—Para que un mapa funcione de verdad, Mateo, necesitas usar una escala matemática. No puedes inventar los tamaños.\n\n—¿Cómo metemos doscientos metros de parque en una hoja de cuaderno? —preguntó Mateo con curiosidad.\n\n—Con una regla de proporción: diremos que cada centímetro que dibujes en el papel representará diez metros reales de terreno. Así, un parque de cien metros medirá exactamente diez centímetros en tu mapa.\n\nMateo midió con pasos, usó su regla y añadió una leyenda en la esquina: una cruz azul para la fuente de agua, un triángulo verde para los pinos viejos y una estrella dorada para el tesoro escondido. Cuando sus amigos siguieron el plano, encontraron la caja sorpresa a la primera sin perderse jamás.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué función cumplió la leyenda en la esquina del mapa de Mateo?",
+          "options": [
+            "Explicar qué significaban los símbolos y colores utilizados",
+            "Servir como adorno para colorear",
+            "Anotar el precio de la hoja de papel",
+            "Escribir una poesía"
+          ],
+          "correct_answer": 0,
+          "explanation": "La leyenda es el diccionario del mapa que descifra cada símbolo gráfico.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "Si en un mapa la escala indica que 1 centímetro equivale a 10 metros reales, ¿cuántos metros representan 5 centímetros medidos con la regla?",
+          "options": [
+            "50 metros",
+            "15 metros",
+            "5 metros",
+            "500 metros"
+          ],
+          "correct_answer": 0,
+          "explanation": "Multiplicando los 5 cm del papel por los 10 metros correspondientes a cada centímetro obtenemos 50 metros reales.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
+      "id": "story_soc_003",
+      "slug": "elena-y-las-lineas-invisibles-del-planeta",
+      "title": "Elena y las Líneas Invisibles del Planeta",
+      "summary": "Elena viaja en barco con su madre capitana y aprende cómo los paralelos, meridianos y las coordenadas GPS permiten ubicar cualquier punto exacto en medio del océano.",
+      "subject": {
+        "id": "social-sciences",
+        "name": "Ciencias Sociales y Geografía",
+        "emoji": "🧭",
+        "color_hex": "#F59E0B"
+      },
+      "topic": {
+        "id": "geographic-coordinates-globe",
+        "name": "Coordenadas Geográficas: Latitud y Longitud"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_soc_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_soc_003.jpg",
+      "key_learnings": [
+        "La Tierra está dividida por una cuadrícula imaginaria de paralelos (latitud) y meridianos (longitud).",
+        "La línea del Ecuador es el paralelo cero que separa el hemisferio Norte del hemisferio Sur.",
+        "El meridiano de Greenwich es la referencia cero para medir hacia el Este y el Oeste y organizar los husos horarios del mundo."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🛰️",
+          "fact": "El sistema GPS de los teléfonos inteligentes se conecta al menos con 4 satélites en el espacio simultáneamente para calcular tus coordenadas exactas en metros."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Latitud",
+          "definition": "Distancia angular medida en grados desde cualquier punto de la Tierra hasta la línea del Ecuador (Norte o Sur)."
+        },
+        {
+          "term": "Longitud",
+          "definition": "Distancia angular en grados medida desde cualquier punto de la Tierra respecto al meridiano de Greenwich (Este u Oeste)."
+        },
+        {
+          "term": "Ecuador",
+          "definition": "El paralelo principal que divide al planeta en dos partes iguales: hemisferio Norte y hemisferio Sur."
+        }
+      ],
+      "content": "Elena estaba en el puente de mando de un barco oceanográfico en medio del océano Pacífico. Miraba por la ventana panorámica: a su alrededor solo había agua azul infinita, sin islas, sin montañas ni postes de guía.\n\n—Mamá, ¿cómo sabemos exactamente dónde estamos sin estrellarnos ni dar vueltas en círculos? —preguntó Elena a la capitana.\n\nSu madre encendió la pantalla de navegación:\n\n—El planeta entero está cubierto por una malla de líneas invisibles trazadas por la ciencia geográfica. Imagina una red de pesca gigante que envuelve al globo terráqueo.\n\nSeñaló dos números en la pantalla satelital:\n\n—Estas son nuestras coordenadas geográficas: 12 grados de Latitud Sur y 77 grados de Longitud Oeste. La latitud nos dice qué tan cerca o lejos estamos del Ecuador, la cintura del planeta. La longitud nos dice qué tan al este o al oeste nos encontramos del meridiano de Greenwich, en Inglaterra.\n\n—¡Es como jugar a la batalla naval! —exclamó Elena emocionada—. Donde se cruzan esas dos líneas de números hay un solo punto irrepetible en todo el planeta.\n\n—Exactamente —dijo la capitana—. Gracias a esta cuadrícula, cualquier barco, avión o ambulancia puede ser rescatado en segundos en cualquier rincón del mundo.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿En qué lugar se encontraba Elena cuando le preguntó a su madre cómo se orientaban?",
+          "options": [
+            "En el puente de mando de un barco en medio del océano",
+            "En la estación de tren de la ciudad",
+            "En la cabina de un avión comercial",
+            "En una tienda de campana en el bosque"
+          ],
+          "correct_answer": 0,
+          "explanation": "Elena navegaba en altamar a bordo de un buque oceanográfico.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué línea imaginaria divide a la Tierra en el hemisferio Norte y el hemisferio Sur?",
+          "options": [
+            "La línea del Ecuador",
+            "El meridiano de Greenwich",
+            "El Trópico de Cáncer",
+            "El Círculo Polar Ártico"
+          ],
+          "correct_answer": 0,
+          "explanation": "El Ecuador es el paralelo 0° que corta horizontalmente la Tierra en los hemisferios Norte y Sur.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Para qué sirve el cruce exacto de una línea de latitud con una de longitud?",
+          "options": [
+            "Para determinar unas coordenadas únicas y localizar cualquier punto en el planeta",
+            "Para medir la profundidad del fondo del mar",
+            "Para predecir el color de los peces",
+            "Para saber cuánta gasolina le queda al motor"
+          ],
+          "correct_answer": 0,
+          "explanation": "La intersección de latitud y longitud establece la posición geográfica precisa en el sistema de coordenadas.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
+    },
+    {
+      "id": "story_phy_002",
+      "slug": "el-subibaja-gigante-de-nico",
+      "title": "El Subibaja Gigante de Nico",
+      "summary": "Nico descubre cómo una palanca y un punto de apoyo bien ubicado le permiten levantar por los aires a su hermano mayor jugando en el parque.",
+      "subject": {
+        "id": "technology-physics",
+        "name": "Física y Tecnología",
+        "emoji": "⚙️",
+        "color_hex": "#6366F1"
+      },
+      "topic": {
+        "id": "simple-machines-levers",
+        "name": "Máquinas Simples y Palancas"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "difficulty": "basic",
+      "reading_time_min": 3,
+      "cover_image_path": "images/story_phy_002.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_002.jpg",
+      "key_learnings": [
+        "Una palanca es una máquina simple compuesta por una barra rígida que gira sobre un punto de apoyo.",
+        "Cuanto más lejos te sientes del punto de apoyo, menos fuerza necesitas para levantar un peso grande.",
+        "Tijeras, carretillas y balancines son ejemplos cotidianos de palancas."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "🏗️",
+          "fact": "El sabio griego Arquímedes dijo hace más de dos mil años: 'Denme una palanca lo suficientemente larga y un punto de apoyo, y moveré el mundo entero'."
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Palanca",
+          "definition": "Barra rígida apoyada en un punto fijo que multiplica la fuerza aplicada para mover objetos pesados."
+        },
+        {
+          "term": "Punto de apoyo",
+          "definition": "El lugar central o pivote sobre el cual gira y descansa la barra de una palanca."
+        }
+      ],
+      "content": "Nico pesaba veinticinco kilos y su hermano mayor Gabriel pesaba cincuenta. Cada vez que intentaban jugar en el subibaja del parque, Gabriel se quedaba abajo pegado a la tierra y Nico quedaba suspendido en el aire pataleando sin poder bajar.\n\n—¡No es justo! —protestó Nico—. ¡Pesas el doble que yo!\n\nSu tía Laura, ingeniera civil, se acercó al balancín con una sonrisa:\n\n—Nico, no necesitas ser más pesado, necesitas usar la física. Gabriel, muévete hacia adelante y siéntate bien pegado al poste del medio. Nico, tú quédate en el extremo más lejano de la tabla.\n\nGabriel se deslizó hacia el centro. Cuando Nico empujó suavemente con la punta de sus pies, ocurrió algo que parecía imposible: ¡Gabriel se elevó por el aire como si flotara!\n\n—¡Te estoy levantando con una sola mano! —gritó Nico maravillado.\n\n—El subibaja es una palanca —explicó Laura—. Al alejarte del punto de apoyo central, tu peso tiene un brazo de palanca mucho más largo y multiplica tu fuerza, venciendo fácilmente a tu hermano.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Qué cambio hicieron en el subibaja para que Nico pudiera levantar a su hermano mayor?",
+          "options": [
+            "Gabriel se sentó más cerca del centro y Nico se quedó en el extremo",
+            "Pusieron piedras pesadas en el asiento de Gabriel",
+            "Nico saltó con una cuerda",
+            "Cambiaron la madera por una barra de hierro"
+          ],
+          "correct_answer": 0,
+          "explanation": "Al reducir la distancia de Gabriel al fulcro y maximizar la de Nico, la fuerza de Nico se multiplicó.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué sucede con la fuerza cuando te sientas más lejos del punto de apoyo en una palanca?",
+          "options": [
+            "Se multiplica, requiriendo menos esfuerzo para levantar el peso del otro lado",
+            "Desaparece por completo",
+            "Hace que la tabla se rompa al instante",
+            "La tabla deja de girar"
+          ],
+          "correct_answer": 0,
+          "explanation": "A mayor longitud del brazo de palanca respecto al fulcro, mayor ventaja mecánica para elevar una carga.",
+          "points": 10
+        }
+      ],
+      "total_points": 20
+    },
+    {
       "id": "story_phy_001",
       "slug": "el-reloj-de-la-torre-y-los-engranajes",
       "title": "El reloj de la torre y el secreto de los engranajes",
@@ -513,8 +1799,8 @@
       },
       "difficulty": "intermediate",
       "reading_time_min": 4,
-      "cover_image_path": "images/story_02_001.png",
-      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_02_001.png",
+      "cover_image_path": "images/story_phy_001.png",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_001.png",
       "key_learnings": [
         "Un engranaje es una rueda dentada que transmite fuerza y movimiento a otra rueda.",
         "Cuando un engranaje gira en sentido horario, el engranaje con el que se conecta gira en sentido antihorario.",
@@ -568,6 +1854,101 @@
         }
       ],
       "total_points": 20
+    },
+    {
+      "id": "story_phy_003",
+      "slug": "camila-y-la-chispa-del-circuito-cerrado",
+      "title": "Camila y la Chispa del Circuito Cerrado",
+      "summary": "Con una pila, cables de cobre y una bombilla pequeña, Camila descubre cómo viajan los electrones por un circuito eléctrico cerrado y cómo funcionan los interruptores.",
+      "subject": {
+        "id": "technology-physics",
+        "name": "Física y Tecnología",
+        "emoji": "⚙️",
+        "color_hex": "#6366F1"
+      },
+      "topic": {
+        "id": "electricity-circuits",
+        "name": "Electricidad y Circuitos Eléctricos"
+      },
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "difficulty": "advanced",
+      "reading_time_min": 5,
+      "cover_image_path": "images/story_phy_003.jpg",
+      "cover_image_url": "https://raw.githubusercontent.com/JhohellsDL/stories-db/main/images/story_phy_003.jpg",
+      "key_learnings": [
+        "La corriente eléctrica es el flujo ordenado de partículas diminutas cargadas llamadas electrones.",
+        "Para que la electricidad fluya e ilumine una bombilla, el circuito debe formar un camino continuo e ininterrumpido (circuito cerrado).",
+        "Un interruptor actúa como un puente levadizo que abre o cierra el paso de los electrones según se desee."
+      ],
+      "fun_facts": [
+        {
+          "emoji": "⚡",
+          "fact": "La señal eléctrica a lo largo de un cable de cobre viaja a una velocidad cercana a la de la luz: ¡unos 300.000 kilómetros por segundo!"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "Circuito cerrado",
+          "definition": "Camino completo y continuo formado por materiales conductores que permite la circulación constante de la corriente eléctrica."
+        },
+        {
+          "term": "Conductor",
+          "definition": "Material que permite el paso fácil de la electricidad a través de él (como el cobre, el aluminio o el agua con sal)."
+        },
+        {
+          "term": "Interruptor",
+          "definition": "Mecanismo diseñado para abrir o cerrar intencionalmente el paso de la corriente en un circuito."
+        }
+      ],
+      "content": "Camila intentaba construir un faro en miniatura para su proyecto de ciencias, pero la pequeña bombilla LED sobre la torre de cartón no encendía. Tenía una pila de 9 voltios y dos cables de cobre con fundas plásticas rojas y negras.\n\n—Tengo la batería llena y el foco es nuevo, ¿por qué no prende? —se quejó apoyando la cabeza en la mesa de trabajo.\n\nSu hermano mayor, estudiante de electrónica, tomó los cables:\n\n—Mira el extremo del cable negro, Camila. Está suelto en el aire sin tocar el polo negativo de la pila. La electricidad no salta por arte de magia por el aire como si fuera un fantasma.\n\n—¿Cómo viaja entonces? —preguntó Camila recortando el plástico del cable.\n\n—Los electrones necesitan una autopista continua y sin baches —explicó su hermano—. Salen por un polo de la pila, viajan por el metal del cable, pasan por el filamento del bombillo haciéndolo brillar y deben regresar obligatoriamente al otro polo de la pila para cerrar el bucle.\n\nCamila conectó un clip metálico en medio del cable: al apoyarlo sobre la tachuela de metal, la luz del faro brilló instantáneamente con un destello dorado; al levantarlo, la bombilla se apagó de golpe.\n\n—¡Acabo de fabricar un interruptor! —exclamó Camila emocionada—. Es un puente que dejo caer para cerrar el camino o levanto para cortar la luz.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "reading_comprehension",
+          "question": "¿Por qué no encendía la bombilla del faro al principio del cuento?",
+          "options": [
+            "Porque un cable estaba suelto y el circuito estaba abierto",
+            "Porque la pila estaba congelada",
+            "Porque el foco estaba lleno de agua",
+            "Porque el cartón del faro era muy pesado"
+          ],
+          "correct_answer": 0,
+          "explanation": "El circuito estaba incompleto (abierto), lo que impedía el flujo continuo de corriente eléctrica.",
+          "points": 10
+        },
+        {
+          "id": "q2",
+          "type": "educational_concept",
+          "question": "¿Qué condición indispensable debe cumplirse para que la corriente eléctrica fluya por un circuito?",
+          "options": [
+            "El circuito debe estar completamente cerrado con materiales conductores sin interrupciones",
+            "Los cables deben ser de madera seca",
+            "La pila debe estar colocada al revés",
+            "El circuito debe sumergirse en aceite caliente"
+          ],
+          "correct_answer": 0,
+          "explanation": "La electricidad solo se desplaza cuando existe una trayectoria cerrada y conductora entre los polos de la fuente de energía.",
+          "points": 10
+        },
+        {
+          "id": "q3",
+          "type": "educational_concept",
+          "question": "¿Cuál es la función que cumple un interruptor en una instalación eléctrica?",
+          "options": [
+            "Abrir o cerrar el camino de la corriente para encender o apagar un aparato",
+            "Aumentar el tamaño de la bombilla",
+            "Cambiar el color de los cables",
+            "Evaporar el agua de la batería"
+          ],
+          "correct_answer": 0,
+          "explanation": "El interruptor corta o restablece la continuidad física del circuito según se accione.",
+          "points": 10
+        }
+      ],
+      "total_points": 30
     }
   ]
 }
