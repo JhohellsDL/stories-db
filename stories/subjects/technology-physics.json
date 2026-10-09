@@ -65,12 +65,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué cambio hicieron en el subibaja para que Nico pudiera levantar a su hermano mayor?",
           "options": [
-            "Gabriel se sentó más cerca del centro y Nico se quedó en el extremo",
-            "Pusieron piedras pesadas en el asiento de Gabriel",
             "Nico saltó con una cuerda",
-            "Cambiaron la madera por una barra de hierro"
+            "Cambiaron la madera por una barra de hierro",
+            "Gabriel se sentó más cerca del centro y Nico se quedó en el extremo",
+            "Pusieron piedras pesadas en el asiento de Gabriel"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Al reducir la distancia de Gabriel al fulcro y maximizar la de Nico, la fuerza de Nico se multiplicó.",
           "points": 10
         },
@@ -79,12 +79,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucede con la fuerza cuando te sientas más lejos del punto de apoyo en una palanca?",
           "options": [
-            "Se multiplica, requiriendo menos esfuerzo para levantar el peso del otro lado",
             "Desaparece por completo",
             "Hace que la tabla se rompa al instante",
-            "La tabla deja de girar"
+            "La tabla deja de girar",
+            "Se multiplica, requiriendo menos esfuerzo para levantar el peso del otro lado"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "A mayor longitud del brazo de palanca respecto al fulcro, mayor ventaja mecánica para elevar una carga.",
           "points": 10
         },
@@ -93,12 +93,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué profesión tenía la tía Laura que ayudó a resolver el juego en el balancín?",
           "options": [
-            "Ingeniera civil",
-            "Astrónoma",
             "Veterinaria",
-            "Pintora artística"
+            "Ingeniera civil",
+            "Pintora artística",
+            "Astrónoma"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La tía Laura era ingeniera civil y conocía la física detrás de las máquinas simples.",
           "points": 10
         },
@@ -108,9 +108,9 @@
           "question": "¿Qué célebre sabio griego expresó: 'Denme una palanca lo suficientemente larga y un punto de apoyo, y moveré el mundo'?",
           "options": [
             "Arquímedes",
-            "Sócrates",
+            "Platón",
             "Pitágoras",
-            "Platón"
+            "Sócrates"
           ],
           "correct_answer": 0,
           "explanation": "Arquímedes formuló los principios teóricos de la palanca y la ventaja mecánica en la antigua Grecia.",
@@ -172,8 +172,8 @@
           "options": [
             "Don Ernesto, el relojero",
             "La maestra de la escuela",
-            "El alcalde del pueblo",
-            "Un explorador desconocido"
+            "Un explorador desconocido",
+            "El alcalde del pueblo"
           ],
           "correct_answer": 0,
           "explanation": "Tomás encontró a Don Ernesto trabajando con las piezas de bronce del reloj.",
@@ -184,12 +184,12 @@
           "type": "educational_concept",
           "question": "Si una rueda con dientes gira hacia la derecha (sentido horario), ¿hacia qué lado gira la rueda conectada a ella?",
           "options": [
+            "Hacia arriba",
             "Hacia la izquierda (sentido antihorario)",
-            "Hacia la derecha en la misma dirección",
             "No se mueve",
-            "Hacia arriba"
+            "Hacia la derecha en la misma dirección"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Al encajar los dientes, el giro de una rueda empuja a la otra en sentido contrario.",
           "points": 10
         },
@@ -198,12 +198,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué elemento impulsaba el giro lento inicial de la rueda principal del reloj de la torre?",
           "options": [
-            "Una pesa metálica suspendida",
+            "El calor del sol",
             "Un motor a gasolina",
             "Una batería química",
-            "El calor del sol"
+            "Una pesa metálica suspendida"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El reloj antiguo funcionaba con la energía potencial de una pesa que descendía lentamente.",
           "points": 10
         },
@@ -212,12 +212,12 @@
           "type": "educational_concept",
           "question": "¿Qué efecto se logra cuando una rueda dentada grande hace girar a otra más pequeña?",
           "options": [
-            "La rueda pequeña gira a mayor velocidad de rotación",
+            "Se invierte la gravedad del mecanismo",
             "Ambas ruedas se detienen de inmediato",
-            "La rueda pequeña se calienta y se apaga",
-            "Se invierte la gravedad del mecanismo"
+            "La rueda pequeña gira a mayor velocidad de rotación",
+            "La rueda pequeña se calienta y se apaga"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La diferencia de diámetros y número de dientes permite multiplicar la velocidad de giro en la rueda menor.",
           "points": 10
         }
@@ -279,12 +279,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué no encendía la bombilla del faro al principio del cuento?",
           "options": [
-            "Porque un cable estaba suelto y el circuito estaba abierto",
-            "Porque la pila estaba congelada",
             "Porque el foco estaba lleno de agua",
-            "Porque el cartón del faro era muy pesado"
+            "Porque el cartón del faro era muy pesado",
+            "Porque la pila estaba congelada",
+            "Porque un cable estaba suelto y el circuito estaba abierto"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El circuito estaba incompleto (abierto), lo que impedía el flujo continuo de corriente eléctrica.",
           "points": 10
         },
@@ -293,12 +293,12 @@
           "type": "educational_concept",
           "question": "¿Qué condición indispensable debe cumplirse para que la corriente eléctrica fluya por un circuito?",
           "options": [
-            "El circuito debe estar completamente cerrado con materiales conductores sin interrupciones",
-            "Los cables deben ser de madera seca",
             "La pila debe estar colocada al revés",
-            "El circuito debe sumergirse en aceite caliente"
+            "El circuito debe sumergirse en aceite caliente",
+            "El circuito debe estar completamente cerrado con materiales conductores sin interrupciones",
+            "Los cables deben ser de madera seca"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La electricidad solo se desplaza cuando existe una trayectoria cerrada y conductora entre los polos de la fuente de energía.",
           "points": 10
         },
@@ -308,9 +308,9 @@
           "question": "¿Cuál es la función que cumple un interruptor en una instalación eléctrica?",
           "options": [
             "Abrir o cerrar el camino de la corriente para encender o apagar un aparato",
+            "Evaporar el agua de la batería",
             "Aumentar el tamaño de la bombilla",
-            "Cambiar el color de los cables",
-            "Evaporar el agua de la batería"
+            "Cambiar el color de los cables"
           ],
           "correct_answer": 0,
           "explanation": "El interruptor corta o restablece la continuidad física del circuito según se accione.",
@@ -321,12 +321,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto metálico cotidiano utilizó Camila para fabricar su interruptor casero?",
           "options": [
+            "Un trozo de hilo de algodón",
             "Un clip sujetapapeles metálico",
             "Una cuchara de plástico",
-            "Un trozo de hilo de algodón",
             "Una moneda de cartón"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Camila utilizó un clip metálico como puente conductor móvil sobre una tachuela.",
           "points": 10
         }

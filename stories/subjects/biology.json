@@ -65,12 +65,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué Riley tuvo que ir al consultorio del dentista?",
           "options": [
-            "Porque mordió con fuerza un caramelo duro y se lastimó un diente",
             "Porque quería comprar juguetes",
+            "Porque mordió con fuerza un caramelo duro y se lastimó un diente",
             "Porque perdió su mochila en el parque",
             "Porque tenía sueño"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Riley mordió un caramelo duro que dañó la superficie de su diente, por lo que necesitó revisión médica.",
           "points": 10
         },
@@ -79,12 +79,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se llama la capa exterior dura que protege a los dientes de bacterias y golpes?",
           "options": [
-            "Esmalte dental",
             "Músculo",
             "Piel bucal",
-            "Cartílago"
+            "Cartílago",
+            "Esmalte dental"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
           "points": 10
         },
@@ -94,8 +94,8 @@
           "question": "¿Qué objeto especial le regaló el dentista a Riley al finalizar la consulta?",
           "options": [
             "Un cepillo de dientes nuevo",
-            "Una bolsa de caramelos masticables",
             "Un espejo de aumento",
+            "Una bolsa de caramelos masticables",
             "Un libro de colorear"
           ],
           "correct_answer": 0,
@@ -107,12 +107,12 @@
           "type": "educational_concept",
           "question": "¿Por qué el consumo excesivo de azúcar puede dañar los dientes?",
           "options": [
-            "Porque alimenta bacterias que producen ácidos y forman caries",
-            "Porque cambia el color de los huesos del cuerpo",
             "Porque enfría de golpe la garganta",
+            "Porque cambia el color de los huesos del cuerpo",
+            "Porque alimenta bacterias que producen ácidos y forman caries",
             "Porque debilita las uñas de las manos"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Las bacterias bucales consumen los restos de azúcar y generan ácidos que desgastan el esmalte, formando caries.",
           "points": 10
         }
@@ -171,9 +171,9 @@
           "question": "¿Qué actividad estaba haciendo Lucas antes de sentir sus latidos acelerados?",
           "options": [
             "Jugando una carrera con la pelota en el parque",
+            "Pintando un cuadro con acuarelas",
             "Durmiendo una siesta en su cama",
-            "Leyendo un libro en la biblioteca",
-            "Pintando un cuadro con acuarelas"
+            "Leyendo un libro en la biblioteca"
           ],
           "correct_answer": 0,
           "explanation": "Lucas corría velozmente tras la pelota en el parque, lo que exigió más energía a sus músculos.",
@@ -184,12 +184,12 @@
           "type": "educational_concept",
           "question": "¿Por qué el corazón late con mayor rapidez cuando realizamos ejercicio intenso?",
           "options": [
-            "Para enviar más sangre con oxígeno y nutrientes a los músculos activos",
-            "Porque el cuerpo intenta enfriar la ropa",
             "Porque los huesos se encogen",
+            "Porque el cuerpo intenta enfriar la ropa",
+            "Para enviar más sangre con oxígeno y nutrientes a los músculos activos",
             "Para producir más lágrimas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Al ejercitarnos, los músculos consumen más oxígeno, por lo que el corazón bombea sangre más rápido para abastecerlos.",
           "points": 10
         },
@@ -198,12 +198,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar de su cuerpo colocó Lucas los dedos para sentir su pulso?",
           "options": [
+            "En el tobillo derecho",
             "Sobre su muñeca izquierda",
             "En la punta de la nariz",
-            "En el tobillo derecho",
             "En el codo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Lucas colocó dos dedos en su muñeca izquierda para percibir las pulsaciones de sus arterias.",
           "points": 10
         },
@@ -212,12 +212,12 @@
           "type": "educational_concept",
           "question": "¿A través de qué conductos viaja la sangre impulsada por el corazón por todo el organismo?",
           "options": [
-            "Venas y arterias",
-            "Huesos y articulaciones",
             "Tráquea y bronquios",
-            "Tendones y cartílagos"
+            "Huesos y articulaciones",
+            "Tendones y cartílagos",
+            "Venas y arterias"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El sistema circulatorio conduce la sangre a través de los vasos sanguíneos formados por arterias y venas.",
           "points": 10
         }
@@ -275,12 +275,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar del cuerpo humano comienza formalmente el proceso de la digestión?",
           "options": [
-            "En la boca, con los dientes y la saliva",
-            "En las rodillas",
             "En el estómago directamente",
-            "En la punta de la nariz"
+            "En la punta de la nariz",
+            "En la boca, con los dientes y la saliva",
+            "En las rodillas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La digestión empieza al masticar y humedecer los alimentos con la saliva en la boca.",
           "points": 10
         },
@@ -290,9 +290,9 @@
           "question": "¿Cuál es la función principal del intestino delgado?",
           "options": [
             "Absorber los nutrientes de los alimentos y enviarlos a la sangre",
-            "Masticar la comida dura",
             "Enfriar la temperatura del aire",
-            "Almacenar pensamientos"
+            "Almacenar pensamientos",
+            "Masticar la comida dura"
           ],
           "correct_answer": 0,
           "explanation": "El intestino delgado se encarga de absorber las vitaminas, minerales y nutrientes digeridos para nutrir el organismo.",
@@ -303,12 +303,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué conducto desciende el bocado de comida desde la boca hasta el estómago?",
           "options": [
-            "Por el esófago",
             "Por los pulmones",
             "Por la médula espinal",
-            "Por la arteria carótida"
+            "Por la arteria carótida",
+            "Por el esófago"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El esófago es el tubo muscular que transporta los alimentos masticados hacia el estómago.",
           "points": 10
         },
@@ -317,12 +317,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucede en el intestino grueso con los restos que el cuerpo no absorbió?",
           "options": [
+            "Se disuelven en los músculos del brazo",
             "Se recupera agua y se compactan los desechos para ser expulsados",
             "Se transforman en aire para respirar",
-            "Se disuelven en los músculos del brazo",
             "Vuelven a subir a la boca"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El intestino grueso reabsorbe líquidos y prepara los residuos no digeridos para su eliminación del cuerpo.",
           "points": 10
         }
@@ -380,12 +380,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué no era suficiente que Sofía se enjuagara solo con agua?",
           "options": [
-            "Porque los microbios invisibles siguen adheridos a la piel sin la acción del jabón",
             "Porque el agua estaba demasiado caliente",
+            "Porque el agua sola ensucia más",
             "Porque sus manos iban a oler mal",
-            "Porque el agua sola ensucia más"
+            "Porque los microbios invisibles siguen adheridos a la piel sin la acción del jabón"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El agua por sí sola no descompone la grasa ni despega los microorganismos patógenos; requiere jabón.",
           "points": 10
         },
@@ -394,12 +394,12 @@
           "type": "educational_concept",
           "question": "¿Cómo ayuda el jabón a eliminar virus y bacterias de las manos?",
           "options": [
-            "Descompone su capa protectora externa y los atrapa en burbujas para que el agua los arrastre",
-            "Los alimenta para que crezcan",
+            "Los pinta de color azul",
             "Los congela en cubos de hielo",
-            "Los pinta de color azul"
+            "Descompone su capa protectora externa y los atrapa en burbujas para que el agua los arrastre",
+            "Los alimenta para que crezcan"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Las moléculas de jabón disuelven la membrana grasa de los microbios y permiten que el agua corriente los desplace.",
           "points": 10
         },
@@ -408,12 +408,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué fruta iba a comer Sofía antes de que su papá le pidiera lavarse las manos?",
           "options": [
-            "Rodajas de sandía fresca",
             "Un racimo de uvas verdes",
-            "Una ensalada de manzanas",
-            "Una naranja entera"
+            "Rodajas de sandía fresca",
+            "Una naranja entera",
+            "Una ensalada de manzanas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Sofía se disponía a merendar rodajas de sandía luego de jugar en el jardín.",
           "points": 10
         },
@@ -423,9 +423,9 @@
           "question": "¿Cuánto tiempo como mínimo se recomienda frotarse las manos con agua y jabón para una limpieza efectiva?",
           "options": [
             "Al menos 20 segundos",
-            "Solo 2 segundos rápidos",
+            "1 segundo con agua fría",
             "30 minutos continuos",
-            "1 segundo con agua fría"
+            "Solo 2 segundos rápidos"
           ],
           "correct_answer": 0,
           "explanation": "Frotarse las manos durante al menos 20 segundos asegura que la espuma desintegre la suciedad y los microorganismos.",

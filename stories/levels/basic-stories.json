@@ -55,12 +55,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué Riley tuvo que ir al consultorio del dentista?",
           "options": [
-            "Porque mordió con fuerza un caramelo duro y se lastimó un diente",
             "Porque quería comprar juguetes",
+            "Porque mordió con fuerza un caramelo duro y se lastimó un diente",
             "Porque perdió su mochila en el parque",
             "Porque tenía sueño"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Riley mordió un caramelo duro que dañó la superficie de su diente, por lo que necesitó revisión médica.",
           "points": 10
         },
@@ -69,12 +69,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se llama la capa exterior dura que protege a los dientes de bacterias y golpes?",
           "options": [
-            "Esmalte dental",
             "Músculo",
             "Piel bucal",
-            "Cartílago"
+            "Cartílago",
+            "Esmalte dental"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El esmalte dental es la capa externa y mineralizada que protege el interior del diente.",
           "points": 10
         },
@@ -84,8 +84,8 @@
           "question": "¿Qué objeto especial le regaló el dentista a Riley al finalizar la consulta?",
           "options": [
             "Un cepillo de dientes nuevo",
-            "Una bolsa de caramelos masticables",
             "Un espejo de aumento",
+            "Una bolsa de caramelos masticables",
             "Un libro de colorear"
           ],
           "correct_answer": 0,
@@ -97,12 +97,12 @@
           "type": "educational_concept",
           "question": "¿Por qué el consumo excesivo de azúcar puede dañar los dientes?",
           "options": [
-            "Porque alimenta bacterias que producen ácidos y forman caries",
-            "Porque cambia el color de los huesos del cuerpo",
             "Porque enfría de golpe la garganta",
+            "Porque cambia el color de los huesos del cuerpo",
+            "Porque alimenta bacterias que producen ácidos y forman caries",
             "Porque debilita las uñas de las manos"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Las bacterias bucales consumen los restos de azúcar y generan ácidos que desgastan el esmalte, formando caries.",
           "points": 10
         }
@@ -161,9 +161,9 @@
           "question": "¿Qué actividad estaba haciendo Lucas antes de sentir sus latidos acelerados?",
           "options": [
             "Jugando una carrera con la pelota en el parque",
+            "Pintando un cuadro con acuarelas",
             "Durmiendo una siesta en su cama",
-            "Leyendo un libro en la biblioteca",
-            "Pintando un cuadro con acuarelas"
+            "Leyendo un libro en la biblioteca"
           ],
           "correct_answer": 0,
           "explanation": "Lucas corría velozmente tras la pelota en el parque, lo que exigió más energía a sus músculos.",
@@ -174,12 +174,12 @@
           "type": "educational_concept",
           "question": "¿Por qué el corazón late con mayor rapidez cuando realizamos ejercicio intenso?",
           "options": [
-            "Para enviar más sangre con oxígeno y nutrientes a los músculos activos",
-            "Porque el cuerpo intenta enfriar la ropa",
             "Porque los huesos se encogen",
+            "Porque el cuerpo intenta enfriar la ropa",
+            "Para enviar más sangre con oxígeno y nutrientes a los músculos activos",
             "Para producir más lágrimas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Al ejercitarnos, los músculos consumen más oxígeno, por lo que el corazón bombea sangre más rápido para abastecerlos.",
           "points": 10
         },
@@ -188,12 +188,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar de su cuerpo colocó Lucas los dedos para sentir su pulso?",
           "options": [
+            "En el tobillo derecho",
             "Sobre su muñeca izquierda",
             "En la punta de la nariz",
-            "En el tobillo derecho",
             "En el codo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Lucas colocó dos dedos en su muñeca izquierda para percibir las pulsaciones de sus arterias.",
           "points": 10
         },
@@ -202,12 +202,12 @@
           "type": "educational_concept",
           "question": "¿A través de qué conductos viaja la sangre impulsada por el corazón por todo el organismo?",
           "options": [
-            "Venas y arterias",
-            "Huesos y articulaciones",
             "Tráquea y bronquios",
-            "Tendones y cartílagos"
+            "Huesos y articulaciones",
+            "Tendones y cartílagos",
+            "Venas y arterias"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El sistema circulatorio conduce la sangre a través de los vasos sanguíneos formados por arterias y venas.",
           "points": 10
         }
@@ -265,12 +265,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar del cuerpo humano comienza formalmente el proceso de la digestión?",
           "options": [
-            "En la boca, con los dientes y la saliva",
-            "En las rodillas",
             "En el estómago directamente",
-            "En la punta de la nariz"
+            "En la punta de la nariz",
+            "En la boca, con los dientes y la saliva",
+            "En las rodillas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La digestión empieza al masticar y humedecer los alimentos con la saliva en la boca.",
           "points": 10
         },
@@ -280,9 +280,9 @@
           "question": "¿Cuál es la función principal del intestino delgado?",
           "options": [
             "Absorber los nutrientes de los alimentos y enviarlos a la sangre",
-            "Masticar la comida dura",
             "Enfriar la temperatura del aire",
-            "Almacenar pensamientos"
+            "Almacenar pensamientos",
+            "Masticar la comida dura"
           ],
           "correct_answer": 0,
           "explanation": "El intestino delgado se encarga de absorber las vitaminas, minerales y nutrientes digeridos para nutrir el organismo.",
@@ -293,12 +293,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué conducto desciende el bocado de comida desde la boca hasta el estómago?",
           "options": [
-            "Por el esófago",
             "Por los pulmones",
             "Por la médula espinal",
-            "Por la arteria carótida"
+            "Por la arteria carótida",
+            "Por el esófago"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El esófago es el tubo muscular que transporta los alimentos masticados hacia el estómago.",
           "points": 10
         },
@@ -307,12 +307,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucede en el intestino grueso con los restos que el cuerpo no absorbió?",
           "options": [
+            "Se disuelven en los músculos del brazo",
             "Se recupera agua y se compactan los desechos para ser expulsados",
             "Se transforman en aire para respirar",
-            "Se disuelven en los músculos del brazo",
             "Vuelven a subir a la boca"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El intestino grueso reabsorbe líquidos y prepara los residuos no digeridos para su eliminación del cuerpo.",
           "points": 10
         }
@@ -370,12 +370,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué no era suficiente que Sofía se enjuagara solo con agua?",
           "options": [
-            "Porque los microbios invisibles siguen adheridos a la piel sin la acción del jabón",
             "Porque el agua estaba demasiado caliente",
+            "Porque el agua sola ensucia más",
             "Porque sus manos iban a oler mal",
-            "Porque el agua sola ensucia más"
+            "Porque los microbios invisibles siguen adheridos a la piel sin la acción del jabón"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El agua por sí sola no descompone la grasa ni despega los microorganismos patógenos; requiere jabón.",
           "points": 10
         },
@@ -384,12 +384,12 @@
           "type": "educational_concept",
           "question": "¿Cómo ayuda el jabón a eliminar virus y bacterias de las manos?",
           "options": [
-            "Descompone su capa protectora externa y los atrapa en burbujas para que el agua los arrastre",
-            "Los alimenta para que crezcan",
+            "Los pinta de color azul",
             "Los congela en cubos de hielo",
-            "Los pinta de color azul"
+            "Descompone su capa protectora externa y los atrapa en burbujas para que el agua los arrastre",
+            "Los alimenta para que crezcan"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Las moléculas de jabón disuelven la membrana grasa de los microbios y permiten que el agua corriente los desplace.",
           "points": 10
         },
@@ -398,12 +398,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué fruta iba a comer Sofía antes de que su papá le pidiera lavarse las manos?",
           "options": [
-            "Rodajas de sandía fresca",
             "Un racimo de uvas verdes",
-            "Una ensalada de manzanas",
-            "Una naranja entera"
+            "Rodajas de sandía fresca",
+            "Una naranja entera",
+            "Una ensalada de manzanas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Sofía se disponía a merendar rodajas de sandía luego de jugar en el jardín.",
           "points": 10
         },
@@ -413,9 +413,9 @@
           "question": "¿Cuánto tiempo como mínimo se recomienda frotarse las manos con agua y jabón para una limpieza efectiva?",
           "options": [
             "Al menos 20 segundos",
-            "Solo 2 segundos rápidos",
+            "1 segundo con agua fría",
             "30 minutos continuos",
-            "1 segundo con agua fría"
+            "Solo 2 segundos rápidos"
           ],
           "correct_answer": 0,
           "explanation": "Frotarse las manos durante al menos 20 segundos asegura que la espuma desintegre la suciedad y los microorganismos.",
@@ -475,12 +475,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué el árbol centenario fue llevado a la reserva ecológica?",
           "options": [
-            "Porque necesitaba más espacio para sus ramas y dar refugio a animales",
-            "Porque estaba seco y no tenía hojas",
+            "Porque el viento lo derribó",
             "Porque Mateo quería jugar en el parque",
-            "Porque el viento lo derribó"
+            "Porque necesitaba más espacio para sus ramas y dar refugio a animales",
+            "Porque estaba seco y no tenía hojas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El árbol fue trasladado para que pudiera seguir creciendo y albergando a aves y ardillas con mayor libertad.",
           "points": 10
         },
@@ -489,12 +489,12 @@
           "type": "educational_concept",
           "question": "¿Cuál es la función principal de las raíces de los árboles en el suelo?",
           "options": [
-            "Sujetar la tierra para evitar que el agua y el viento la desgasten (erosión)",
-            "Hacer que el suelo sea más frío",
             "Cambiar el color de las piedras",
-            "Atrapar la luz del sol debajo de la tierra"
+            "Hacer que el suelo sea más frío",
+            "Atrapar la luz del sol debajo de la tierra",
+            "Sujetar la tierra para evitar que el agua y el viento la desgasten (erosión)"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
           "points": 10
         },
@@ -504,9 +504,9 @@
           "question": "¿Qué prometió hacer Mateo el siguiente fin de semana en el parque de su comunidad?",
           "options": [
             "Ayudar a plantar tres árboles jóvenes",
-            "Construir una casa de madera en la colina",
+            "Comprar una bicicleta nueva",
             "Pintar los bancos del parque",
-            "Comprar una bicicleta nueva"
+            "Construir una casa de madera en la colina"
           ],
           "correct_answer": 0,
           "explanation": "Mateo se comprometió a sembrar tres árboles jóvenes para renovar el área verde del parque.",
@@ -517,12 +517,12 @@
           "type": "educational_concept",
           "question": "¿Qué gas indispensable para la respiración de los seres vivos liberan los árboles durante la fotosíntesis?",
           "options": [
-            "Oxígeno limpio",
-            "Gas metano",
             "Helio",
-            "Vapor de mercurio"
+            "Oxígeno limpio",
+            "Vapor de mercurio",
+            "Gas metano"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Durante la fotosíntesis, los árboles absorben dióxido de carbono y expulsan oxígeno fresco a la atmósfera.",
           "points": 10
         }
@@ -581,9 +581,9 @@
           "question": "¿Qué transportaba la abeja en sus patas traseras mientras visitaba las flores?",
           "options": [
             "Polvo dorado de polen",
-            "Gotas de lluvia",
             "Tierra negra para su nido",
-            "Semillas de pasto"
+            "Semillas de pasto",
+            "Gotas de lluvia"
           ],
           "correct_answer": 0,
           "explanation": "La abeja llevaba polen adherido a sus patas traseras tras libar néctar dentro de la flor.",
@@ -594,12 +594,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucedería con la producción de frutos si los polinizadores dejaran de existir?",
           "options": [
-            "Muchas plantas no podrían reproducirse ni formar frutas y semillas",
-            "Los árboles crecerían el doble de rápido",
             "Todas las flores se volverían de color verde",
-            "El agua de lluvia desaparecería de los campos"
+            "El agua de lluvia desaparecería de los campos",
+            "Muchas plantas no podrían reproducirse ni formar frutas y semillas",
+            "Los árboles crecerían el doble de rápido"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La polinización es esencial para que las flores fertilicen y se transformen en frutos con semillas.",
           "points": 10
         },
@@ -608,12 +608,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué forma geométrica tiene el baile con el que las abejas informan la ubicación de las flores?",
           "options": [
-            "Forma del número ocho",
             "Forma de cuadrado",
+            "Triángulo invertido",
             "Círculo simple",
-            "Triángulo invertido"
+            "Forma del número ocho"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Las abejas ejecutan una danza en forma de ocho que transmite dirección y distancia hacia el néctar.",
           "points": 10
         },
@@ -622,12 +622,12 @@
           "type": "educational_concept",
           "question": "¿Qué práctica humana ayuda a proteger las poblaciones de insectos polinizadores?",
           "options": [
-            "Sembrar flores nativas variadas y evitar pesticidas químicos nocivos",
             "Eliminar todas las plantas silvestres",
+            "Sembrar flores nativas variadas y evitar pesticidas químicos nocivos",
             "Encender fogatas cerca de las flores",
             "Cubrir los campos con plástico negro"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Cuidar la vegetación nativa y reducir agroquímicos asegura fuentes de néctar libres de veneno para las abejas.",
           "points": 10
         }
@@ -685,12 +685,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué provocó que la gota Plim se derritiera en la cumbre del glaciar para iniciar su viaje?",
           "options": [
-            "El calor del sol durante el verano",
             "El peso de una piedra",
+            "El calor del sol durante el verano",
             "La llegada del invierno",
             "El viento de la noche"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El calor solar derritió el hielo y permitió que el agua líquida fluyera ladera abajo.",
           "points": 10
         },
@@ -713,12 +713,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar se inició el viaje de la gota Plim?",
           "options": [
-            "En la cumbre helada de un glaciar",
             "En el fondo del mar profundo",
-            "En una piscina de hotel",
-            "En un pozo subterráneo"
+            "En un pozo subterráneo",
+            "En la cumbre helada de un glaciar",
+            "En una piscina de hotel"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Plim se encontraba en estado sólido de hielo en lo alto de un glaciar montañoso.",
           "points": 10
         },
@@ -727,12 +727,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se denomina la etapa del ciclo hidrológico cuando el vapor en las nubes se enfría y cae a la tierra como lluvia?",
           "options": [
-            "Precipitación",
-            "Combustión",
             "Oxidación",
-            "Infiltración profunda"
+            "Combustión",
+            "Infiltración profunda",
+            "Precipitación"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La precipitación es la caída de agua en forma líquida (lluvia) o sólida (nieve/granizo) desde la atmósfera hacia la superficie.",
           "points": 10
         }
@@ -790,12 +790,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué materiales colocaba la abuela en el cajón de madera para alimentar a las lombrices?",
           "options": [
-            "Cáscaras de plátano, hojas secas y restos vegetales",
-            "Botellas plásticas vacías",
             "Juguetes rotos y alambres",
-            "Bolsas de cartón con pegamento"
+            "Bolsas de cartón con pegamento",
+            "Cáscaras de plátano, hojas secas y restos vegetales",
+            "Botellas plásticas vacías"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El compost se elabora únicamente con residuos orgánicos biodegradables como frutas, vegetales y hojas secas.",
           "points": 10
         },
@@ -804,12 +804,12 @@
           "type": "educational_concept",
           "question": "¿Cuál es la función principal de los organismos descomponedores como las lombrices y hongos en el suelo?",
           "options": [
-            "Transformar la materia orgánica muerta en nutrientes asimilables para las plantas",
-            "Endurecer la tierra para que no crezcan raíces",
             "Eliminar toda el agua del suelo",
-            "Evitar que las plantas reciban luz solar"
+            "Evitar que las plantas reciban luz solar",
+            "Endurecer la tierra para que no crezcan raíces",
+            "Transformar la materia orgánica muerta en nutrientes asimilables para las plantas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Los descomponedores degradan los restos orgánicos devolviendo minerales y nutrientes esenciales a la tierra fértil.",
           "points": 10
         },
@@ -818,12 +818,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué fruto sembraron Leo y su abuela en macetas usando la tierra fértil de compost?",
           "options": [
+            "Espinacas gigantes",
             "Plantas de tomates",
             "Árboles de manzanas",
-            "Pinos de navidad",
-            "Espinacas gigantes"
+            "Pinos de navidad"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Utilizaron el abono natural obtenido para nutrir la siembra de tomates en macetas.",
           "points": 10
         },
@@ -896,8 +896,8 @@
           "question": "¿Qué objeto inspiró a Kael para facilitar el transporte de la carga?",
           "options": [
             "Un tronco redondo que rodaba por la colina",
-            "Una roca gigante cuadrada",
             "Un bote de remos",
+            "Una roca gigante cuadrada",
             "Una soga de cáñamo"
           ],
           "correct_answer": 0,
@@ -909,12 +909,12 @@
           "type": "educational_concept",
           "question": "¿Cuál fue el principal beneficio de la invención de la rueda para la humanidad?",
           "options": [
-            "Permitió mover grandes pesos con mucho menor esfuerzo",
             "Ayudó a que lloviera más seguido",
-            "Servía para enfriar los alimentos",
-            "Hizo que los ríos tuvieran más peces"
+            "Hizo que los ríos tuvieran más peces",
+            "Permitió mover grandes pesos con mucho menor esfuerzo",
+            "Servía para enfriar los alimentos"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La rueda transformó el arrastre en rodadura, multiplicando la capacidad de transporte humano y comercial.",
           "points": 10
         },
@@ -923,12 +923,12 @@
           "type": "reading_comprehension",
           "question": "¿A orillas de qué histórico río vivía Kael junto a su familia?",
           "options": [
-            "Río Éufrates en Mesopotamia",
-            "Río Amazonas",
             "Río Danubio",
-            "Río Misisipi"
+            "Río Éufrates en Mesopotamia",
+            "Río Misisipi",
+            "Río Amazonas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Kael habitaba en la región de Mesopotamia junto al río Éufrates.",
           "points": 10
         },
@@ -937,12 +937,12 @@
           "type": "educational_concept",
           "question": "¿Para qué se utilizaban las primeras ruedas conocidas antes de ser empleadas en carretas de transporte?",
           "options": [
-            "Para tornos de alfarería y modelado de vasijas de arcilla",
-            "Para ruedas de bicicleta",
             "Para molinos de viento modernos",
-            "Para relojes de pared"
+            "Para relojes de pared",
+            "Para ruedas de bicicleta",
+            "Para tornos de alfarería y modelado de vasijas de arcilla"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Los primeros registros arqueológicos de la rueda corresponden al torno del alfarero para moldear cerámica.",
           "points": 10
         }
@@ -1000,12 +1000,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto utilizó Valeria para llevar la luz del sol hasta el rincón oscuro?",
           "options": [
-            "Un espejo de mano",
-            "Un pedazo de cartón",
+            "Una bufanda de lana",
             "Una lupa de aumento",
-            "Una bufanda de lana"
+            "Un pedazo de cartón",
+            "Un espejo de mano"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Valeria usó un espejo de mano para hacer rebotar la luz del sol en la dirección deseada.",
           "points": 10
         },
@@ -1014,12 +1014,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se llama el fenómeno por el cual la luz rebota al chocar contra una superficie pulida?",
           "options": [
+            "Evaporación",
             "Reflexión",
             "Combustión",
-            "Erosión",
-            "Evaporación"
+            "Erosión"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La reflexión es el cambio de dirección que experimenta un rayo de luz al chocar con una superficie reflectante.",
           "points": 10
         },
@@ -1028,12 +1028,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué rincón de su habitación quería iluminar Valeria al comienzo de la historia?",
           "options": [
-            "La casita de muñecas en la esquina oscura",
-            "El fondo del armario de ropa",
+            "El techo del pasillo",
             "Debajo de su cama",
-            "El techo del pasillo"
+            "La casita de muñecas en la esquina oscura",
+            "El fondo del armario de ropa"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Valeria deseaba llevar la luz solar hacia la casita de juguetes que estaba en una esquina sin iluminación.",
           "points": 10
         },
@@ -1043,9 +1043,9 @@
           "question": "¿Qué ley óptica describe el comportamiento de la luz cuando rebota en un espejo plano?",
           "options": [
             "El ángulo de incidencia es igual al ángulo de reflexión",
-            "La luz siempre se vuelve de color azul",
             "Los rayos se doblan en espiral",
-            "La velocidad de la luz se reduce a cero"
+            "La velocidad de la luz se reduce a cero",
+            "La luz siempre se vuelve de color azul"
           ],
           "correct_answer": 0,
           "explanation": "En la reflexión especular, el ángulo de entrada del haz luminoso coincide exactamente con el ángulo de rebote.",
@@ -1105,12 +1105,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto representaba a la Tierra en el experimento de Sara?",
           "options": [
+            "Un libro de cuentos",
             "Una naranja atravesada con un palito",
             "La lámpara de mesa",
-            "Un libro de cuentos",
             "Una pelota de cristal"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Sara usó la naranja con un palito como eje para mostrar el giro de nuestro planeta.",
           "points": 10
         },
@@ -1119,12 +1119,12 @@
           "type": "educational_concept",
           "question": "¿Por qué se producen el día y la noche en la Tierra?",
           "options": [
-            "Porque la Tierra gira sobre su eje (rotación), exponiendo una mitad a la luz y la otra a la sombra",
-            "Porque el Sol se apaga y se vuelve a encender cada doce horas",
             "Porque las nubes tapan todo el cielo al caer la tarde",
-            "Porque la Luna absorbe toda la luz del Sol"
+            "Porque la Luna absorbe toda la luz del Sol",
+            "Porque la Tierra gira sobre su eje (rotación), exponiendo una mitad a la luz y la otra a la sombra",
+            "Porque el Sol se apaga y se vuelve a encender cada doce horas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El movimiento de rotación expone alternadamente cada hemisferio a la radiación solar.",
           "points": 10
         },
@@ -1133,12 +1133,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué elemento pegó Sara en la naranja para simular el lugar donde vivía Martín?",
           "options": [
-            "Una pequeña calcomanía azul",
-            "Una moneda dorada",
+            "Una tachuela plateada",
             "Un botón negro",
-            "Una tachuela plateada"
+            "Una moneda dorada",
+            "Una pequeña calcomanía azul"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Sara pegó una calcomanía azul en el costado de la naranja para seguir su posición con la luz.",
           "points": 10
         },
@@ -1149,8 +1149,8 @@
           "options": [
             "24 horas (un día terrestre)",
             "365 días (un año)",
-            "12 horas justas",
-            "30 días (un mes)"
+            "30 días (un mes)",
+            "12 horas justas"
           ],
           "correct_answer": 0,
           "explanation": "La rotación completa del planeta dura 24 horas, definiendo el ciclo de un día y una noche.",
@@ -1211,9 +1211,9 @@
           "question": "¿Qué objeto antiguo encontró Luna en la cima de la colina?",
           "options": [
             "Una brújula de bronce y un mapa",
-            "Un libro de cuentos",
+            "Un catalejo",
             "Un reloj de arena",
-            "Un catalejo"
+            "Un libro de cuentos"
           ],
           "correct_answer": 0,
           "explanation": "Luna encontró una caja de madera que resguardaba una brújula y un mapa antiguo.",
@@ -1224,12 +1224,12 @@
           "type": "educational_concept",
           "question": "¿Hacia qué dirección apunta siempre la aguja magnética de una brújula?",
           "options": [
-            "Hacia el Norte",
-            "Hacia donde sopla el viento",
             "Hacia el Oeste",
-            "Hacia el punto más alto de una montaña"
+            "Hacia el punto más alto de una montaña",
+            "Hacia donde sopla el viento",
+            "Hacia el Norte"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La aguja magnética de la brújula se alinea con el campo magnético terrestre y apunta siempre al Norte.",
           "points": 10
         },
@@ -1238,12 +1238,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué punto cardinal vio Luna ocultarse el Sol al caer el atardecer?",
           "options": [
-            "Por el Oeste",
-            "Por el Norte",
+            "Por el Este",
             "Por el Sur",
-            "Por el Este"
+            "Por el Oeste",
+            "Por el Norte"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El Sol siempre se oculta en el horizonte por el punto cardinal Oeste.",
           "points": 10
         },
@@ -1252,12 +1252,12 @@
           "type": "educational_concept",
           "question": "¿Por qué razón física la Tierra actúa como un gigantesco imán natural?",
           "options": [
+            "Por la atracción gravitatoria de la Luna",
             "Por los metales líquidos en movimiento dentro de su núcleo interno",
             "Por el agua salada de los océanos",
-            "Por el calor de los volcanes de la superficie",
-            "Por la atracción gravitatoria de la Luna"
+            "Por el calor de los volcanes de la superficie"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La rotación de minerales y hierro fundido en el núcleo terrestre genera el campo magnético del planeta.",
           "points": 10
         }
@@ -1315,12 +1315,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué cambio hicieron en el subibaja para que Nico pudiera levantar a su hermano mayor?",
           "options": [
-            "Gabriel se sentó más cerca del centro y Nico se quedó en el extremo",
-            "Pusieron piedras pesadas en el asiento de Gabriel",
             "Nico saltó con una cuerda",
-            "Cambiaron la madera por una barra de hierro"
+            "Cambiaron la madera por una barra de hierro",
+            "Gabriel se sentó más cerca del centro y Nico se quedó en el extremo",
+            "Pusieron piedras pesadas en el asiento de Gabriel"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Al reducir la distancia de Gabriel al fulcro y maximizar la de Nico, la fuerza de Nico se multiplicó.",
           "points": 10
         },
@@ -1329,12 +1329,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucede con la fuerza cuando te sientas más lejos del punto de apoyo en una palanca?",
           "options": [
-            "Se multiplica, requiriendo menos esfuerzo para levantar el peso del otro lado",
             "Desaparece por completo",
             "Hace que la tabla se rompa al instante",
-            "La tabla deja de girar"
+            "La tabla deja de girar",
+            "Se multiplica, requiriendo menos esfuerzo para levantar el peso del otro lado"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "A mayor longitud del brazo de palanca respecto al fulcro, mayor ventaja mecánica para elevar una carga.",
           "points": 10
         },
@@ -1343,12 +1343,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué profesión tenía la tía Laura que ayudó a resolver el juego en el balancín?",
           "options": [
-            "Ingeniera civil",
-            "Astrónoma",
             "Veterinaria",
-            "Pintora artística"
+            "Ingeniera civil",
+            "Pintora artística",
+            "Astrónoma"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La tía Laura era ingeniera civil y conocía la física detrás de las máquinas simples.",
           "points": 10
         },
@@ -1358,9 +1358,9 @@
           "question": "¿Qué célebre sabio griego expresó: 'Denme una palanca lo suficientemente larga y un punto de apoyo, y moveré el mundo'?",
           "options": [
             "Arquímedes",
-            "Sócrates",
+            "Platón",
             "Pitágoras",
-            "Platón"
+            "Sócrates"
           ],
           "correct_answer": 0,
           "explanation": "Arquímedes formuló los principios teóricos de la palanca y la ventaja mecánica en la antigua Grecia.",

@@ -65,12 +65,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué el árbol centenario fue llevado a la reserva ecológica?",
           "options": [
-            "Porque necesitaba más espacio para sus ramas y dar refugio a animales",
-            "Porque estaba seco y no tenía hojas",
+            "Porque el viento lo derribó",
             "Porque Mateo quería jugar en el parque",
-            "Porque el viento lo derribó"
+            "Porque necesitaba más espacio para sus ramas y dar refugio a animales",
+            "Porque estaba seco y no tenía hojas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El árbol fue trasladado para que pudiera seguir creciendo y albergando a aves y ardillas con mayor libertad.",
           "points": 10
         },
@@ -79,12 +79,12 @@
           "type": "educational_concept",
           "question": "¿Cuál es la función principal de las raíces de los árboles en el suelo?",
           "options": [
-            "Sujetar la tierra para evitar que el agua y el viento la desgasten (erosión)",
-            "Hacer que el suelo sea más frío",
             "Cambiar el color de las piedras",
-            "Atrapar la luz del sol debajo de la tierra"
+            "Hacer que el suelo sea más frío",
+            "Atrapar la luz del sol debajo de la tierra",
+            "Sujetar la tierra para evitar que el agua y el viento la desgasten (erosión)"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Las raíces forman una red que fija la tierra y evita la erosión, reteniendo agua y nutrientes esenciales.",
           "points": 10
         },
@@ -94,9 +94,9 @@
           "question": "¿Qué prometió hacer Mateo el siguiente fin de semana en el parque de su comunidad?",
           "options": [
             "Ayudar a plantar tres árboles jóvenes",
-            "Construir una casa de madera en la colina",
+            "Comprar una bicicleta nueva",
             "Pintar los bancos del parque",
-            "Comprar una bicicleta nueva"
+            "Construir una casa de madera en la colina"
           ],
           "correct_answer": 0,
           "explanation": "Mateo se comprometió a sembrar tres árboles jóvenes para renovar el área verde del parque.",
@@ -107,12 +107,12 @@
           "type": "educational_concept",
           "question": "¿Qué gas indispensable para la respiración de los seres vivos liberan los árboles durante la fotosíntesis?",
           "options": [
-            "Oxígeno limpio",
-            "Gas metano",
             "Helio",
-            "Vapor de mercurio"
+            "Oxígeno limpio",
+            "Vapor de mercurio",
+            "Gas metano"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Durante la fotosíntesis, los árboles absorben dióxido de carbono y expulsan oxígeno fresco a la atmósfera.",
           "points": 10
         }
@@ -171,9 +171,9 @@
           "question": "¿Qué transportaba la abeja en sus patas traseras mientras visitaba las flores?",
           "options": [
             "Polvo dorado de polen",
-            "Gotas de lluvia",
             "Tierra negra para su nido",
-            "Semillas de pasto"
+            "Semillas de pasto",
+            "Gotas de lluvia"
           ],
           "correct_answer": 0,
           "explanation": "La abeja llevaba polen adherido a sus patas traseras tras libar néctar dentro de la flor.",
@@ -184,12 +184,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucedería con la producción de frutos si los polinizadores dejaran de existir?",
           "options": [
-            "Muchas plantas no podrían reproducirse ni formar frutas y semillas",
-            "Los árboles crecerían el doble de rápido",
             "Todas las flores se volverían de color verde",
-            "El agua de lluvia desaparecería de los campos"
+            "El agua de lluvia desaparecería de los campos",
+            "Muchas plantas no podrían reproducirse ni formar frutas y semillas",
+            "Los árboles crecerían el doble de rápido"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La polinización es esencial para que las flores fertilicen y se transformen en frutos con semillas.",
           "points": 10
         },
@@ -198,12 +198,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué forma geométrica tiene el baile con el que las abejas informan la ubicación de las flores?",
           "options": [
-            "Forma del número ocho",
             "Forma de cuadrado",
+            "Triángulo invertido",
             "Círculo simple",
-            "Triángulo invertido"
+            "Forma del número ocho"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Las abejas ejecutan una danza en forma de ocho que transmite dirección y distancia hacia el néctar.",
           "points": 10
         },
@@ -212,12 +212,12 @@
           "type": "educational_concept",
           "question": "¿Qué práctica humana ayuda a proteger las poblaciones de insectos polinizadores?",
           "options": [
-            "Sembrar flores nativas variadas y evitar pesticidas químicos nocivos",
             "Eliminar todas las plantas silvestres",
+            "Sembrar flores nativas variadas y evitar pesticidas químicos nocivos",
             "Encender fogatas cerca de las flores",
             "Cubrir los campos con plástico negro"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Cuidar la vegetación nativa y reducir agroquímicos asegura fuentes de néctar libres de veneno para las abejas.",
           "points": 10
         }
@@ -275,12 +275,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué provocó que la gota Plim se derritiera en la cumbre del glaciar para iniciar su viaje?",
           "options": [
-            "El calor del sol durante el verano",
             "El peso de una piedra",
+            "El calor del sol durante el verano",
             "La llegada del invierno",
             "El viento de la noche"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El calor solar derritió el hielo y permitió que el agua líquida fluyera ladera abajo.",
           "points": 10
         },
@@ -303,12 +303,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar se inició el viaje de la gota Plim?",
           "options": [
-            "En la cumbre helada de un glaciar",
             "En el fondo del mar profundo",
-            "En una piscina de hotel",
-            "En un pozo subterráneo"
+            "En un pozo subterráneo",
+            "En la cumbre helada de un glaciar",
+            "En una piscina de hotel"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Plim se encontraba en estado sólido de hielo en lo alto de un glaciar montañoso.",
           "points": 10
         },
@@ -317,12 +317,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se denomina la etapa del ciclo hidrológico cuando el vapor en las nubes se enfría y cae a la tierra como lluvia?",
           "options": [
-            "Precipitación",
-            "Combustión",
             "Oxidación",
-            "Infiltración profunda"
+            "Combustión",
+            "Infiltración profunda",
+            "Precipitación"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La precipitación es la caída de agua en forma líquida (lluvia) o sólida (nieve/granizo) desde la atmósfera hacia la superficie.",
           "points": 10
         }
@@ -380,12 +380,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué materiales colocaba la abuela en el cajón de madera para alimentar a las lombrices?",
           "options": [
-            "Cáscaras de plátano, hojas secas y restos vegetales",
-            "Botellas plásticas vacías",
             "Juguetes rotos y alambres",
-            "Bolsas de cartón con pegamento"
+            "Bolsas de cartón con pegamento",
+            "Cáscaras de plátano, hojas secas y restos vegetales",
+            "Botellas plásticas vacías"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El compost se elabora únicamente con residuos orgánicos biodegradables como frutas, vegetales y hojas secas.",
           "points": 10
         },
@@ -394,12 +394,12 @@
           "type": "educational_concept",
           "question": "¿Cuál es la función principal de los organismos descomponedores como las lombrices y hongos en el suelo?",
           "options": [
-            "Transformar la materia orgánica muerta en nutrientes asimilables para las plantas",
-            "Endurecer la tierra para que no crezcan raíces",
             "Eliminar toda el agua del suelo",
-            "Evitar que las plantas reciban luz solar"
+            "Evitar que las plantas reciban luz solar",
+            "Endurecer la tierra para que no crezcan raíces",
+            "Transformar la materia orgánica muerta en nutrientes asimilables para las plantas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Los descomponedores degradan los restos orgánicos devolviendo minerales y nutrientes esenciales a la tierra fértil.",
           "points": 10
         },
@@ -408,12 +408,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué fruto sembraron Leo y su abuela en macetas usando la tierra fértil de compost?",
           "options": [
+            "Espinacas gigantes",
             "Plantas de tomates",
             "Árboles de manzanas",
-            "Pinos de navidad",
-            "Espinacas gigantes"
+            "Pinos de navidad"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Utilizaron el abono natural obtenido para nutrir la siembra de tomates en macetas.",
           "points": 10
         },

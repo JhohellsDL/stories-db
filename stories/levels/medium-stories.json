@@ -55,12 +55,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué hacía el joven escriba a orillas del río Nilo?",
           "options": [
+            "Leía un periódico moderno",
             "Escribía jeroglíficos con tinta sobre un rollo de papiro",
             "Construía una barca de madera",
-            "Pintaba un cuadro al óleo",
-            "Leía un periódico moderno"
+            "Pintaba un cuadro al óleo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El escriba registraba datos y conocimientos dibujando jeroglíficos sobre papiro vegetal.",
           "points": 10
         },
@@ -69,12 +69,12 @@
           "type": "educational_concept",
           "question": "¿Por qué fue tan importante la invención de la escritura para la humanidad?",
           "options": [
-            "Porque permitió guardar y transmitir conocimientos a futuras generaciones",
             "Porque hacía que los libros pesaran más",
+            "Porque servía solo como adorno",
             "Porque reemplazó a todos los dibujos",
-            "Porque servía solo como adorno"
+            "Porque permitió guardar y transmitir conocimientos a futuras generaciones"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La escritura permitió conservar saberes científicos, historias y leyes sin depender únicamente de la memoria oral.",
           "points": 10
         },
@@ -83,12 +83,12 @@
           "type": "reading_comprehension",
           "question": "¿De qué planta ribereña del río Nilo elaboraban las láminas para escribir en el antiguo Egipto?",
           "options": [
-            "De la planta de papiro",
             "De hojas de eucalipto",
-            "De corteza de pino",
-            "De pétalos de rosa"
+            "De pétalos de rosa",
+            "De la planta de papiro",
+            "De corteza de pino"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Los antiguos egipcios extraían tiras del tallo del papiro para crear soportes de escritura resistentes.",
           "points": 10
         },
@@ -98,9 +98,9 @@
           "question": "¿Qué célebre biblioteca del mundo antiguo reunió miles de rollos y documentos de diversas culturas?",
           "options": [
             "La Biblioteca de Alejandría",
+            "La Biblioteca de Babel",
             "La Biblioteca del Congreso",
-            "La Biblioteca de Oxford",
-            "La Biblioteca de Babel"
+            "La Biblioteca de Oxford"
           ],
           "correct_answer": 0,
           "explanation": "La Biblioteca de Alejandría en Egipto fue el centro cultural más importante de la antigüedad para recopilar saberes universales.",
@@ -174,9 +174,9 @@
           "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
           "options": [
             "Una linterna de enfoque regulable",
+            "Una vela de cera",
             "Un espejo mágico",
-            "Una cámara de fotos",
-            "Una vela de cera"
+            "Una cámara de fotos"
           ],
           "correct_answer": 0,
           "explanation": "Adrián llevó una linterna de enfoque regulable para proyectar haces de luz controlados en los muros de piedra.",
@@ -187,12 +187,12 @@
           "type": "educational_concept",
           "question": "¿Por qué las sombras son mucho más largas al atardecer que al mediodía?",
           "options": [
-            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo",
-            "Porque la luz viaja más despacio en la tarde",
             "Porque el aire se enfría",
-            "Porque los objetos crecen de tamaño"
+            "Porque los objetos crecen de tamaño",
+            "Porque la luz viaja más despacio en la tarde",
+            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Al atardecer, el sol está bajo en el horizonte, lo que proyecta rayos inclinados que alargan la sombra detrás de los objetos opacos.",
           "points": 10
         },
@@ -201,12 +201,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucede con el tamaño de la sombra proyectada en la pared cuando Adrián acerca su mano hacia la linterna?",
           "options": [
-            "La sombra aumenta de tamaño en la pared",
-            "La sombra disminuye de tamaño en la pared",
+            "La sombra cambia de color a rojo",
             "La sombra desaparece de inmediato",
-            "La sombra cambia de color a rojo"
+            "La sombra aumenta de tamaño en la pared",
+            "La sombra disminuye de tamaño en la pared"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un cono mayor de rayos luminosos, proyectando una silueta más grande en la pared.",
           "points": 10
         },
@@ -215,12 +215,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se llama la región central de oscuridad total donde un cuerpo opaco bloquea por completo la fuente de luz?",
           "options": [
-            "Umbra",
             "Penumbra",
-            "Refracción",
-            "Foco difuso"
+            "Umbra",
+            "Foco difuso",
+            "Refracción"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La umbra es la zona de sombra completa donde no penetra ningún rayo directo de la fuente luminosa.",
           "points": 10
         }
@@ -278,12 +278,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué parecía que el lápiz estaba roto cuando estaba dentro del vaso?",
           "options": [
-            "Porque los rayos de luz se desviaron al pasar del agua al aire",
-            "Porque el agua disolvió la madera del lápiz",
+            "Porque la tinta del lápiz reaccionó con el agua",
             "Porque el vaso de vidrio estaba agrietado",
-            "Porque la tinta del lápiz reaccionó con el agua"
+            "Porque el agua disolvió la madera del lápiz",
+            "Porque los rayos de luz se desviaron al pasar del agua al aire"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La refracción desvía los rayos de luz que salen del agua hacia nuestros ojos, creando la ilusión óptica de que el objeto está quebrado.",
           "points": 10
         },
@@ -294,8 +294,8 @@
           "options": [
             "Disminuye su velocidad porque el agua es más densa que el aire",
             "Aumenta su velocidad al doble",
-            "La luz se detiene por completo y se apaga",
-            "Se transforma de inmediato en sonido"
+            "Se transforma de inmediato en sonido",
+            "La luz se detiene por completo y se apaga"
           ],
           "correct_answer": 0,
           "explanation": "En medios más densos como el agua o el vidrio, la luz viaja más despacio que en el aire o en el vacío.",
@@ -306,12 +306,12 @@
           "type": "reading_comprehension",
           "question": "¿Quién le explicó a Leo la causa científica detrás de la ilusión óptica del lápiz?",
           "options": [
-            "La profesora Clara",
-            "Un mago del circo",
+            "El chofer del autobús",
             "Su compañero Tomás",
-            "El chofer del autobús"
+            "La profesora Clara",
+            "Un mago del circo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La profesora Clara le explicó que el fenómeno correspondía a la refracción de la luz al cruzar medios distintos.",
           "points": 10
         },
@@ -320,12 +320,12 @@
           "type": "educational_concept",
           "question": "¿Qué instrumento óptico aprovecha la refracción de la luz a través de lentes curvas para mejorar la visión humana?",
           "options": [
-            "Los anteojos y gafas graduadas",
             "Los espejos planos de tocador",
-            "Las linternas de mano",
-            "Las pantallas de televisión"
+            "Los anteojos y gafas graduadas",
+            "Las pantallas de televisión",
+            "Las linternas de mano"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Las lentes refractan los rayos luminosos curvándolos para enfocar las imágenes nítidamente en la retina.",
           "points": 10
         }
@@ -383,12 +383,12 @@
           "type": "reading_comprehension",
           "question": "¿De dónde proviene el brillo que vemos en la Luna durante la noche?",
           "options": [
-            "De la luz del Sol que se refleja en su superficie rocosa",
-            "De miles de volcanes encendidos en su interior",
+            "Del calor de las estrellas lejanas",
             "De una bombilla instalada por los astronautas",
-            "Del calor de las estrellas lejanas"
+            "De miles de volcanes encendidos en su interior",
+            "De la luz del Sol que se refleja en su superficie rocosa"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La Luna es un cuerpo opaco que actúa como un gigantesco reflector de la radiación solar.",
           "points": 10
         },
@@ -398,9 +398,9 @@
           "question": "¿Por qué observamos diferentes fases lunares a lo largo del mes?",
           "options": [
             "Porque la Luna orbita la Tierra y vemos distintas porciones de su cara iluminada",
+            "Porque las nubes borran pedazos de la Luna con tinta",
             "Porque la Tierra tapa al Sol todas las noches",
-            "Porque la Luna cambia su tamaño físico de grande a pequeño",
-            "Porque las nubes borran pedazos de la Luna con tinta"
+            "Porque la Luna cambia su tamaño físico de grande a pequeño"
           ],
           "correct_answer": 0,
           "explanation": "A medida que la Luna se desplaza alrededor de nuestro planeta, el ángulo entre el observador, la Luna y el Sol varía, revelando más o menos zona iluminada.",
@@ -411,12 +411,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objetos empleó el papá de Nico en el patio para ilustrar las fases lunares?",
           "options": [
-            "Una pelota blanca de béisbol y una linterna",
             "Un plato de sopa y un espejo",
             "Dos velas encendidas",
+            "Una pelota blanca de béisbol y una linterna",
             "Un globo inflable de color rojo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El papá de Nico usó una pelota de béisbol como la Luna y una linterna simulando la luz del Sol.",
           "points": 10
         },
@@ -425,12 +425,12 @@
           "type": "educational_concept",
           "question": "¿Aproximadamente cuánto tiempo le toma a la Luna completar una vuelta orbital alrededor de la Tierra?",
           "options": [
-            "Aproximadamente 28 días (un mes lunar)",
-            "365 días continuos",
             "12 horas",
-            "7 días exactos"
+            "Aproximadamente 28 días (un mes lunar)",
+            "7 días exactos",
+            "365 días continuos"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El periodo orbital lunar dura cerca de 27.3 a 29.5 días para completar todas sus fases.",
           "points": 10
         }
@@ -488,12 +488,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué función cumplió la leyenda en la esquina del mapa de Mateo?",
           "options": [
-            "Explicar qué significaban los símbolos y colores utilizados",
             "Servir como adorno para colorear",
-            "Anotar el precio de la hoja de papel",
-            "Escribir una poesía"
+            "Escribir una poesía",
+            "Explicar qué significaban los símbolos y colores utilizados",
+            "Anotar el precio de la hoja de papel"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La leyenda es el diccionario del mapa que descifra cada símbolo gráfico.",
           "points": 10
         },
@@ -503,9 +503,9 @@
           "question": "Si en un mapa la escala indica que 1 centímetro equivale a 10 metros reales, ¿cuántos metros representan 5 centímetros medidos con la regla?",
           "options": [
             "50 metros",
+            "500 metros",
             "15 metros",
-            "5 metros",
-            "500 metros"
+            "5 metros"
           ],
           "correct_answer": 0,
           "explanation": "Multiplicando los 5 cm del papel por los 10 metros correspondientes a cada centímetro obtenemos 50 metros reales.",
@@ -516,12 +516,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué profesión retirada tenía el abuelo que enseñó a Mateo a utilizar escalas?",
           "options": [
-            "Topógrafo retirado",
             "Capitán de barco",
+            "Pintor de cuadros",
             "Profesor de música",
-            "Pintor de cuadros"
+            "Topógrafo retirado"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El abuelo de Mateo era topógrafo y sabía medir y plasmar terrenos con precisión matemática.",
           "points": 10
         },
@@ -530,12 +530,12 @@
           "type": "educational_concept",
           "question": "¿Qué utilidad principal tiene la escala en la elaboración de mapas geográficos?",
           "options": [
-            "Mantener proporciones reales reducidas para calcular distancias verdaderas en el terreno",
-            "Elegir el tipo de marco para colgar el mapa",
             "Hacer que los dibujos se vean más brillantes",
-            "Cambiar el idioma de los países"
+            "Mantener proporciones reales reducidas para calcular distancias verdaderas en el terreno",
+            "Cambiar el idioma de los países",
+            "Elegir el tipo de marco para colgar el mapa"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La escala establece la relación de proporción entre una distancia medida en el mapa y su distancia en el mundo real.",
           "points": 10
         }
@@ -595,8 +595,8 @@
           "options": [
             "Don Ernesto, el relojero",
             "La maestra de la escuela",
-            "El alcalde del pueblo",
-            "Un explorador desconocido"
+            "Un explorador desconocido",
+            "El alcalde del pueblo"
           ],
           "correct_answer": 0,
           "explanation": "Tomás encontró a Don Ernesto trabajando con las piezas de bronce del reloj.",
@@ -607,12 +607,12 @@
           "type": "educational_concept",
           "question": "Si una rueda con dientes gira hacia la derecha (sentido horario), ¿hacia qué lado gira la rueda conectada a ella?",
           "options": [
+            "Hacia arriba",
             "Hacia la izquierda (sentido antihorario)",
-            "Hacia la derecha en la misma dirección",
             "No se mueve",
-            "Hacia arriba"
+            "Hacia la derecha en la misma dirección"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Al encajar los dientes, el giro de una rueda empuja a la otra en sentido contrario.",
           "points": 10
         },
@@ -621,12 +621,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué elemento impulsaba el giro lento inicial de la rueda principal del reloj de la torre?",
           "options": [
-            "Una pesa metálica suspendida",
+            "El calor del sol",
             "Un motor a gasolina",
             "Una batería química",
-            "El calor del sol"
+            "Una pesa metálica suspendida"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El reloj antiguo funcionaba con la energía potencial de una pesa que descendía lentamente.",
           "points": 10
         },
@@ -635,12 +635,12 @@
           "type": "educational_concept",
           "question": "¿Qué efecto se logra cuando una rueda dentada grande hace girar a otra más pequeña?",
           "options": [
-            "La rueda pequeña gira a mayor velocidad de rotación",
+            "Se invierte la gravedad del mecanismo",
             "Ambas ruedas se detienen de inmediato",
-            "La rueda pequeña se calienta y se apaga",
-            "Se invierte la gravedad del mecanismo"
+            "La rueda pequeña gira a mayor velocidad de rotación",
+            "La rueda pequeña se calienta y se apaga"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La diferencia de diámetros y número de dientes permite multiplicar la velocidad de giro en la rueda menor.",
           "points": 10
         }
