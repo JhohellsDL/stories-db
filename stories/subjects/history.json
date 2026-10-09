@@ -66,8 +66,8 @@
           "question": "¿Qué objeto inspiró a Kael para facilitar el transporte de la carga?",
           "options": [
             "Un tronco redondo que rodaba por la colina",
-            "Una roca gigante cuadrada",
             "Un bote de remos",
+            "Una roca gigante cuadrada",
             "Una soga de cáñamo"
           ],
           "correct_answer": 0,
@@ -79,12 +79,12 @@
           "type": "educational_concept",
           "question": "¿Cuál fue el principal beneficio de la invención de la rueda para la humanidad?",
           "options": [
-            "Permitió mover grandes pesos con mucho menor esfuerzo",
             "Ayudó a que lloviera más seguido",
-            "Servía para enfriar los alimentos",
-            "Hizo que los ríos tuvieran más peces"
+            "Hizo que los ríos tuvieran más peces",
+            "Permitió mover grandes pesos con mucho menor esfuerzo",
+            "Servía para enfriar los alimentos"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La rueda transformó el arrastre en rodadura, multiplicando la capacidad de transporte humano y comercial.",
           "points": 10
         },
@@ -93,12 +93,12 @@
           "type": "reading_comprehension",
           "question": "¿A orillas de qué histórico río vivía Kael junto a su familia?",
           "options": [
-            "Río Éufrates en Mesopotamia",
-            "Río Amazonas",
             "Río Danubio",
-            "Río Misisipi"
+            "Río Éufrates en Mesopotamia",
+            "Río Misisipi",
+            "Río Amazonas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Kael habitaba en la región de Mesopotamia junto al río Éufrates.",
           "points": 10
         },
@@ -107,12 +107,12 @@
           "type": "educational_concept",
           "question": "¿Para qué se utilizaban las primeras ruedas conocidas antes de ser empleadas en carretas de transporte?",
           "options": [
-            "Para tornos de alfarería y modelado de vasijas de arcilla",
-            "Para ruedas de bicicleta",
             "Para molinos de viento modernos",
-            "Para relojes de pared"
+            "Para relojes de pared",
+            "Para ruedas de bicicleta",
+            "Para tornos de alfarería y modelado de vasijas de arcilla"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Los primeros registros arqueológicos de la rueda corresponden al torno del alfarero para moldear cerámica.",
           "points": 10
         }
@@ -170,12 +170,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué hacía el joven escriba a orillas del río Nilo?",
           "options": [
+            "Leía un periódico moderno",
             "Escribía jeroglíficos con tinta sobre un rollo de papiro",
             "Construía una barca de madera",
-            "Pintaba un cuadro al óleo",
-            "Leía un periódico moderno"
+            "Pintaba un cuadro al óleo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El escriba registraba datos y conocimientos dibujando jeroglíficos sobre papiro vegetal.",
           "points": 10
         },
@@ -184,12 +184,12 @@
           "type": "educational_concept",
           "question": "¿Por qué fue tan importante la invención de la escritura para la humanidad?",
           "options": [
-            "Porque permitió guardar y transmitir conocimientos a futuras generaciones",
             "Porque hacía que los libros pesaran más",
+            "Porque servía solo como adorno",
             "Porque reemplazó a todos los dibujos",
-            "Porque servía solo como adorno"
+            "Porque permitió guardar y transmitir conocimientos a futuras generaciones"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La escritura permitió conservar saberes científicos, historias y leyes sin depender únicamente de la memoria oral.",
           "points": 10
         },
@@ -198,12 +198,12 @@
           "type": "reading_comprehension",
           "question": "¿De qué planta ribereña del río Nilo elaboraban las láminas para escribir en el antiguo Egipto?",
           "options": [
-            "De la planta de papiro",
             "De hojas de eucalipto",
-            "De corteza de pino",
-            "De pétalos de rosa"
+            "De pétalos de rosa",
+            "De la planta de papiro",
+            "De corteza de pino"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Los antiguos egipcios extraían tiras del tallo del papiro para crear soportes de escritura resistentes.",
           "points": 10
         },
@@ -213,9 +213,9 @@
           "question": "¿Qué célebre biblioteca del mundo antiguo reunió miles de rollos y documentos de diversas culturas?",
           "options": [
             "La Biblioteca de Alejandría",
+            "La Biblioteca de Babel",
             "La Biblioteca del Congreso",
-            "La Biblioteca de Oxford",
-            "La Biblioteca de Babel"
+            "La Biblioteca de Oxford"
           ],
           "correct_answer": 0,
           "explanation": "La Biblioteca de Alejandría en Egipto fue el centro cultural más importante de la antigüedad para recopilar saberes universales.",
@@ -279,12 +279,12 @@
           "type": "reading_comprehension",
           "question": "¿De dónde provenía el agua que transportaba el acueducto romano?",
           "options": [
-            "De manantiales puros en las montañas lejanas",
-            "Del mar Mediterráneo",
             "De charcos de lluvia del valle",
+            "Del mar Mediterráneo",
+            "De manantiales puros en las montañas lejanas",
             "De pozos subterráneos dentro de la ciudad"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Los romanos captaban agua de manantiales montañosos limpios para evitar enfermedades.",
           "points": 10
         },
@@ -293,12 +293,12 @@
           "type": "educational_concept",
           "question": "¿Qué fuerza física permitía que el agua fluyera por los canales del acueducto?",
           "options": [
-            "La fuerza de gravedad aprovechada mediante una suave pendiente continua",
             "Motores a vapor instalados en los arcos",
+            "La fuerza de gravedad aprovechada mediante una suave pendiente continua",
             "Bombas eléctricas de gran potencia",
             "La presión del viento soplando por los túneles"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El diseño de los acueductos dependía de una leve inclinación calculada que hacía circular el agua por gravedad sin mecanismos activos.",
           "points": 10
         },
@@ -308,8 +308,8 @@
           "question": "¿Cuál es la ventaja arquitectónica del arco de medio punto en los acueductos?",
           "options": [
             "Distribuye el peso hacia los pilares laterales, soportando grandes cargas",
-            "Hace que el agua cambie de sabor a dulce",
             "Impide que los pájaros aniden en la piedra",
+            "Hace que el agua cambie de sabor a dulce",
             "Permite calentar el canal durante el invierno"
           ],
           "correct_answer": 0,
@@ -321,12 +321,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué instrumento utilizó Marco para verificar la inclinación y nivelación de la obra?",
           "options": [
-            "Una regla de madera con nivel de agua de plomo",
+            "Una calculadora solar",
             "Un reloj digital",
             "Una brújula marina",
-            "Una calculadora solar"
+            "Una regla de madera con nivel de agua de plomo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Marco utilizó una regla con nivel hidráulico de plomo para asegurar la pendiente precisa del canal.",
           "points": 10
         }

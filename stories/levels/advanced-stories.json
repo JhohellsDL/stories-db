@@ -59,12 +59,12 @@
           "type": "reading_comprehension",
           "question": "¿De dónde provenía el agua que transportaba el acueducto romano?",
           "options": [
-            "De manantiales puros en las montañas lejanas",
-            "Del mar Mediterráneo",
             "De charcos de lluvia del valle",
+            "Del mar Mediterráneo",
+            "De manantiales puros en las montañas lejanas",
             "De pozos subterráneos dentro de la ciudad"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Los romanos captaban agua de manantiales montañosos limpios para evitar enfermedades.",
           "points": 10
         },
@@ -73,12 +73,12 @@
           "type": "educational_concept",
           "question": "¿Qué fuerza física permitía que el agua fluyera por los canales del acueducto?",
           "options": [
-            "La fuerza de gravedad aprovechada mediante una suave pendiente continua",
             "Motores a vapor instalados en los arcos",
+            "La fuerza de gravedad aprovechada mediante una suave pendiente continua",
             "Bombas eléctricas de gran potencia",
             "La presión del viento soplando por los túneles"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El diseño de los acueductos dependía de una leve inclinación calculada que hacía circular el agua por gravedad sin mecanismos activos.",
           "points": 10
         },
@@ -88,8 +88,8 @@
           "question": "¿Cuál es la ventaja arquitectónica del arco de medio punto en los acueductos?",
           "options": [
             "Distribuye el peso hacia los pilares laterales, soportando grandes cargas",
-            "Hace que el agua cambie de sabor a dulce",
             "Impide que los pájaros aniden en la piedra",
+            "Hace que el agua cambie de sabor a dulce",
             "Permite calentar el canal durante el invierno"
           ],
           "correct_answer": 0,
@@ -101,12 +101,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué instrumento utilizó Marco para verificar la inclinación y nivelación de la obra?",
           "options": [
-            "Una regla de madera con nivel de agua de plomo",
+            "Una calculadora solar",
             "Un reloj digital",
             "Una brújula marina",
-            "Una calculadora solar"
+            "Una regla de madera con nivel de agua de plomo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Marco utilizó una regla con nivel hidráulico de plomo para asegurar la pendiente precisa del canal.",
           "points": 10
         }
@@ -168,12 +168,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto utilizó Sofía para descomponer la luz blanca del sol en colores?",
           "options": [
-            "Un prisma triangular de cristal",
+            "Una lámina de metal pulido",
             "Un espejo plano común",
             "Un filtro de tela roja",
-            "Una lámina de metal pulido"
+            "Un prisma triangular de cristal"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El prisma óptico de cristal separa los distintos colores de la luz blanca mediante dispersión cromática.",
           "points": 10
         },
@@ -182,12 +182,12 @@
           "type": "educational_concept",
           "question": "¿Qué demuestra que la luz blanca se separe en colores al pasar por un prisma?",
           "options": [
+            "Que los colores solo existen dentro del vidrio",
             "Que la luz blanca es la mezcla de todos los colores del espectro visible",
             "Que el vidrio tiñe la luz con tintas invisibles",
-            "Que la luz pierde toda su energía en el cristal",
-            "Que los colores solo existen dentro del vidrio"
+            "Que la luz pierde toda su energía en el cristal"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La luz blanca está formada por la superposición de todas las longitudes de onda del espectro de colores visible.",
           "points": 10
         },
@@ -197,9 +197,9 @@
           "question": "¿Qué elemento de la naturaleza actúa como pequeños prismas para formar los arcoíris en el cielo?",
           "options": [
             "Las gotas suspendidas de lluvia",
+            "El humo de las fogatas",
             "Las hojas secas de los árboles",
-            "Los granos de arena del viento",
-            "El humo de las fogatas"
+            "Los granos de arena del viento"
           ],
           "correct_answer": 0,
           "explanation": "Las gotas de agua refractan y reflejan la luz solar dispersándola en sus colores componentes en el cielo.",
@@ -210,12 +210,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué célebre científico comprobó en 1666 que la luz blanca del Sol contiene todos los colores del arcoíris?",
           "options": [
-            "Isaac Newton",
-            "Albert Einstein",
             "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton",
             "Nikola Tesla"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Isaac Newton demostró experimentalmente la naturaleza compuesta de la luz blanca utilizando prismas de vidrio.",
           "points": 10
         }
@@ -273,12 +273,12 @@
           "type": "reading_comprehension",
           "question": "¿Dónde se encontraba la tripulación realizando sus investigaciones?",
           "options": [
-            "En la estación orbital Kepler-9 en el espacio",
-            "En un submarino en el fondo marino",
+            "En un observatorio en la cima de una montaña",
             "En una base subterránea",
-            "En un observatorio en la cima de una montaña"
+            "En la estación orbital Kepler-9 en el espacio",
+            "En un submarino en el fondo marino"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Izan y la comandante Lira estaban a bordo de la estación orbital Kepler-9.",
           "points": 10
         },
@@ -287,12 +287,12 @@
           "type": "educational_concept",
           "question": "¿Por qué los telescopios espaciales obtienen imágenes más nítidas que los de la superficie terrestre?",
           "options": [
-            "Porque están fuera de la atmósfera y la luz no se distorsiona con el aire",
             "Porque usan lentes de mayor tamaño que no caben en la Tierra",
             "Porque las estrellas están más cerca de día",
-            "Porque en el espacio no existe la luz solar"
+            "Porque en el espacio no existe la luz solar",
+            "Porque están fuera de la atmósfera y la luz no se distorsiona con el aire"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La atmósfera terrestre contiene gases y polvo en movimiento que distorsionan la luz estelar; en el espacio la luz llega pura.",
           "points": 10
         },
@@ -301,12 +301,12 @@
           "type": "reading_comprehension",
           "question": "¿Quién era la comandante que acompañaba y guiaba a Izan en la estación?",
           "options": [
+            "La capitana Elena",
             "La comandante Lira",
             "La profesora Clara",
-            "La capitana Elena",
             "La doctora Valeria"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La comandante Lira le explicaba a Izan las ventajas astronómicas del vacío espacial.",
           "points": 10
         },
@@ -316,9 +316,9 @@
           "question": "¿Qué fenómeno permite a una nave o estación mantenerse en órbita continua alrededor de un planeta?",
           "options": [
             "El balance entre la fuerza gravitatoria y la velocidad horizontal de desplazamiento",
-            "La propulsión de cohetes encendidos todo el tiempo",
             "La atracción de la Luna tirando hacia arriba",
-            "Globos aerostáticos invisibles"
+            "Globos aerostáticos invisibles",
+            "La propulsión de cohetes encendidos todo el tiempo"
           ],
           "correct_answer": 0,
           "explanation": "Estar en órbita significa caer constantemente hacia el planeta con una velocidad tangencial suficiente para no chocar nunca con su superficie.",
@@ -382,12 +382,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar se encontraba Elena cuando le preguntó a su madre cómo se orientaban?",
           "options": [
-            "En el puente de mando de un barco en medio del océano",
-            "En la estación de tren de la ciudad",
+            "En una tienda de campana en el bosque",
             "En la cabina de un avión comercial",
-            "En una tienda de campana en el bosque"
+            "En el puente de mando de un barco en medio del océano",
+            "En la estación de tren de la ciudad"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Elena navegaba en altamar a bordo de un buque oceanográfico.",
           "points": 10
         },
@@ -396,12 +396,12 @@
           "type": "educational_concept",
           "question": "¿Qué línea imaginaria divide a la Tierra en el hemisferio Norte y el hemisferio Sur?",
           "options": [
-            "La línea del Ecuador",
             "El meridiano de Greenwich",
+            "El Círculo Polar Ártico",
             "El Trópico de Cáncer",
-            "El Círculo Polar Ártico"
+            "La línea del Ecuador"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El Ecuador es el paralelo 0° que corta horizontalmente la Tierra en los hemisferios Norte y Sur.",
           "points": 10
         },
@@ -410,12 +410,12 @@
           "type": "educational_concept",
           "question": "¿Para qué sirve el cruce exacto de una línea de latitud con una de longitud?",
           "options": [
-            "Para determinar unas coordenadas únicas y localizar cualquier punto en el planeta",
             "Para medir la profundidad del fondo del mar",
+            "Para determinar unas coordenadas únicas y localizar cualquier punto en el planeta",
             "Para predecir el color de los peces",
             "Para saber cuánta gasolina le queda al motor"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La intersección de latitud y longitud establece la posición geográfica precisa en el sistema de coordenadas.",
           "points": 10
         },
@@ -491,12 +491,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué no encendía la bombilla del faro al principio del cuento?",
           "options": [
-            "Porque un cable estaba suelto y el circuito estaba abierto",
-            "Porque la pila estaba congelada",
             "Porque el foco estaba lleno de agua",
-            "Porque el cartón del faro era muy pesado"
+            "Porque el cartón del faro era muy pesado",
+            "Porque la pila estaba congelada",
+            "Porque un cable estaba suelto y el circuito estaba abierto"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El circuito estaba incompleto (abierto), lo que impedía el flujo continuo de corriente eléctrica.",
           "points": 10
         },
@@ -505,12 +505,12 @@
           "type": "educational_concept",
           "question": "¿Qué condición indispensable debe cumplirse para que la corriente eléctrica fluya por un circuito?",
           "options": [
-            "El circuito debe estar completamente cerrado con materiales conductores sin interrupciones",
-            "Los cables deben ser de madera seca",
             "La pila debe estar colocada al revés",
-            "El circuito debe sumergirse en aceite caliente"
+            "El circuito debe sumergirse en aceite caliente",
+            "El circuito debe estar completamente cerrado con materiales conductores sin interrupciones",
+            "Los cables deben ser de madera seca"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La electricidad solo se desplaza cuando existe una trayectoria cerrada y conductora entre los polos de la fuente de energía.",
           "points": 10
         },
@@ -520,9 +520,9 @@
           "question": "¿Cuál es la función que cumple un interruptor en una instalación eléctrica?",
           "options": [
             "Abrir o cerrar el camino de la corriente para encender o apagar un aparato",
+            "Evaporar el agua de la batería",
             "Aumentar el tamaño de la bombilla",
-            "Cambiar el color de los cables",
-            "Evaporar el agua de la batería"
+            "Cambiar el color de los cables"
           ],
           "correct_answer": 0,
           "explanation": "El interruptor corta o restablece la continuidad física del circuito según se accione.",
@@ -533,12 +533,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto metálico cotidiano utilizó Camila para fabricar su interruptor casero?",
           "options": [
+            "Un trozo de hilo de algodón",
             "Un clip sujetapapeles metálico",
             "Una cuchara de plástico",
-            "Un trozo de hilo de algodón",
             "Una moneda de cartón"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Camila utilizó un clip metálico como puente conductor móvil sobre una tachuela.",
           "points": 10
         }

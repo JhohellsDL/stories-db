@@ -78,9 +78,9 @@
           "question": "¿Qué instrumento llevó Adrián para experimentar en el laberinto?",
           "options": [
             "Una linterna de enfoque regulable",
+            "Una vela de cera",
             "Un espejo mágico",
-            "Una cámara de fotos",
-            "Una vela de cera"
+            "Una cámara de fotos"
           ],
           "correct_answer": 0,
           "explanation": "Adrián llevó una linterna de enfoque regulable para proyectar haces de luz controlados en los muros de piedra.",
@@ -91,12 +91,12 @@
           "type": "educational_concept",
           "question": "¿Por qué las sombras son mucho más largas al atardecer que al mediodía?",
           "options": [
-            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo",
-            "Porque la luz viaja más despacio en la tarde",
             "Porque el aire se enfría",
-            "Porque los objetos crecen de tamaño"
+            "Porque los objetos crecen de tamaño",
+            "Porque la luz viaja más despacio en la tarde",
+            "Porque los rayos del Sol llegan con una inclinación muy baja respecto al suelo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Al atardecer, el sol está bajo en el horizonte, lo que proyecta rayos inclinados que alargan la sombra detrás de los objetos opacos.",
           "points": 10
         },
@@ -105,12 +105,12 @@
           "type": "educational_concept",
           "question": "¿Qué sucede con el tamaño de la sombra proyectada en la pared cuando Adrián acerca su mano hacia la linterna?",
           "options": [
-            "La sombra aumenta de tamaño en la pared",
-            "La sombra disminuye de tamaño en la pared",
+            "La sombra cambia de color a rojo",
             "La sombra desaparece de inmediato",
-            "La sombra cambia de color a rojo"
+            "La sombra aumenta de tamaño en la pared",
+            "La sombra disminuye de tamaño en la pared"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Al acercar el objeto a la fuente de luz, se intercepta un cono mayor de rayos luminosos, proyectando una silueta más grande en la pared.",
           "points": 10
         },
@@ -119,12 +119,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se llama la región central de oscuridad total donde un cuerpo opaco bloquea por completo la fuente de luz?",
           "options": [
-            "Umbra",
             "Penumbra",
-            "Refracción",
-            "Foco difuso"
+            "Umbra",
+            "Foco difuso",
+            "Refracción"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La umbra es la zona de sombra completa donde no penetra ningún rayo directo de la fuente luminosa.",
           "points": 10
         }
@@ -182,12 +182,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto utilizó Valeria para llevar la luz del sol hasta el rincón oscuro?",
           "options": [
-            "Un espejo de mano",
-            "Un pedazo de cartón",
+            "Una bufanda de lana",
             "Una lupa de aumento",
-            "Una bufanda de lana"
+            "Un pedazo de cartón",
+            "Un espejo de mano"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Valeria usó un espejo de mano para hacer rebotar la luz del sol en la dirección deseada.",
           "points": 10
         },
@@ -196,12 +196,12 @@
           "type": "educational_concept",
           "question": "¿Cómo se llama el fenómeno por el cual la luz rebota al chocar contra una superficie pulida?",
           "options": [
+            "Evaporación",
             "Reflexión",
             "Combustión",
-            "Erosión",
-            "Evaporación"
+            "Erosión"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La reflexión es el cambio de dirección que experimenta un rayo de luz al chocar con una superficie reflectante.",
           "points": 10
         },
@@ -210,12 +210,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué rincón de su habitación quería iluminar Valeria al comienzo de la historia?",
           "options": [
-            "La casita de muñecas en la esquina oscura",
-            "El fondo del armario de ropa",
+            "El techo del pasillo",
             "Debajo de su cama",
-            "El techo del pasillo"
+            "La casita de muñecas en la esquina oscura",
+            "El fondo del armario de ropa"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Valeria deseaba llevar la luz solar hacia la casita de juguetes que estaba en una esquina sin iluminación.",
           "points": 10
         },
@@ -225,9 +225,9 @@
           "question": "¿Qué ley óptica describe el comportamiento de la luz cuando rebota en un espejo plano?",
           "options": [
             "El ángulo de incidencia es igual al ángulo de reflexión",
-            "La luz siempre se vuelve de color azul",
             "Los rayos se doblan en espiral",
-            "La velocidad de la luz se reduce a cero"
+            "La velocidad de la luz se reduce a cero",
+            "La luz siempre se vuelve de color azul"
           ],
           "correct_answer": 0,
           "explanation": "En la reflexión especular, el ángulo de entrada del haz luminoso coincide exactamente con el ángulo de rebote.",
@@ -287,12 +287,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué parecía que el lápiz estaba roto cuando estaba dentro del vaso?",
           "options": [
-            "Porque los rayos de luz se desviaron al pasar del agua al aire",
-            "Porque el agua disolvió la madera del lápiz",
+            "Porque la tinta del lápiz reaccionó con el agua",
             "Porque el vaso de vidrio estaba agrietado",
-            "Porque la tinta del lápiz reaccionó con el agua"
+            "Porque el agua disolvió la madera del lápiz",
+            "Porque los rayos de luz se desviaron al pasar del agua al aire"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La refracción desvía los rayos de luz que salen del agua hacia nuestros ojos, creando la ilusión óptica de que el objeto está quebrado.",
           "points": 10
         },
@@ -303,8 +303,8 @@
           "options": [
             "Disminuye su velocidad porque el agua es más densa que el aire",
             "Aumenta su velocidad al doble",
-            "La luz se detiene por completo y se apaga",
-            "Se transforma de inmediato en sonido"
+            "Se transforma de inmediato en sonido",
+            "La luz se detiene por completo y se apaga"
           ],
           "correct_answer": 0,
           "explanation": "En medios más densos como el agua o el vidrio, la luz viaja más despacio que en el aire o en el vacío.",
@@ -315,12 +315,12 @@
           "type": "reading_comprehension",
           "question": "¿Quién le explicó a Leo la causa científica detrás de la ilusión óptica del lápiz?",
           "options": [
-            "La profesora Clara",
-            "Un mago del circo",
+            "El chofer del autobús",
             "Su compañero Tomás",
-            "El chofer del autobús"
+            "La profesora Clara",
+            "Un mago del circo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La profesora Clara le explicó que el fenómeno correspondía a la refracción de la luz al cruzar medios distintos.",
           "points": 10
         },
@@ -329,12 +329,12 @@
           "type": "educational_concept",
           "question": "¿Qué instrumento óptico aprovecha la refracción de la luz a través de lentes curvas para mejorar la visión humana?",
           "options": [
-            "Los anteojos y gafas graduadas",
             "Los espejos planos de tocador",
-            "Las linternas de mano",
-            "Las pantallas de televisión"
+            "Los anteojos y gafas graduadas",
+            "Las pantallas de televisión",
+            "Las linternas de mano"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Las lentes refractan los rayos luminosos curvándolos para enfocar las imágenes nítidamente en la retina.",
           "points": 10
         }
@@ -396,12 +396,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto utilizó Sofía para descomponer la luz blanca del sol en colores?",
           "options": [
-            "Un prisma triangular de cristal",
+            "Una lámina de metal pulido",
             "Un espejo plano común",
             "Un filtro de tela roja",
-            "Una lámina de metal pulido"
+            "Un prisma triangular de cristal"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El prisma óptico de cristal separa los distintos colores de la luz blanca mediante dispersión cromática.",
           "points": 10
         },
@@ -410,12 +410,12 @@
           "type": "educational_concept",
           "question": "¿Qué demuestra que la luz blanca se separe en colores al pasar por un prisma?",
           "options": [
+            "Que los colores solo existen dentro del vidrio",
             "Que la luz blanca es la mezcla de todos los colores del espectro visible",
             "Que el vidrio tiñe la luz con tintas invisibles",
-            "Que la luz pierde toda su energía en el cristal",
-            "Que los colores solo existen dentro del vidrio"
+            "Que la luz pierde toda su energía en el cristal"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La luz blanca está formada por la superposición de todas las longitudes de onda del espectro de colores visible.",
           "points": 10
         },
@@ -425,9 +425,9 @@
           "question": "¿Qué elemento de la naturaleza actúa como pequeños prismas para formar los arcoíris en el cielo?",
           "options": [
             "Las gotas suspendidas de lluvia",
+            "El humo de las fogatas",
             "Las hojas secas de los árboles",
-            "Los granos de arena del viento",
-            "El humo de las fogatas"
+            "Los granos de arena del viento"
           ],
           "correct_answer": 0,
           "explanation": "Las gotas de agua refractan y reflejan la luz solar dispersándola en sus colores componentes en el cielo.",
@@ -438,12 +438,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué célebre científico comprobó en 1666 que la luz blanca del Sol contiene todos los colores del arcoíris?",
           "options": [
-            "Isaac Newton",
-            "Albert Einstein",
             "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton",
             "Nikola Tesla"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Isaac Newton demostró experimentalmente la naturaleza compuesta de la luz blanca utilizando prismas de vidrio.",
           "points": 10
         }

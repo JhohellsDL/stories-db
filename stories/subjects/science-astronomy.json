@@ -65,12 +65,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objeto representaba a la Tierra en el experimento de Sara?",
           "options": [
+            "Un libro de cuentos",
             "Una naranja atravesada con un palito",
             "La lámpara de mesa",
-            "Un libro de cuentos",
             "Una pelota de cristal"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "Sara usó la naranja con un palito como eje para mostrar el giro de nuestro planeta.",
           "points": 10
         },
@@ -79,12 +79,12 @@
           "type": "educational_concept",
           "question": "¿Por qué se producen el día y la noche en la Tierra?",
           "options": [
-            "Porque la Tierra gira sobre su eje (rotación), exponiendo una mitad a la luz y la otra a la sombra",
-            "Porque el Sol se apaga y se vuelve a encender cada doce horas",
             "Porque las nubes tapan todo el cielo al caer la tarde",
-            "Porque la Luna absorbe toda la luz del Sol"
+            "Porque la Luna absorbe toda la luz del Sol",
+            "Porque la Tierra gira sobre su eje (rotación), exponiendo una mitad a la luz y la otra a la sombra",
+            "Porque el Sol se apaga y se vuelve a encender cada doce horas"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El movimiento de rotación expone alternadamente cada hemisferio a la radiación solar.",
           "points": 10
         },
@@ -93,12 +93,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué elemento pegó Sara en la naranja para simular el lugar donde vivía Martín?",
           "options": [
-            "Una pequeña calcomanía azul",
-            "Una moneda dorada",
+            "Una tachuela plateada",
             "Un botón negro",
-            "Una tachuela plateada"
+            "Una moneda dorada",
+            "Una pequeña calcomanía azul"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "Sara pegó una calcomanía azul en el costado de la naranja para seguir su posición con la luz.",
           "points": 10
         },
@@ -109,8 +109,8 @@
           "options": [
             "24 horas (un día terrestre)",
             "365 días (un año)",
-            "12 horas justas",
-            "30 días (un mes)"
+            "30 días (un mes)",
+            "12 horas justas"
           ],
           "correct_answer": 0,
           "explanation": "La rotación completa del planeta dura 24 horas, definiendo el ciclo de un día y una noche.",
@@ -170,12 +170,12 @@
           "type": "reading_comprehension",
           "question": "¿De dónde proviene el brillo que vemos en la Luna durante la noche?",
           "options": [
-            "De la luz del Sol que se refleja en su superficie rocosa",
-            "De miles de volcanes encendidos en su interior",
+            "Del calor de las estrellas lejanas",
             "De una bombilla instalada por los astronautas",
-            "Del calor de las estrellas lejanas"
+            "De miles de volcanes encendidos en su interior",
+            "De la luz del Sol que se refleja en su superficie rocosa"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La Luna es un cuerpo opaco que actúa como un gigantesco reflector de la radiación solar.",
           "points": 10
         },
@@ -185,9 +185,9 @@
           "question": "¿Por qué observamos diferentes fases lunares a lo largo del mes?",
           "options": [
             "Porque la Luna orbita la Tierra y vemos distintas porciones de su cara iluminada",
+            "Porque las nubes borran pedazos de la Luna con tinta",
             "Porque la Tierra tapa al Sol todas las noches",
-            "Porque la Luna cambia su tamaño físico de grande a pequeño",
-            "Porque las nubes borran pedazos de la Luna con tinta"
+            "Porque la Luna cambia su tamaño físico de grande a pequeño"
           ],
           "correct_answer": 0,
           "explanation": "A medida que la Luna se desplaza alrededor de nuestro planeta, el ángulo entre el observador, la Luna y el Sol varía, revelando más o menos zona iluminada.",
@@ -198,12 +198,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué objetos empleó el papá de Nico en el patio para ilustrar las fases lunares?",
           "options": [
-            "Una pelota blanca de béisbol y una linterna",
             "Un plato de sopa y un espejo",
             "Dos velas encendidas",
+            "Una pelota blanca de béisbol y una linterna",
             "Un globo inflable de color rojo"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El papá de Nico usó una pelota de béisbol como la Luna y una linterna simulando la luz del Sol.",
           "points": 10
         },
@@ -212,12 +212,12 @@
           "type": "educational_concept",
           "question": "¿Aproximadamente cuánto tiempo le toma a la Luna completar una vuelta orbital alrededor de la Tierra?",
           "options": [
-            "Aproximadamente 28 días (un mes lunar)",
-            "365 días continuos",
             "12 horas",
-            "7 días exactos"
+            "Aproximadamente 28 días (un mes lunar)",
+            "7 días exactos",
+            "365 días continuos"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "El periodo orbital lunar dura cerca de 27.3 a 29.5 días para completar todas sus fases.",
           "points": 10
         }
@@ -275,12 +275,12 @@
           "type": "reading_comprehension",
           "question": "¿Dónde se encontraba la tripulación realizando sus investigaciones?",
           "options": [
-            "En la estación orbital Kepler-9 en el espacio",
-            "En un submarino en el fondo marino",
+            "En un observatorio en la cima de una montaña",
             "En una base subterránea",
-            "En un observatorio en la cima de una montaña"
+            "En la estación orbital Kepler-9 en el espacio",
+            "En un submarino en el fondo marino"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Izan y la comandante Lira estaban a bordo de la estación orbital Kepler-9.",
           "points": 10
         },
@@ -289,12 +289,12 @@
           "type": "educational_concept",
           "question": "¿Por qué los telescopios espaciales obtienen imágenes más nítidas que los de la superficie terrestre?",
           "options": [
-            "Porque están fuera de la atmósfera y la luz no se distorsiona con el aire",
             "Porque usan lentes de mayor tamaño que no caben en la Tierra",
             "Porque las estrellas están más cerca de día",
-            "Porque en el espacio no existe la luz solar"
+            "Porque en el espacio no existe la luz solar",
+            "Porque están fuera de la atmósfera y la luz no se distorsiona con el aire"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La atmósfera terrestre contiene gases y polvo en movimiento que distorsionan la luz estelar; en el espacio la luz llega pura.",
           "points": 10
         },
@@ -303,12 +303,12 @@
           "type": "reading_comprehension",
           "question": "¿Quién era la comandante que acompañaba y guiaba a Izan en la estación?",
           "options": [
+            "La capitana Elena",
             "La comandante Lira",
             "La profesora Clara",
-            "La capitana Elena",
             "La doctora Valeria"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La comandante Lira le explicaba a Izan las ventajas astronómicas del vacío espacial.",
           "points": 10
         },
@@ -318,9 +318,9 @@
           "question": "¿Qué fenómeno permite a una nave o estación mantenerse en órbita continua alrededor de un planeta?",
           "options": [
             "El balance entre la fuerza gravitatoria y la velocidad horizontal de desplazamiento",
-            "La propulsión de cohetes encendidos todo el tiempo",
             "La atracción de la Luna tirando hacia arriba",
-            "Globos aerostáticos invisibles"
+            "Globos aerostáticos invisibles",
+            "La propulsión de cohetes encendidos todo el tiempo"
           ],
           "correct_answer": 0,
           "explanation": "Estar en órbita significa caer constantemente hacia el planeta con una velocidad tangencial suficiente para no chocar nunca con su superficie.",

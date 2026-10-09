@@ -66,9 +66,9 @@
           "question": "¿Qué objeto antiguo encontró Luna en la cima de la colina?",
           "options": [
             "Una brújula de bronce y un mapa",
-            "Un libro de cuentos",
+            "Un catalejo",
             "Un reloj de arena",
-            "Un catalejo"
+            "Un libro de cuentos"
           ],
           "correct_answer": 0,
           "explanation": "Luna encontró una caja de madera que resguardaba una brújula y un mapa antiguo.",
@@ -79,12 +79,12 @@
           "type": "educational_concept",
           "question": "¿Hacia qué dirección apunta siempre la aguja magnética de una brújula?",
           "options": [
-            "Hacia el Norte",
-            "Hacia donde sopla el viento",
             "Hacia el Oeste",
-            "Hacia el punto más alto de una montaña"
+            "Hacia el punto más alto de una montaña",
+            "Hacia donde sopla el viento",
+            "Hacia el Norte"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "La aguja magnética de la brújula se alinea con el campo magnético terrestre y apunta siempre al Norte.",
           "points": 10
         },
@@ -93,12 +93,12 @@
           "type": "reading_comprehension",
           "question": "¿Por qué punto cardinal vio Luna ocultarse el Sol al caer el atardecer?",
           "options": [
-            "Por el Oeste",
-            "Por el Norte",
+            "Por el Este",
             "Por el Sur",
-            "Por el Este"
+            "Por el Oeste",
+            "Por el Norte"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "El Sol siempre se oculta en el horizonte por el punto cardinal Oeste.",
           "points": 10
         },
@@ -107,12 +107,12 @@
           "type": "educational_concept",
           "question": "¿Por qué razón física la Tierra actúa como un gigantesco imán natural?",
           "options": [
+            "Por la atracción gravitatoria de la Luna",
             "Por los metales líquidos en movimiento dentro de su núcleo interno",
             "Por el agua salada de los océanos",
-            "Por el calor de los volcanes de la superficie",
-            "Por la atracción gravitatoria de la Luna"
+            "Por el calor de los volcanes de la superficie"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La rotación de minerales y hierro fundido en el núcleo terrestre genera el campo magnético del planeta.",
           "points": 10
         }
@@ -170,12 +170,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué función cumplió la leyenda en la esquina del mapa de Mateo?",
           "options": [
-            "Explicar qué significaban los símbolos y colores utilizados",
             "Servir como adorno para colorear",
-            "Anotar el precio de la hoja de papel",
-            "Escribir una poesía"
+            "Escribir una poesía",
+            "Explicar qué significaban los símbolos y colores utilizados",
+            "Anotar el precio de la hoja de papel"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "La leyenda es el diccionario del mapa que descifra cada símbolo gráfico.",
           "points": 10
         },
@@ -185,9 +185,9 @@
           "question": "Si en un mapa la escala indica que 1 centímetro equivale a 10 metros reales, ¿cuántos metros representan 5 centímetros medidos con la regla?",
           "options": [
             "50 metros",
+            "500 metros",
             "15 metros",
-            "5 metros",
-            "500 metros"
+            "5 metros"
           ],
           "correct_answer": 0,
           "explanation": "Multiplicando los 5 cm del papel por los 10 metros correspondientes a cada centímetro obtenemos 50 metros reales.",
@@ -198,12 +198,12 @@
           "type": "reading_comprehension",
           "question": "¿Qué profesión retirada tenía el abuelo que enseñó a Mateo a utilizar escalas?",
           "options": [
-            "Topógrafo retirado",
             "Capitán de barco",
+            "Pintor de cuadros",
             "Profesor de música",
-            "Pintor de cuadros"
+            "Topógrafo retirado"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El abuelo de Mateo era topógrafo y sabía medir y plasmar terrenos con precisión matemática.",
           "points": 10
         },
@@ -212,12 +212,12 @@
           "type": "educational_concept",
           "question": "¿Qué utilidad principal tiene la escala en la elaboración de mapas geográficos?",
           "options": [
-            "Mantener proporciones reales reducidas para calcular distancias verdaderas en el terreno",
-            "Elegir el tipo de marco para colgar el mapa",
             "Hacer que los dibujos se vean más brillantes",
-            "Cambiar el idioma de los países"
+            "Mantener proporciones reales reducidas para calcular distancias verdaderas en el terreno",
+            "Cambiar el idioma de los países",
+            "Elegir el tipo de marco para colgar el mapa"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La escala establece la relación de proporción entre una distancia medida en el mapa y su distancia en el mundo real.",
           "points": 10
         }
@@ -279,12 +279,12 @@
           "type": "reading_comprehension",
           "question": "¿En qué lugar se encontraba Elena cuando le preguntó a su madre cómo se orientaban?",
           "options": [
-            "En el puente de mando de un barco en medio del océano",
-            "En la estación de tren de la ciudad",
+            "En una tienda de campana en el bosque",
             "En la cabina de un avión comercial",
-            "En una tienda de campana en el bosque"
+            "En el puente de mando de un barco en medio del océano",
+            "En la estación de tren de la ciudad"
           ],
-          "correct_answer": 0,
+          "correct_answer": 2,
           "explanation": "Elena navegaba en altamar a bordo de un buque oceanográfico.",
           "points": 10
         },
@@ -293,12 +293,12 @@
           "type": "educational_concept",
           "question": "¿Qué línea imaginaria divide a la Tierra en el hemisferio Norte y el hemisferio Sur?",
           "options": [
-            "La línea del Ecuador",
             "El meridiano de Greenwich",
+            "El Círculo Polar Ártico",
             "El Trópico de Cáncer",
-            "El Círculo Polar Ártico"
+            "La línea del Ecuador"
           ],
-          "correct_answer": 0,
+          "correct_answer": 3,
           "explanation": "El Ecuador es el paralelo 0° que corta horizontalmente la Tierra en los hemisferios Norte y Sur.",
           "points": 10
         },
@@ -307,12 +307,12 @@
           "type": "educational_concept",
           "question": "¿Para qué sirve el cruce exacto de una línea de latitud con una de longitud?",
           "options": [
-            "Para determinar unas coordenadas únicas y localizar cualquier punto en el planeta",
             "Para medir la profundidad del fondo del mar",
+            "Para determinar unas coordenadas únicas y localizar cualquier punto en el planeta",
             "Para predecir el color de los peces",
             "Para saber cuánta gasolina le queda al motor"
           ],
-          "correct_answer": 0,
+          "correct_answer": 1,
           "explanation": "La intersección de latitud y longitud establece la posición geográfica precisa en el sistema de coordenadas.",
           "points": 10
         },
